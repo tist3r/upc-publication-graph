@@ -1,0 +1,48 @@
+:auto LOAD CSV WITH HEADERS FROM
+'file:///inproceedings_preprocessed.csv' AS line
+
+FIELDTERMINATOR ','
+call{
+    with line
+    Merge (paper:Paper {paper_key: line.`key:string`})
+    set paper.title = coalesce(paper.title, line.`title:string`)
+
+    with line, paper
+    Merge (ce:ConferenceEdition {conference_edition_key: line.`crossref:string[]`})
+    Set ce.year_held = coalesce(ce.year_held, line.year)
+
+    with line, ce,paper
+    merge (c:Conference {conference_name:line.`booktitle:string`})
+    merge (c)-[:HOLDS]->(ce)
+
+    WITH line, SPLIT(line.keywords, '|') as keywords,paper
+    Unwind keywords as kw
+    MERGE (keyword:Keyword {keyword:kw})
+    
+    with line, keyword,paper
+    MERGE (paper)-[:MAIN_TOPIC]->(keyword)
+
+    WITH line, SPLIT(line.`author:string[]`, '|') as authors, paper
+    unwind authors as a
+    MERGE (author:Researcher {name:a})
+    Merge (author)-[:AUTHOR_OF]->(paper)
+
+
+
+}in transactions
+
+:auto LOAD CSV WITH HEADERS FROM
+'file:///inproceedings_preprocessed.csv' AS line
+
+FIELDTERMINATOR ','
+call{
+    with line
+    match (ce:ConferenceEdition {conference_edition_key: line.`crossref:string[]`}),(paper:Paper {paper_key: line.`key:string`})
+    merge (paper)-[pi:PUBLISHED_IN]-(ce)
+    set pi.pages = coalesce (pi.pages,line.`pages:string[]` )
+
+    with line, paper
+    Match (r:Researcher {name:line.corresponding_author})
+    Merge (r)-[authorof:AUTHOR_OF]->(paper)
+    Set authorof.corresponding_author = true
+}in transactions

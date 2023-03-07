@@ -1,0 +1,21 @@
+:auto LOAD CSV WITH HEADERS FROM
+'file:///proceedings_preprocessed.csv' AS line
+
+FIELDTERMINATOR ','
+
+call{
+    with line
+    MERGE(ce:ConferenceEdition {conference_edition_key: line.`key:string`})
+
+    ON CREATE
+        SET ce.year_published = line.`year:int`,
+            ce.edition = line.edition,
+            ce.title = line.`title:string`
+
+
+}in transactions   
+
+
+SET ce.year_published = coalesce(ce.year_published, line.`year:int`),
+        ce.edition = coalesce(ce.edition, line.edition),
+        ce.title = coalesce(ce.title, line.`title:string`)

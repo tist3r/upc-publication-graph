@@ -1,0 +1,62 @@
+//Publications of a journal
+Match (p:Paper)-[:PUBLISHED_IN]->(v:Volume)<-[:ISSUES]-(j:Journal)
+Merge (p)<-[pub:JOURNAL_PUBLICATION]-(j)
+Set pub.year = v.year
+
+
+//Citation Count Aid
+Match (v1:Volume)<-[:PUBLISHED_IN]-(p1:Paper)-[:CITES]->(p2:Paper)-[:PUBLISHED_IN]->(:Volume)<-[:ISSUES]-(j:Journal)
+Merge (p1)-[cit:JOURNAL_CITATION]->(j)
+Set cit.year = v1.year
+
+
+//chairs and editors
+  :auto Load csv with headers from
+    'file:///editors.csv' AS line
+
+    FIELDTERMINATOR ','
+
+    call{
+with line
+Match(j:Journal {journal_name: line.`journal:string`}), (r:Researcher {name: line.author_list})
+Merge (r)-[:EDITOR]-(j)
+
+}in transactions
+
+//chairs and editors
+  :auto Load csv with headers from
+    'file:///conference_chairs.csv' AS line
+
+    FIELDTERMINATOR ','
+
+    call{
+with line
+Match(ce:ConferenceEdition {conference_edition_key: line.`crossref:string[]`}), (r:Researcher {name: line.author_list})
+Merge (r)-[:CHAIRPERSON]-(ce)
+
+}in transactions
+
+
+//abstract same as title for now
+Match(n:Paper)
+Set n.abstract = n.title
+
+
+//reviewers
+  :auto Load csv with headers from
+    'file:///reviewers.csv' AS line
+
+    FIELDTERMINATOR ','
+
+    call{
+      with line
+      Match (p:Paper {paper_key: line.`key:string`})<-[:JOURNAL_PUBLICATION]-(j:Journal)
+      Merge (rev:Review)-[:REVIEW_SUBJECT]->(p)
+
+      with line, p, rev, j
+      Match (a:Researcher {name:line.reviewers})
+      Merge (a)-[:PARTICIPATES_IN]->(rev)
+      Merge (rev)-[:SUBMITTED_TO]->(j)
+
+    }in transactions
+

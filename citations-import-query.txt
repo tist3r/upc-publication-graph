@@ -1,0 +1,15 @@
+:auto LOAD CSV WITH HEADERS FROM
+'file:///citations.csv' AS line
+
+FIELDTERMINATOR ','
+
+call{
+
+    with line
+    with line, SPLIT(line.cites, '|') as citations
+
+    unwind citations as c
+    Match (paper:Paper {paper_key:line.`key:string`}), (p:Paper {paper_key:c})
+    Merge (paper)-[:CITES]->(p)
+
+}in transactions
