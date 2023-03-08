@@ -58,7 +58,7 @@ call{
   WITH line, SPLIT(line.`author:string[]`, '|') as authors
   UNWIND authors as a
   Match (r:Researcher {name:a}), (paper:Paper {paper_key: line.`key:string`})
-  MERGE (r)-[:AUTHOR_OF]->(p)
+  MERGE (r)-[:AUTHOR_OF]->(paper)
 
 }in transactions
 

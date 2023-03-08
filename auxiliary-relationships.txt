@@ -1,17 +1,17 @@
 //Publications of a journal
 Match (p:Paper)-[:PUBLISHED_IN]->(v:Volume)<-[:ISSUES]-(j:Journal)
 Merge (p)<-[pub:JOURNAL_PUBLICATION]-(j)
-Set pub.year = v.year
+Set pub.year = v.year;
 
 
 //Citation Count Aid
 Match (v1:Volume)<-[:PUBLISHED_IN]-(p1:Paper)-[:CITES]->(p2:Paper)-[:PUBLISHED_IN]->(:Volume)<-[:ISSUES]-(j:Journal)
 Merge (p1)-[cit:JOURNAL_CITATION]->(j)
-Set cit.year = v1.year
+Set cit.year = v1.year;
 
 
 //chairs and editors
-  :auto Load csv with headers from
+Load csv with headers from
     'file:///editors.csv' AS line
 
     FIELDTERMINATOR ','
@@ -21,10 +21,10 @@ with line
 Match(j:Journal {journal_name: line.`journal:string`}), (r:Researcher {name: line.author_list})
 Merge (r)-[:EDITOR]-(j)
 
-}in transactions
+}in transactions;
 
 //chairs and editors
-  :auto Load csv with headers from
+Load csv with headers from
     'file:///conference_chairs.csv' AS line
 
     FIELDTERMINATOR ','
@@ -39,11 +39,11 @@ Merge (r)-[:CHAIRPERSON]-(ce)
 
 //abstract same as title for now
 Match(n:Paper)
-Set n.abstract = n.title
+Set n.abstract = n.title;
 
 
 //reviewers
-  :auto Load csv with headers from
+Load csv with headers from
     'file:///reviewers.csv' AS line
 
     FIELDTERMINATOR ','
@@ -58,5 +58,5 @@ Set n.abstract = n.title
       Merge (a)-[:PARTICIPATES_IN]->(rev)
       Merge (rev)-[:SUBMITTED_TO]->(j)
 
-    }in transactions
+    }in transactions;
 
