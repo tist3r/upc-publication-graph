@@ -4,1459 +4,1531 @@ Farideh Hamidi,conf/wcit/2010,11
 Mehrak Rahimi,conf/wcit/2010,7
 Asawin Meechai,conf/csbio/2012,6
 Zoubin Ghahramani,conf/aistats/2009,6
-Yong Shi 0001,conf/iccS/2012,6
 Fuji Ren,conf/mfcsit/2006,6
+Yong Shi 0001,conf/iccS/2012,6
+Davy Janssens,conf/ant/2012,5
+Guido Rößling,conf/pvw/2008,5
 Gabor T. Herman,conf/iwcia/2001,5
-Tom Bellemans,conf/ant/2012,5
+Peter Wegner,conf/oopwork/1986,5
+Jack J. Dongarra,conf/iccS/2012,5
+Simone Bacellar Leal Ferreira,conf/dsai/2012,5
+Peter M. A. Sloot,conf/iccS/2010,5
+Walker H. Land Jr.,conf/complexsystems/2011,5
+Sungjin Cho,conf/ant/2012,5
+Ana Cortés,conf/iccS/2012,5
+Eric P. Xing,conf/aistats/2011,5
 Geert Wets,conf/ant/2012,5
 Simone Dantas,conf/lagos/2019,5
-Gary A. Atkinson,conf/biotec/2010,5
-Davy Janssens,conf/ant/2012,5
 Theodore Lim,conf/vsgames/2012,5
-Eric P. Xing,conf/aistats/2011,5
-Jack J. Dongarra,conf/iccS/2012,5
-Leifur Þ. Leifsson,conf/iccS/2012,5
-Peter M. A. Sloot,conf/iccS/2010,5
-Peter Wegner,conf/oopwork/1986,5
-Simone Bacellar Leal Ferreira,conf/dsai/2012,5
-José Meseguer,conf/wrla/1998,5
 Maciej Paszynski,conf/iccS/2011,5
-Walker H. Land Jr.,conf/complexsystems/2011,5
 José Meseguer,conf/wrla/1996,5
-Guido Rößling,conf/pvw/2008,5
-Sham M. Kakade,conf/colt/2012,4
-Kristian Kiili,conf/vsgames/2012,4
-Margarida Romero,conf/vsgames/2012,4
+José Meseguer,conf/wrla/1998,5
+Gary A. Atkinson,conf/biotec/2010,5
+John M. Colombi,conf/cser/2013,4
+Alois Ferscha,conf/fet/2011,4
+Sandy Louchart,conf/vsgames/2012,4
+Zoubin Ghahramani,conf/aistats/2012,4
+Maciej Paszynski,conf/iccS/2010,4
 Supannika Koolmanojwong,conf/cser/2013,4
-Victor M. Calo,conf/iccS/2011,4
-Yoshua Bengio,conf/aistats/2011,4
-Daniel DeLaurentis,conf/cser/2013,4
-Walker H. Land Jr.,conf/complexsystems/2012,4
+Sara de Freitas,conf/vsgames/2012,4
+Albert Bifet,conf/wapa/2011,4
+Zoubin Ghahramani,conf/aistats/2007,4
+Mario Bravetti,conf/apc25/2005,4
+Nigel Thomas,conf/ukpew/2014,4
+David R. Jacques,conf/cser/2012,4
+Sham M. Kakade,conf/colt/2012,4
+Nathan O. Collier,conf/iccS/2011,4
+Denis Silva da Silveira,conf/dsai/2012,4
+Qingguo Li,conf/isdt/2019,4
+Dimitri N. Mavris,conf/cser/2013,4
+Tom Mens,conf/gg/2002sett,4
+Geoffrey J. Gordon,conf/aistats/2011,4
+Eric Smith,conf/complexsystems/2011,4
+Tony Jebara,conf/aistats/2007,4
+Guilherme Oliveira Mota,conf/lagos/2019,4
+Guido Rößling,conf/pvw/2006,4
+David Pardo,conf/iccS/2011,4
+Klaus Weihrauch,conf/cca/2006,4
 Peter Borovanský,conf/wrla/1998,4
 Carla Negri Lintzmayer,conf/lagos/2019,4
-Klaus Weihrauch,conf/cca/2006,4
+José Meseguer,conf/wrla/2004,4
+Emilio Luque,conf/iccS/2010,4
 Klaus Weihrauch,conf/cca/2007,4
 José Meseguer,conf/wrla/2006,4
-José Meseguer,conf/wrla/2004,4
-José Meseguer,conf/wrla/2000,4
-Peter Coad,conf/oopsla/1992a,4
-Guilherme Oliveira Mota,conf/lagos/2019,4
-Albert Bifet,conf/wapa/2011,4
-Eric Smith,conf/complexsystems/2011,4
-Dimitri N. Mavris,conf/cser/2013,4
-Tony Jebara,conf/aistats/2007,4
-Guido Rößling,conf/pvw/2006,4
-Geoffrey J. Gordon,conf/aistats/2011,4
-Tom Mens,conf/gg/2002sett,4
-Maciej Paszynski,conf/iccS/2010,4
-Nigel Thomas,conf/ukpew/2014,4
-Denis Silva da Silveira,conf/dsai/2012,4
-Alois Ferscha,conf/fet/2011,4
-Mario Bravetti,conf/apc25/2005,4
-Anna T. Lawniczak,conf/iccS/2010,4
-David R. Jacques,conf/cser/2012,4
-David Pardo,conf/iccS/2011,4
-Qingguo Li,conf/isdt/2019,4
-Zoubin Ghahramani,conf/aistats/2007,4
 Cihan H. Dagli,conf/complexsystems/2012,4
-Zoubin Ghahramani,conf/aistats/2012,4
-Geoffrey J. Gordon,conf/aistats/2007,3
-Lars Birkedal,conf/floc/1999rsa,3
-Peter W. O'Hearn,conf/mfps/1995,3
-Klaus Weihrauch,conf/cca/2004,3
+Walker H. Land Jr.,conf/complexsystems/2012,4
+Peter Coad,conf/oopsla/1992a,4
+José Meseguer,conf/wrla/2000,4
+Yoshua Bengio,conf/aistats/2011,4
 Stephen Gilmore,conf/pasm/2012,3
-Klaus Weihrauch,conf/cca/2002,3
 James Coplien,conf/oopsla/1995a,3
-Roland Seiffert,journals/lncs/1991-546,3
-Ingi Helgason,conf/fet/2011,3
+Klaus Weihrauch,conf/cca/2004,3
 Qingguo Li,conf/isdt/2017,3
-Douglas Cenzer,conf/cca/2006,3
-Qingguo Li,conf/isdt/2013,3
-Marino Miculan,conf/tosca2/2001,3
-Dorothea Wagner,conf/atmos/2003,3
-Michael B. Smyth,conf/mfcsit/2002,3
-Furio Honsell,conf/cometa/2003,3
-Dongsheng Zhao,conf/isdt/2019,3
-Iren Valova,conf/complexsystems/2011,3
-Bernhard Pfahringer,conf/wapa/2011,3
-Carla Piazza,conf/mefisto/2003,3
-Grady Booch,conf/oopsla/1992a,3
-Narciso Martí-Oliet,conf/wrla/2000,3
-Ralf Huuck,conf/ssv/2009,3
-Maribel Fernández,conf/lsfa/2015,3
-Jonathan Hoyin Chan,conf/csbio/2012,3
+Carlos Guestrin,conf/aistats/2009,3
 Yee Whye Teh,conf/aistats/2009,3
 Jean-Pierre Talpin,conf/fmgals/2005,3
-Carolyn L. Talcott,conf/wrla/2006,3
-Ioannis Chatzigiannakis,conf/ami/2018w,3
-Vernon Ireland,conf/complexsystems/2012,3
-Michael I. Jordan,conf/aistats/2010,3
-Gabor Karsai,conf/gramot/2005,3
-Nauman Aslam,conf/ant/2011,3
-Hossam S. Hassanein,conf/ant/2011,3
-Ernesto Pimentel 0001,conf/foclasa/2004,3
-Csaba Szepesvári,conf/colt/2011,3
-Manuel Clavel,conf/wrla/1998,3
-Naveen Kuppuswamy,conf/fet/2011,3
-Honglak Lee,conf/aistats/2012,3
-Tom Mens,conf/gg/2004setra,3
-Carlos Guestrin,conf/aistats/2009,3
-Maria-Florina Balcan,conf/colt/2012,3
-Joost Visser 0001,conf/ldta/2001,3
-Jean-Yves Girard 0001,conf/lltm/1996,3
-Didier Galmiche,conf/cade/1998proof,3
-Sten Hanke,conf/ami/2018w,3
-G. Hemantha Kumar 0001,conf/biotec/2010,3
-Dujduan Waraho,conf/csbio/2012,3
-Tassos A. Mikropoulos,conf/dsai/2012,3
-David I. Spivak,journals/corr/abs-2101-07888,3
-Ohad Shamir,conf/aistats/2012,3
-Jean-Marie Jacquet,conf/foclasa/2002,3
-Salvador Romaguera,conf/mfcsit/2002,3
-Dina Q. Goldin,conf/etaps/2005finco,3
-John M. Colombi,conf/cser/2012,3
-Mark F. Hansen,conf/biotec/2010,3
-T. Yung Kong,conf/iwcia/2001,3
-Dimitrios Amaxilatis,conf/ami/2018w,3
-Antonio Brogi,conf/icalp/2002fmci,3
-Farhad Arbab,conf/foclasa/2005,3
-Grigore Rosu,conf/kframework/2011,3
-Hartmut Ehrig,conf/unigra/2003,3
-Antonio Brogi,conf/foclasa/2003,3
-Fairouz Kamareddine,conf/icalp/2003mlc,3
-Wojciech Kotlowski,conf/colt/2011,3
-Marjan Sirjani,conf/fsen/2005,3
-Traian-Florin Serbanuta,conf/kframework/2011,3
-Mauricio Ayala-Rincón,conf/lsfa/2015,3
-Roberto Gorrieri,conf/mefisto/2003,3
-Mario R. F. Benevides,conf/lsfa/2013,3
-Grit Denker,conf/wrla/2006,3
-Ugo Montanari,conf/cometa/2003,3
-Muhammad Younas 0001,conf/ant/2011,3
-Mehryar Mohri,conf/aistats/2010,3
-Robert Susmaga,conf/rskd/2003,3
-Steven M. Corns,conf/cser/2012,3
-Marina Lenisa,conf/cometa/2003,3
-Ulrike Prange,conf/accat/2007,3
-Jochen Dörre,journals/lncs/1991-546,3
-John Shawe-Taylor,conf/wapa/2010,3
-David B. Bracewell,conf/mfcsit/2006,3
-Wiebe van der Hoek,conf/lcmas/2003,3
-Oded Maler,conf/fac/2005,3
-Alberto Verdejo,conf/wrla/2008,3
-Mauro Pezzè,conf/tacos/2003,3
-Mauro Pezzè,conf/tacos/2004,3
+Klaus Weihrauch,conf/cca/2002,3
 Yoshua Bengio,conf/aistats/2010,3
-Ulrich Berger 0001,conf/mfps/2012,3
-Shingo Kuroiwa,conf/mfcsit/2006,3
-John Power,conf/mfps/2001,3
-José Meseguer,conf/wrla/2002,3
-Manuel Ojeda-Aciego,conf/icalp/2002uncl,3
-Augusto Sampaio,conf/sbmf/2006,3
-Gian Luigi Ferrari,conf/lipari/2001concoord,3
-Peter Selinger,conf/qpl/2006,3
-Luqi,conf/monterey/1998,3
-Bastian Schlich,conf/ssv/2009,3
-José Meseguer,conf/wrla/2008,3
-Christel Baier,conf/probmiv/1998,3
-Riccardo Focardi,conf/mefisto/2003,3
-Mirko Viroli,conf/foclasa/2007,3
-Colin de la Higuera,conf/icgi/2012,3
-Renate Klempien-Hinrichs,conf/getgrats/2001,3
-Mirko Viroli,conf/foclasa/2005,3
-Shie Mannor,conf/colt/2011,3
-Marcin S. Szczuka,conf/rskd/2003,3
-Andrea Corradini 0001,conf/getgrats/2001,3
-Mitsuhiro Okada,conf/lltm/1996,3
-Gail C. Murphy,conf/oopsla/1992a,3
-Nell B. Dale,conf/iticse/1999wgr,3
-Andrea Corradini 0001,conf/segragra/1995,3
-Gabriele Taentzer,conf/gtvmt/2006,3
-Hélène Kirchner,conf/wrla/1996,3
-Abbas Edalat,conf/comprox/1997,3
-José Raymundo Marcial-Romero,conf/lanmr/2016s,3
+Jean-Yves Girard 0001,conf/lltm/1996,3
+Furio Honsell,conf/cometa/2003,3
+Sten Hanke,conf/ami/2018w,3
+Michael B. Smyth,conf/mfcsit/2002,3
+Neelie Kroes,conf/fet/2011,3
+Thomas A. Mazzuchi,conf/cser/2012,3
 Alessio Lomuscio,conf/lcmas/2003,3
-Michel Bauderon,conf/getgrats/2001,3
-Francisco Durán 0001,conf/wrla/2000,3
+Gabor Karsai,conf/gramot/2005,3
+Bastian Schlich,conf/ssv/2009,3
+Naveen Kuppuswamy,conf/fet/2011,3
+João Barroso 0001,conf/dsai/2012,3
+Nauman Aslam,conf/ant/2011,3
+David I. Spivak,journals/corr/abs-2101-07888,3
+Qingguo Li,conf/isdt/2013,3
+Mehryar Mohri,conf/aistats/2010,3
+Bernhard Pfahringer,conf/wapa/2011,3
+Narciso Martí-Oliet,conf/wrla/2000,3
+Steven Eker,conf/wrla/1998,3
+Steven M. Corns,conf/complexsystems/2011,3
+Steven M. Corns,conf/cser/2012,3
+Mauro Pezzè,conf/tacos/2004,3
+Mauro Pezzè,conf/tacos/2003,3
+Muhammad Younas 0001,conf/ant/2011,3
+Mauricio Ayala-Rincón,conf/lsfa/2015,3
+Supapon Cheevadhanarak,conf/csbio/2012,3
+Farhad Arbab,conf/foclasa/2005,3
+Fairouz Kamareddine,conf/icalp/2003mlc,3
+David B. Bracewell,conf/mfcsit/2006,3
+Jean-Marie Jacquet,conf/foclasa/2002,3
+Carla Piazza,conf/mefisto/2003,3
+Salvador Romaguera,conf/mfcsit/2002,3
+Alberto Carraro,journals/corr/abs-1303-7136,3
+Alberto Verdejo,conf/wrla/2008,3
+Hartmut Ehrig,conf/unigra/2003,3
+T. Yung Kong,conf/iwcia/2001,3
+Heidi A. Taboada,conf/complexsystems/2012,3
+Carolyn L. Talcott,conf/wrla/2006,3
+Han Liu,conf/aistats/2012,3
+Robert Susmaga,conf/rskd/2003,3
+Dongsheng Zhao,conf/isdt/2019,3
+Maria-Florina Balcan,conf/colt/2012,3
+Ohad Shamir,conf/aistats/2012,3
+Grady Booch,conf/oopsla/1992a,3
+Wiebe van der Hoek,conf/lcmas/2003,3
+Maribel Fernández,conf/lsfa/2015,3
+John Shawe-Taylor,conf/wapa/2010,3
+Roberto Gorrieri,conf/mefisto/2003,3
+John Shawe-Taylor,conf/aistats/2007,3
+Oded Maler,conf/fac/2005,3
+Ulrike Prange,conf/accat/2007,3
+John Power,conf/mfps/2001,3
+Anthony Karel Seda,conf/mfcsit/2006,3
+Ulrich Berger 0001,conf/mfps/2012,3
+Jonathan Hoyin Chan,conf/csbio/2012,3
+Dorothea Wagner,conf/atmos/2003,3
+Joost Visser 0001,conf/ldta/2001,3
+Elad Hazan,conf/colt/2011,3
+José Raymundo Marcial-Romero,conf/lanmr/2016s,3
+Andrea Corradini 0001,conf/segragra/1995,3
+José Meseguer,conf/wrla/2008,3
+Andrea Corradini 0001,conf/getgrats/2001,3
+José Meseguer,conf/wrla/2002,3
+Renate Klempien-Hinrichs,conf/getgrats/2001,3
+Manuel Ojeda-Aciego,conf/icalp/2002uncl,3
+Riccardo Focardi,conf/mefisto/2003,3
+Gian Luigi Ferrari,conf/lipari/2001concoord,3
+Marcin S. Szczuka,conf/rskd/2003,3
 Joseph Y. Halpern,journals/corr/Lang17a,3
+Douglas Cenzer,conf/cca/2006,3
+Marina Lenisa,conf/cometa/2003,3
+Grigore Rosu,conf/kframework/2011,3
+Luqi,conf/monterey/1998,3
+Ernesto Pimentel 0001,conf/foclasa/2004,3
+Augusto Sampaio,conf/sbmf/2006,3
+Gail C. Murphy,conf/oopsla/1992a,3
+Gabriele Taentzer,conf/gtvmt/2006,3
 Karsten Ehrig,conf/gramot/2005,3
+Nell B. Dale,conf/iticse/1999wgr,3
+Tom Mens,conf/gg/2004setra,3
+Ralf Huuck,conf/ssv/2009,3
+Didier Galmiche,conf/cade/1998proof,3
+Roland Seiffert,journals/lncs/1991-546,3
+Marino Miculan,conf/tosca2/2001,3
+Antonio Brogi,conf/foclasa/2003,3
+Antonio Brogi,conf/icalp/2002fmci,3
+Ugo Montanari,conf/cometa/2003,3
+Grit Denker,conf/wrla/2006,3
+Mario R. F. Benevides,conf/lsfa/2013,3
+Wojciech Kotlowski,conf/colt/2011,3
+Dina Q. Goldin,conf/etaps/2005finco,3
+Traian-Florin Serbanuta,conf/kframework/2011,3
+Dimitrios Amaxilatis,conf/ami/2018w,3
+Marjan Sirjani,conf/fsen/2005,3
+Aris S. Lalos,conf/ami/2018w,3
+Mark F. Hansen,conf/biotec/2010,3
+Jochen Dörre,journals/lncs/1991-546,3
+G. Hemantha Kumar 0001,conf/biotec/2010,3
+Mirko Viroli,conf/foclasa/2007,3
+Csaba Szepesvári,conf/colt/2011,3
+Hossam S. Hassanein,conf/ant/2011,3
+Mitsuhiro Okada,conf/lltm/1996,3
+Michel Bauderon,conf/getgrats/2001,3
+Hélène Kirchner,conf/wrla/1996,3
+Peter Selinger,conf/qpl/2006,3
+Colin de la Higuera,conf/icgi/2012,3
+Mirko Viroli,conf/foclasa/2005,3
+Abbas Edalat,conf/comprox/1997,3
+Michael I. Jordan,conf/aistats/2010,3
+Francisco Durán 0001,conf/wrla/2000,3
 J. Ángel Velázquez-Iturbide,conf/pvw/2008,3
-Guido Nolte,conf/nips/2008coa,2
-Deborah Knox,conf/iticse/1999wgr,2
-Demis Ballis,conf/wflp/2003,2
-Robin Kaarsgaard,conf/mfps/2018,2
-Guido Boella,conf/coordination/2005coorg,2
-Jim Davies,conf/refine/2002,2
-John Derrick,conf/refine/2006,2
-Gul Agha,conf/oopsla/1988ocp,2
-Rosario Pugliese,conf/tosca2/2001,2
-John Derrick,conf/refine/2005,2
-Tim Oates 0001,conf/icgi/2012,2
-John Derrick,conf/refine/2002,2
-Tsung-Ting Kuo,conf/kdd/2011kddcup,2
-Antti Valmari,conf/fmics/2002,2
-Gueorgui I. Jojgov,conf/mkm/2003s,2
-Truyen Tran 0001,conf/acml/2012,2
-Dietmar Seipel,journals/corr/SchwarzV17,2
-Jochen Malte Küster,conf/gtvmt/2006,2
-Insup Lee 0001,conf/rv/2002,2
-Antônio Carlos da Rocha Costa,conf/weit/2015,2
-Miguel Palomino,conf/prole/2004,2
-Rosario Pugliese,conf/lipari/2001concoord,2
-Rocco A. Servedio,conf/colt/2012,2
-Azriel Rosenfeld,conf/iwcia/2001,2
-Nicolas Magaud,journals/corr/abs-2112-14770,2
-Arend Rensink,conf/express/1997,2
-Tibor Kiss,journals/lncs/1991-546,2
-Dinh Q. Phung,conf/acml/2012,2
-Marjan Sirjani,conf/foclasa/2008,2
+Peter W. O'Hearn,conf/mfps/1995,3
+Lars Birkedal,conf/floc/1999rsa,3
+Christel Baier,conf/probmiv/1998,3
+Mario Tokoro,conf/oopwork/1986,2
 Dimitrios Milios,conf/pasm/2012,2
+Rocco A. Servedio,conf/colt/2012,2
+Antti Valmari,conf/fmics/2002,2
+Guido Boella,conf/coordination/2005coorg,2
+Michel A. Reniers,conf/apc25/2005,2
+Mario Tokoro,conf/oopsla/1990ocp,2
+Mario Tokoro,conf/oopsla/1988ocp,2
+Gueorgui I. Jojgov,conf/mkm/2003s,2
+Dinh Q. Phung,conf/acml/2012,2
+Truyen Tran 0001,conf/acml/2012,2
+Robin Kaarsgaard,conf/mfps/2018,2
+Arend Rensink,conf/express/1997,2
+Guido Nolte,conf/nips/2008coa,2
+Dietmar Seipel,journals/corr/SchwarzV17,2
+Christel Baier,conf/qapl/2005,2
+Héctor Cancela,conf/clei/2015s,2
 Rodney G. Downey,conf/cca/2002,2
-Jianxin Wu 0001,conf/acml/2012,2
-Jifeng He 0001,conf/sbmf/2004,2
-Nicolas Markey,journals/corr/EsparzaT15,2
 Roderick Bloem,conf/floc/2006vd,2
-Mieke Massink,conf/forte/2000fme,2
-Nikos Manouselis,conf/recsys/2010recsystel,2
-Gwen Salaün,conf/foclasa/2009,2
-Jirí Adámek,conf/cmcs/2004,2
-Gwen Salaün,conf/facs2/2007,2
-Rong-Bing Chiu,conf/kdd/2011kddcup,2
-Guy McCusker,conf/mfps/2010,2
-Toacy Cavalcante de Oliveira,conf/ffss/1997,2
-Jing Liu 0012,conf/ttss/2007,2
-Marta Z. Kwiatkowska,conf/comprox/1997,2
-Jirí Adámek,conf/cmcs/2001,2
-Tom Mens,conf/grabats/2002,2
-Tom Mens,conf/gramot/2005,2
-Niko Myller,conf/pvw/2006,2
+Antônio Carlos da Rocha Costa,conf/weit/2015,2
+Isabelle Guyon,conf/icml/2011utl,2
+Sofiène Tahar,conf/fmws/2008,2
+Marjan Sirjani,conf/foclasa/2008,2
+Tsung-Ting Kuo,conf/kdd/2011kddcup,2
+Ugo Montanari,conf/wrla/2002,2
+Ian Bayley,conf/bytecode/2005,2
+Antonino Salibra,journals/corr/abs-1303-7136,2
+Ugo Montanari,conf/hoots/1997,2
+Ugo Montanari,conf/lipari/2001concoord,2
+Norman Ramsey,conf/ml/2005,2
+Grigore Rosu,conf/rv/2003,2
+Antonia Bertolino,conf/tacos/2003,2
+Grigore Rosu,conf/rv/2001,2
+Claudia Ermel,conf/unigra/2001,2
+Mila Dalla Preda,conf/nsad/2016,2
+Roberto Gorrieri,conf/tosca2/2001,2
+Simone André da Costa Cavalheiro,conf/weit/2015,2
+Michel P. Schellekens,conf/mfcsit/2002,2
+Michel P. Schellekens,conf/mfcsit/2004,2
+Marina Lenisa,conf/tosca2/2001,2
+Marina Lenisa,conf/cmcs/2000,2
+John P. Gallagher,journals/corr/abs-2008-02483,2
+Simona Ronchi Della Rocca,conf/itrs/2004,2
+Ulrich Fahrenberg,conf/getco/2003,2
+Antonio Brogi,conf/foclasa/2002,2
+Christian Skalka,conf/mpc/2002tip,2
+Antonio Brogi,conf/foclasa/2004,2
+John Derrick,conf/refine/2002,2
+John Derrick,conf/refine/2005,2
+John Derrick,conf/refine/2006,2
+John Derrick,conf/refine/2007,2
 John Derrick,conf/refine/2008,2
-Dennis de Champeaux,conf/oopsla/1991a,2
-Shou-De Lin,conf/kdd/2011kddcup,2
-Roman Pindur,conf/rskd/2003,2
+Tuukka Ahoniemi,conf/pvw/2006,2
+Tuukka Ahoniemi,conf/pvw/2008,2
+Antonio Cerone,conf/icfem/2006fmis,2
+Michel A. Reniers,conf/sos/2005,2
+Udo Pletat,journals/lncs/1991-546,2
+Mario Bravetti,conf/mtcs/2002,2
+Christian Nolasco,conf/clei/2017s,2
+Mila E. Majster-Cederbaum,conf/refine/2002,2
+Ugo Montanari,conf/express/1997,2
 Dieter Hutter,conf/agents/2001semas,2
+Michael Franz,conf/cocv/2005,2
 Tobias Kuipers,conf/ldta/2001,2
 Tobias Ley,conf/recsys/2010recsystel,2
-Jingde Cheng,conf/lmcs/2006,2
-Nigel Thomas,conf/pasm/2017,2
-Nieves R. Brisaboa,conf/vodca/2004,2
-Markus Roggenbach,conf/avocs/2008,2
-Jiri Barnat,conf/pdmc/2007,2
-Simon Brock,conf/segragra/1995,2
-Nigel Thomas,conf/pasm/2014,2
-Mark van den Brand,conf/ldta/2001,2
-Günter Beham,conf/recsys/2010recsystel,2
-Jim Woodcock 0001,conf/sbmf/2003,2
-Guo-Qiang Zhang 0001,conf/fics2/2008,2
-Jim Woodcock 0001,conf/refine/2006,2
-Jim Woodcock 0001,conf/refine/2005,2
-Jim Woodcock 0001,conf/refine/2002,2
-Martin C. Henson,conf/refine/2005,2
-Denis Béchet,conf/termgraph/2007,2
-Gul Agha,conf/oopwork/1986,2
-Armin Biere,conf/bmc/2006,2
-Mark van den Brand,conf/ldta/2002,2
-Marta Z. Kwiatkowska,conf/probmiv/1998,2
-Didier Galmiche,conf/cade/2000ttlpss,2
 Dennis M. Volpano,conf/mfps/1999,2
-Timothy Lethbridge,conf/atem/2003,2
+Michael W. Mislove,conf/mfps/2012,2
+Dennis de Champeaux,conf/oopsla/1991a,2
+Jingde Cheng,conf/lmcs/2006,2
+Rong-Bing Chiu,conf/kdd/2011kddcup,2
+Gwen Salaün,conf/foclasa/2009,2
+Jiri Barnat,conf/pdmc/2007,2
+Gwen Salaün,conf/facs2/2007,2
+Shangping Ren,conf/foclasa/2008,2
+Guy McCusker,conf/mfps/2010,2
+Todd G. McKenzie,conf/kdd/2011kddcup,2
+Jirí Adámek,conf/cmcs/2001,2
+Nieves R. Brisaboa,conf/vodca/2004,2
 Dennis G. Kafura,conf/oopsla/1990ocp,2
+Sofiène Tahar,journals/corr/BouhoulaIK13,2
+Jim Woodcock 0001,conf/sbmf/2003,2
+Michael W. Mislove,conf/mfps/1995,2
+Michael W. Mislove,conf/mfps/1997,2
+Timothy Lethbridge,conf/atem/2003,2
+Augusto Sampaio,conf/refine/2002,2
+Sophia Drossopoulou,conf/wood/2003,2
+Demis Ballis,conf/wflp/2003,2
+Rosario Pugliese,conf/lipari/2001concoord,2
+Michael W. Mislove,conf/mfps/1999,2
+Denis Béchet,conf/termgraph/2007,2
+Markus Roggenbach,conf/avocs/2008,2
 Nicole Krämer 0002,conf/nips/2008coa,2
+Toacy Cavalcante de Oliveira,conf/ffss/1997,2
+Jing Liu 0012,conf/ttss/2007,2
+Huibiao Zhu,conf/ttss/2013,2
+Jirí Adámek,conf/cmcs/2004,2
+Chris Laffra,conf/oopsla/1990ocp,2
+Guo-Qiang Zhang 0001,conf/fics2/2008,2
+Gul Agha,conf/oopwork/1986,2
+Gul Agha,conf/oopsla/1988ocp,2
+Huowang Chen,conf/fics2/2008,2
+Didier Galmiche,conf/cade/2000ttlpss,2
+Hung Son Nguyen,conf/rskd/2003,2
+Didier Parigot,conf/ldta/2001,2
+Armin Biere,conf/bmc/2006,2
+Clemens Kupke,conf/cmcs/2008,2
+John Power,conf/cmcs/2001,2
+Nikos Manouselis,conf/recsys/2010recsystel,2
+Jochen Malte Küster,conf/gtvmt/2006,2
+Mark R. Greenstreet,journals/corr/abs-1810-03762,2
 Tomaz Curk,conf/mlsb/2009,2
+Niko Myller,conf/pvw/2006,2
+Nigel Thomas,conf/pasm/2014,2
+Nigel Thomas,conf/pasm/2017,2
 Mark van den Brand,conf/ldta/2004,2
-John Derrick,conf/refine/2007,2
-Ian Bayley,conf/bytecode/2005,2
-Andrew M. Marshall,journals/corr/abs-1012-4554,2
-Giselle Reis,journals/corr/abs-1904-06159,2
-Edmund M. Clarke,conf/floc/1999smc,2
-Andrew P. Martin,conf/fm/2005wlfm,2
-Marco T. Morazán,journals/corr/abs-2207-11600,2
-Andrew M. Pitts,conf/hoots/1997,2
+Mark van den Brand,conf/ldta/2002,2
+Cliff B. Jones,conf/mfps/1995,2
+Tom Mens,conf/grabats/2002,2
+Tom Mens,conf/gramot/2005,2
+Clemens Kupke,conf/cmcs/2004,2
+José Creissac Campos,conf/fmis/2007,2
+Ichiro Hasuo,conf/cmcs/2018,2
 Orna Grumberg,conf/concur/2002pdmc,2
-Giovanni Di Crescenzo,conf/icalp/2006wcan,2
-Giovanni Denaro,conf/tacos/2004,2
-Giovanni Denaro,conf/tacos/2003,2
-Richard Kennaway,conf/segragra/1995,2
-Ville Karavirta,conf/pvw/2008,2
-Marco Gribaudo,conf/pasm/2017,2
-Andrew D. Gordon 0001,conf/hoots/1997,2
-Giuseppe Rosolini,conf/mfps/1997,2
-Olivier Chapelle,conf/icml/2010ltr,2
-Andrés Moreno,conf/pvw/2006,2
-Giuseppe Rosolini,conf/floc/1999rsa,2
-Dániel Varró,conf/gtvmt/2004,2
-Dániel Varró,conf/gtvmt/2006,2
-André Rauber Du Bois,conf/weit/2015,2
-Giuseppe Lipari,conf/tacos/2004,2
-Marek Zaionc,conf/wcla/2004,2
-Joseph A. Goguen,conf/oopwork/1986,2
-Rick Statman,conf/mfps/2016,2
-Victor L. Selivanov,conf/cca/2008,2
-Edgar Jakumeit,journals/corr/abs-1111-4407,2
-Vincent Danos,conf/concur/2003bio,2
-Vincent Danos,conf/dcm/2007,2
-Andrew D. Gordon 0001,conf/apc25/2005,2
-Andreas Meier 0002,conf/uitp/2003,2
-José Meseguer,conf/ctcs/1999,2
-Gilles Dowek,conf/lsfa/2014,2
-José Meseguer,conf/rule/2008,2
-Andreas Herzig,conf/lcmas/2005,2
-Christos D. Zaroliagis,conf/atmos/2003,2
-Sicco Verwer,conf/icgi/2012,2
-Marcelo P. Fiore,conf/birthday/2007plotkin,2
-Ricardo Honorato-Zimmer,conf/sasb/2012,2
-José Raymundo Marcial-Romero,conf/lanmr/2014s,2
-Marcello M. Bonsangue,conf/uml/2003cvuml,2
-Josée Desharnais,conf/dtmpp/2003,2
-Elaine Pimentel,conf/lsfa/2016,2
 Giorgios Economopoulos,conf/ldta/2004,2
-Ginés Moreno,conf/prole/2006,2
-Marco Gribaudo,conf/pasm/2014,2
-Vincent Danos,conf/lltm/1996,2
-José Antonio Hernández Servín,conf/lanmr/2016s,2
-Andrew Butterfield,conf/fmics/2003,2
 Giorgio Valentini,conf/mlsb/2009,2
-Vincent Danos,conf/qpl/2005,2
-Vincent Danos,conf/sasb/2012,2
 Giorgio P. Faconti,conf/forte/2000fme,2
 Giorgio Levi,conf/mfcsit/2000,2
-Edward Hermann Haeusler,conf/lsfa/2009,2
+Andrew D. Gordon 0001,conf/hoots/1997,2
+Andrew D. Gordon 0001,conf/apc25/2005,2
 Giorgio Giacinto,conf/wapa/2010,2
+Richard Kennaway,conf/segragra/1995,2
+Vincent Danos,conf/concur/2003bio,2
+Mieke Massink,conf/forte/2000fme,2
+Andrew Butterfield,conf/fmics/2003,2
+Vincent Danos,conf/dcm/2007,2
+Vincent Danos,conf/lltm/1996,2
+Vincent Danos,conf/qpl/2005,2
+Vincent Danos,conf/sasb/2012,2
+José Antonio Hernández Servín,conf/lanmr/2016s,2
+Edmund M. Clarke,conf/floc/1999smc,2
+Giovanni Denaro,conf/tacos/2003,2
+Giselle Reis,journals/corr/abs-1904-06159,2
+Victor L. Selivanov,conf/cca/2008,2
+Rick Statman,conf/mfps/2016,2
+Andrew P. Martin,conf/fm/2005wlfm,2
+Giovanni Denaro,conf/tacos/2004,2
+Edgar Jakumeit,journals/corr/abs-1111-4407,2
+Simon Brock,conf/segragra/1995,2
+Andrew M. Pitts,conf/hoots/1997,2
+Marco Gribaudo,conf/pasm/2017,2
+Andrew M. Marshall,journals/corr/abs-1012-4554,2
+Marco Gribaudo,conf/pasm/2014,2
+Giovanni Di Crescenzo,conf/icalp/2006wcan,2
+Edward Hermann Haeusler,conf/lsfa/2009,2
 Edward Hermann Haeusler,conf/lsfa/2014,2
+Ginés Moreno,conf/prole/2006,2
+José Meseguer,conf/rule/2008,2
+Christopher Anderson,conf/wood/2003,2
+Miguel Palomino,conf/prole/2004,2
+Ricardo Honorato-Zimmer,conf/sasb/2012,2
+José Raymundo Marcial-Romero,conf/lanmr/2014s,2
+Sicco Verwer,conf/icgi/2012,2
+Christos D. Zaroliagis,conf/atmos/2003,2
+Andrea Omicini,conf/agp/2000,2
+Josée Desharnais,conf/dtmpp/2003,2
+Elaine Pimentel,conf/lsfa/2016,2
+Marc Lasson,conf/mfps/2014,2
+Gianluigi Zavattaro,conf/secco/2004,2
+Paliath Narendran,journals/corr/abs-1012-4554,2
 Edward Hermann Haeusler,conf/weit/2015,2
-José Creissac Campos,conf/fmis/2007,2
 Andrei Arusoaie,conf/kframework/2011,2
+Marcelo P. Fiore,conf/birthday/2007plotkin,2
+Gilles Dowek,conf/lsfa/2014,2
 Eelco Visser,conf/ldta/2007,2
 Eelco Visser,conf/ldta/2009,2
+Andreas Meier 0002,conf/uitp/2003,2
+José Meseguer,conf/ctcs/1999,2
 Eelco Visser,conf/wrs/2001,2
-Riccardo Focardi,conf/tosca2/2001,2
+Marcello M. Bonsangue,conf/uml/2003cvuml,2
 Eerke A. Boiten,conf/refine/2006,2
 Eerke A. Boiten,conf/refine/2007,2
 Eerke A. Boiten,conf/refine/2008,2
-Grigore Rosu,conf/rv/2001,2
-Ugo Montanari,conf/wrla/2002,2
-Mario Bravetti,conf/mtcs/2002,2
-John P. Gallagher,journals/corr/abs-2008-02483,2
-Ulrich Fahrenberg,conf/getco/2003,2
-Oana Andrei,conf/wrla/2008,2
-John Power,conf/cmcs/2001,2
-Dominik Janzing,conf/nips/2008coa,2
-John Power,conf/mfcsit/2004,2
-John Power,conf/mfps/1995,2
-John Power,conf/mfps/1997,2
+Andreas Herzig,conf/lcmas/2005,2
+Marco T. Morazán,journals/corr/abs-2207-11600,2
+Robert Rettinger,conf/cca/2008,2
+Robert Rettinger,conf/cca/2004,2
+Robert Rettinger,conf/cca/2002,2
+Grady Booch,conf/oopsla/1994a,2
+Ian Mackie,conf/termgraph/2002,2
+Ohad Shacham,conf/bmc/2005,2
+Ian Mackie,conf/termgraph/2004,2
+Olaf Burkart,conf/infinity/1996,2
+Jonas Lundberg,conf/soco/2003,2
+Gordon D. Plotkin,conf/mfps/2013,2
+Ian Mackie,conf/termgraph/2009,2
+Ian Mackie,conf/wrs/2006,2
+Clark W. Barrett,conf/smt/2004,2
+Shiro Takata,conf/clima/2002,2
+Anita Schöbel,conf/atmos/2001,2
+Christoph Benzmüller,conf/uitp/2006,2
+Dorel Lucanu,conf/wrla/2008,2
+Claude Kirchner,conf/wrla/1996,2
+Michel Wermelinger,conf/gg/2002sett,2
 Anthony Karel Seda,conf/mfcsit/2004,2
 Anthony Karel Seda,conf/mfcsit/2000,2
-Oded Maler,conf/etaps/2002tpts,2
+John Power,conf/mfcsit/2004,2
+Jim Woodcock 0001,conf/refine/2005,2
+John Power,conf/mfps/1997,2
 John Power,conf/mfps/2012,2
-Grigore Rosu,conf/rv/2003,2
-Grigore Rosu,conf/rv/2004,2
+Oded Maler,conf/etaps/2002tpts,2
+Graeme Smith 0001,conf/refine/2007,2
+Shinya Sato,conf/termgraph/2009,2
+Maribel Fernández,conf/wrs/2006,2
+Dominik Janzing,conf/nips/2008coa,2
 John Shawe-Taylor,conf/wapa/2011,2
-Antonia Bertolino,conf/tacos/2003,2
-Mario Tokoro,conf/oopsla/1990ocp,2
-Mario Tokoro,conf/oopsla/1988ocp,2
-Christopher Anderson,conf/wood/2003,2
-Antonio Cerone,conf/icfem/2006fmis,2
-Norman Ramsey,conf/ml/2005,2
-Ugo Montanari,conf/express/1997,2
-Antonio Brogi,conf/foclasa/2004,2
-Antonio Brogi,conf/foclasa/2002,2
-Ugo Montanari,conf/hoots/1997,2
-Ugo Montanari,conf/lipari/2001concoord,2
-Robert Rettinger,conf/cca/2008,2
-Jos C. M. Baeten,conf/apc25/2005,2
-Anita Schöbel,conf/atmos/2001,2
-Valeria de Paiva,conf/imla/2013,2
-Robert D. Tennent,conf/mfps/1995,2
-Vasco Brattka,conf/cca/2002,2
-Vasco Brattka,conf/cca/2004,2
-Glynn Winskel,conf/mfps/2013,2
-Vasco Brattka,conf/cca/2008,2
-Maria O'Keeffe,conf/mfcsit/2002,2
-Glynn Winskel,conf/birthday/2007plotkin,2
-Marina Lenisa,conf/cmcs/2000,2
-Oleg Sokolsky,conf/rv/2005,2
-Robert Rettinger,conf/cca/2004,2
+Maribel Fernández,conf/lsfa/2014,2
 Uwe Aßmann,conf/soco/2003,2
 Uwe Aßmann,conf/soco/2004,2
-Ohad Shacham,conf/bmc/2005,2
-Olaf Burkart,conf/infinity/1996,2
-Graeme Smith 0001,conf/refine/2007,2
-Grady Booch,conf/oopsla/1994a,2
-Maribel Fernández,conf/wrs/2006,2
-Jonas Lundberg,conf/soco/2003,2
-Maribel Fernández,conf/lsfa/2014,2
-Gordon D. Plotkin,conf/mfps/2013,2
+Insup Lee 0001,conf/rv/2002,2
+Christoph Lüth,conf/uitp/2003,2
+Giuseppe Rosolini,conf/floc/1999rsa,2
+Marek Zaionc,conf/wcla/2004,2
+Giuseppe Lipari,conf/tacos/2004,2
+Olivier Chapelle,conf/icml/2010ltr,2
+Dániel Varró,conf/gtvmt/2004,2
+Dániel Varró,conf/gtvmt/2006,2
+Giuseppe Rosolini,conf/mfps/1997,2
 Oleg Sokolsky,conf/rv/2002,2
-Ti Zhou,conf/fics2/2008,2
-Shiro Takata,conf/clima/2002,2
-Sean McLaughlin,conf/smt/2005,2
+Valeria de Paiva,conf/imla/2013,2
+Oleg Sokolsky,conf/rv/2005,2
+Glynn Winskel,conf/mfps/2013,2
+Olga C. Santos,conf/recsys/2010recsystel,2
+Glynn Winskel,conf/birthday/2007plotkin,2
+Simon L. Peyton Jones,conf/haskell/2000,2
+Vasco Brattka,conf/cca/2004,2
+Vasco Brattka,conf/cca/2008,2
+Jim Woodcock 0001,conf/refine/2006,2
+Chirine Ghedira,conf/context/2005cws,2
+Muck van Weerdenburg,conf/sos/2008,2
+Mauricio Ayala-Rincón,journals/corr/abs-1303-7136,2
+Stefan Milius,conf/cmcs/2018,2
+Stefan Milius,conf/cmcs/2014,2
+Mauricio Ayala-Rincón,conf/wollic/2002,2
+Brian Henderson-Sellers,conf/oopsla/1994a,2
+Michael J. Wooldridge,conf/lcmas/2003,2
+Howard A. Blair,conf/mfcsit/2000,2
+Maurice Herlihy,conf/oopsla/1988ocp,2
+Santiago Escobar 0001,conf/rule/2003,2
+Susan Stepney,conf/refine/2005,2
+Sanjeevi Krishnan,conf/mfps/2010,2
+Jane Hillston,conf/fbtc/2008,2
+Jane Hillston,conf/pasm/2012,2
+Jane Hillston,conf/pasm/2014,2
+Brad Balfour,conf/oopsla/1993a,2
+Sandro Stucki,conf/sasb/2012,2
+Stefan Milius,conf/ctcs/2002,2
+Mauricio Osorio 0001,conf/lanmr/2014s,2
+Moreno Falaschi,conf/wflp/2003,2
+Burkhart Wolff,conf/fmics/2003,2
+Jan J. M. M. Rutten,conf/cmcs/1998,2
+Bunthit Watanapa,conf/inns-wc/2012,2
+Mortaza S. Bargh,conf/stm/2007,2
+Daniel Cabeza Gras,conf/iclp/1999pitlp,2
+Jaap van Oosten,conf/floc/1999rsa,2
+Saso Dzeroski,conf/mlsb/2009,2
+Mauro Ferrari 0002,conf/clase/2005,2
+Moshe Y. Vardi,journals/corr/abs-2009-09360,2
+Herbert Wiklicky,conf/qapl/2001,2
+Bruce Anderson,conf/oopsla/1993a,2
+Sergio Rajsbaum,conf/getco/2010,2
+Sergio Yovine,conf/etaps/2002tpts,2
+Brigitte Pientka,conf/lfmtp/2007,2
+Stefan Milius,conf/cmcs/2004,2
+Sandro Etalle,conf/iclp/2003svv,2
+Blaine Nelson,conf/acml/2011,2
+Samson Abramsky,conf/mfps/2009,2
+Sébastien Fourey,conf/iwcia/2001,2
+Matthew Forshaw,conf/ukpew/2014,2
+Howard Bowman,conf/forte/2000fme,2
+Nachum Dershowitz,journals/corr/abs-1207-6821,2
+T. C. Ting,conf/oopsla/1993a,2
+T. S. E. Maibaum,journals/corr/AguirreR14,2
+Sam Staton,conf/mfps/2018,2
+Svetha Venkatesh,conf/acml/2012,2
+J. Robin B. Cockett,conf/mfps/2018,2
+Matthieu Martel,conf/nsv/2015,2
+Sandro Etalle,conf/iclp/1999vlp,2
+J. Robin B. Cockett,conf/mfps/2016,2
+J. Robin B. Cockett,conf/mfps/2010,2
+Heiko Koziolek,conf/fesca/2009,2
+Myla Archer,conf/strategies/2006,2
+Sandeep K. Shukla,conf/fmgals/2005,2
+Bob Flagg,conf/mfps/1999,2
+Sylvain Lippi,conf/termgraph/2007,2
+Bob Coecke,conf/qpl/2006,2
+Samuel Mimram,journals/corr/abs-2112-13746,2
+Samuel Mimram,conf/mfps/2013,2
+Dag Normann,conf/domains/1998,2
+Michael Hanus,conf/wflp/2002,2
+Hitoshi Omori,journals/corr/abs-2204-06359,2
 Sebastian Kerkhoff,conf/wact/2013,2
-Sebastian Fischer 0001,conf/wflp/2006,2
-Sebastian Buchwald,journals/corr/abs-1111-4407,2
-Stephen D. Brookes,conf/mfps/1997,2
-Stephen D. Brookes,conf/mfps/1999,2
 Stephen D. Brookes,conf/mfps/2001,2
 Stephen D. Brookes,conf/mfps/2006,2
-Hitoshi Omori,journals/corr/abs-2204-06359,2
-Stephen A. Jarvis,conf/ukpew/2017,2
-Ian Mackie,conf/termgraph/2009,2
-Stephen Gilmore,conf/pasm/2014,2
+Sebastian Fischer 0001,conf/wflp/2006,2
 Carlos Canal,conf/wcat/2006,2
+Menno van Zaanen,conf/icgi/2012,2
 Carlos Canal,conf/foclasa/2006,2
 Carlos Canal,conf/foclasa/2005,2
-Carlos Olarte,conf/lsfa/2016,2
-Carlos Camarão 0001,conf/ffss/1997,2
-Horatiu Cirstea,conf/wrla/2004,2
-Ian Mackie,conf/termgraph/2004,2
+Mengjun Li,conf/fics2/2008,2
+Mohammad Reza Mousavi 0001,conf/sos/2005,2
+César A. Muñoz,conf/strategies/2006,2
 Serge Autexier,conf/uitp/2008,2
 Serge Autexier,conf/uitp/2006,2
 Serge Autexier,conf/strategies/2001,2
-Michael Huth,conf/avocs/2007,2
 Carsten Schürmann,conf/lfm/2004,2
-César A. Muñoz,conf/strategies/2006,2
-Honna Segel,conf/oopsla/1995a,2
-Michael Hanus,conf/wflp/2002,2
-Dag Normann,conf/domains/1998,2
 Carolyn L. Talcott,conf/wrla/2004,2
 Carolyn L. Talcott,conf/wrla/2002,2
-Sebastián Jaramillo-Riveri,conf/sasb/2012,2
-Michael Franz,conf/cocv/2005,2
+Steffen van Bakel,conf/itrs/2002,2
+Honna Segel,conf/oopsla/1995a,2
 Stephan Flake,conf/uml/2003ocl,2
-Mohammad Reza Mousavi 0001,conf/sos/2005,2
+Carlos Olarte,conf/lsfa/2016,2
+Stephen A. Jarvis,conf/ukpew/2017,2
 Carlos Canal,conf/facs2/2007,2
-Damien Woods,journals/corr/NearyC13,2
+Carlos Camarão 0001,conf/ffss/1997,2
+Sebastian Buchwald,journals/corr/abs-1111-4407,2
+Steven A. Wright 0001,conf/ukpew/2017,2
+Camillo Fiorentini,conf/clase/2005,2
+Catuscia Palamidessi,conf/mfps/2009,2
+Dan Hirsch,conf/gtvmt/2004,2
+Calogero G. Zarba,conf/ftp/2003,2
+Sergio E. R. de Carvalho,conf/ffss/1997,2
+C.-H. Luke Ong,conf/ctcs/1999,2
 Steven Fraser 0001,conf/oopsla/1994a,2
 Steven Fraser 0001,conf/oopsla/1995a,2
-C.-H. Luke Ong,conf/ctcs/1999,2
-Mortaza S. Bargh,conf/stm/2007,2
-Jan J. M. M. Rutten,conf/cmcs/1998,2
-Daniel Cabeza Gras,conf/iclp/1999pitlp,2
-Burkhart Wolff,conf/fmics/2003,2
-Saso Dzeroski,conf/mlsb/2009,2
-Bunthit Watanapa,conf/inns-wc/2012,2
-Ian Mackie,conf/wrs/2006,2
-Muck van Weerdenburg,conf/sos/2008,2
-Calogero G. Zarba,conf/ftp/2003,2
-Stephen T. Gilmore,conf/pasm/2005,2
-Dan Hirsch,conf/gtvmt/2004,2
-Mengjun Li,conf/fics2/2008,2
-Montek Singh,conf/fmgals/2005,2
-Hiroshi Motoda,conf/pakdd/2010fsdm,2
-Hiroshi Motoda,conf/acml/2011,2
-Dan R. Ghica,conf/mfps/2012,2
-Steve Reeves,conf/refine/2008,2
-Moonjoo Kim,conf/rv/2002,2
-Steven A. Wright 0001,conf/ukpew/2017,2
-Dana S. Scott,conf/floc/1999rsa,2
-Camillo Fiorentini,conf/clase/2005,2
-Moreno Falaschi,conf/wflp/2003,2
-Steven Eker,conf/wrla/1996,2
-Cong Tian,conf/ttss/2013,2
-Simona Ronchi Della Rocca,conf/itrs/2004,2
-Colin J. Fidge,conf/cats/2001,2
-Mirko Viroli,conf/foclasa/2003,2
-Ivana Cerná,conf/pdmc/2008,2
-Mirko Viroli,conf/foclasa/2006,2
-Sophia Drossopoulou,conf/wood/2003,2
-Huibiao Zhu,conf/ttss/2013,2
-Chirine Ghedira,conf/context/2005cws,2
-Michael W. Mislove,conf/mfps/1999,2
-Christel Baier,conf/qapl/2005,2
-Michel Wermelinger,conf/gg/2002sett,2
-Christian Skalka,conf/mpc/2002tip,2
-Christian Nolasco,conf/clei/2017s,2
-Michel P. Schellekens,conf/mfcsit/2004,2
-Isabelle Guyon,conf/icml/2011utl,2
-Michel A. Reniers,conf/sos/2005,2
-Mireille Ducassé,conf/lpe/1999,2
-Clemens Kupke,conf/cmcs/2004,2
-Clemens Kupke,conf/cmcs/2008,2
-Héctor Cancela,conf/clei/2015s,2
-Sofiène Tahar,conf/fmws/2008,2
-Sofiène Tahar,journals/corr/BouhoulaIK13,2
-Shangping Ren,conf/foclasa/2008,2
-Chris Laffra,conf/oopsla/1990ocp,2
-Ian Mackie,conf/termgraph/2002,2
-Mohamed Fayad,conf/oopsla/1993a,2
-Claudia Ermel,conf/unigra/2001,2
-Stefan Milius,conf/cmcs/2004,2
-Michael Leuschel,conf/iclp/1999woid,2
-Howard Bowman,conf/forte/2000fme,2
-Stefan Milius,conf/ctcs/2002,2
-Howard A. Blair,conf/mfcsit/2000,2
-Sergio E. R. de Carvalho,conf/ffss/1997,2
-Sergey Verlan,journals/corr/abs-0906-4612,2
-Hsuan-Tien Lin,conf/acml/2011,2
-Michael J. Wooldridge,conf/lcmas/2003,2
-Jaco van de Pol,conf/ifm/2005ds,2
-Catuscia Palamidessi,conf/mfps/2009,2
-Jaco van de Pol,conf/pdmc/2007,2
-Jaco van de Pol,conf/pdmc/2008,2
 Horst Reichel,conf/cmcs/1998,2
-Sergio Rajsbaum,conf/getco/2010,2
-Corrado Priami,conf/concur/2003bio,2
-Corrado Priami,conf/icalp/2006mecbic,2
-Huan Liu 0001,conf/pakdd/2010fsdm,2
-Stefan Blom,conf/fmics/2003,2
-Stefan Blom,conf/pdmc/2003,2
-Stefan Edelkamp,conf/mochart/2005,2
-J. Robin B. Cockett,conf/mfps/2010,2
-J. Robin B. Cockett,conf/mfps/2016,2
-J. Robin B. Cockett,conf/mfps/2018,2
-Sergio Yovine,conf/etaps/2002tpts,2
-Christoph Benzmüller,conf/uitp/2006,2
-Bruce Anderson,conf/oopsla/1993a,2
-Masahiro Kimura,conf/acml/2011,2
-Jens Chr. Godskesen,conf/express/2008,2
-Masahiko Sakai,conf/wrs/2007,2
-David Lorge Parnas,conf/relmis/2001,2
-Mila Dalla Preda,conf/nsad/2016,2
-Andrea Omicini,conf/agp/2000,2
-David M. Ungar,conf/oopsla/1994a,2
-Thierry Boy de la Tour,conf/strategies/2004,2
-María Alpuente,conf/rule/2003,2
-Masashi Sugiyama,conf/acml/2010,2
-David J. Pym,conf/cade/2000ttlpss,2
-Beatriz Alarcón,conf/prole/2006,2
-Christoph Lüth,conf/uitp/2003,2
-Jean-Pierre Briot,conf/oopsla/1988ocp,2
-David Déharbe,conf/sbmf/2005,2
-Harald C. Gall,conf/gg/2004setra,2
-Tassilo Horn,journals/corr/abs-1111-4407,2
-Sabine Glesner,conf/cocv/2004,2
-Tayssir Touili,conf/infinity/2006-07-08,2
-Jeffrey O. Shallit,journals/corr/abs-1108-3412,2
-Clark W. Barrett,conf/smt/2004,2
-Bart Jacobs 0001,conf/cmcs/1998,2
-Ruth Dillhage,conf/cca/2007,2
-Ruth Dillhage,conf/cca/2006,2
-David W. Matula,conf/realcomp/1998,2
-Jesús Manuel Almendros-Jiménez,conf/prole/2011,2
-Jesús Medina 0001,conf/icalp/2002uncl,2
-Nicholas Nethercote,conf/rv/2003,2
-Martin Zimmermann 0002,journals/corr/abs-1210-2028,2
-Jian Guo 0005,conf/ttss/2013,2
-Martin Pollet,conf/calculemus/2005,2
-Martin Pinzger 0001,conf/gg/2004setra,2
-Rudy Setiono,conf/pakdd/2010fsdm,2
-Martin Leucker,conf/pdmc/2004,2
-Jeremy T. Bradley,conf/pasm/2005,2
-Bastian Schlich,conf/ssv/2008,2
+Montek Singh,conf/fmgals/2005,2
+Moonjoo Kim,conf/rv/2002,2
+Jaco van de Pol,conf/pdmc/2008,2
+Jaco van de Pol,conf/pdmc/2007,2
+Sean McLaughlin,conf/smt/2005,2
+Stephen T. Gilmore,conf/pasm/2005,2
+Jaco van de Pol,conf/ifm/2005ds,2
+Hiroshi Motoda,conf/pakdd/2010fsdm,2
+Horatiu Cirstea,conf/wrla/2004,2
+Steve Reeves,conf/refine/2008,2
+Sergey Verlan,journals/corr/abs-0906-4612,2
+Hiroshi Motoda,conf/acml/2011,2
+Michael Huth,conf/avocs/2007,2
+Damien Woods,journals/corr/NearyC13,2
+Carl Kwan,journals/corr/abs-1810-03762,2
+Matteo Cavaliere,conf/icalp/2006mecbic,2
+Nicolas Markey,journals/corr/EsparzaT15,2
+Mirko Viroli,conf/foclasa/2003,2
 Neil Ghani,conf/cmcs/2006,2
-Thomas Bolander,conf/hylo/2006,2
-Bas Luttik,journals/corr/abs-2008-12414,2
-Jeroen Ketema,conf/wrs/2004,2
-Nello Cristianini,conf/wapa/2010,2
-David Safránek,conf/sasb/2016,2
+Bart Jacobs 0001,journals/corr/abs-2112-13746,2
 Bart Jacobs 0001,conf/mfps/2019,2
 Bart Jacobs 0001,conf/mfps/2016,2
-Bart Jacobs 0001,conf/mfps/2013,2
+Cong Tian,conf/ttss/2013,2
 Bart Jacobs 0001,conf/cmcs/2010,2
-Bernhard K. Aichernig,conf/mbt/2009,2
-Tanja Grubba,conf/cca/2007,2
-Myla Archer,conf/strategies/2006,2
-Sandeep K. Shukla,conf/fmgals/2005,2
-Matthieu Martel,conf/nsv/2015,2
-Shinya Sato,conf/termgraph/2009,2
-Sylvain Lippi,conf/termgraph/2007,2
-Bob Coecke,conf/qpl/2006,2
-Samson Abramsky,conf/mfps/2009,2
-Heiko Koziolek,conf/fesca/2009,2
-Herbert Wiklicky,conf/qapl/2001,2
-Brigitte Pientka,conf/lfmtp/2007,2
-Mauro Ferrari 0002,conf/clase/2005,2
-Santiago Escobar 0001,conf/rule/2003,2
-Sanjeevi Krishnan,conf/mfps/2010,2
-Brad Balfour,conf/oopsla/1993a,2
-Mauricio Osorio 0001,conf/lanmr/2014s,2
-Jane Hillston,conf/fbtc/2008,2
-Jane Hillston,conf/pasm/2012,2
-Mauricio Ayala-Rincón,conf/wollic/2002,2
-Sandro Etalle,conf/iclp/2003svv,2
-Sandro Etalle,conf/iclp/1999vlp,2
-Bert Lisser,conf/pdmc/2007,2
-Naoki Nishida 0001,journals/corr/abs-1902-07818,2
-Hartmut Ehrig,conf/accat/2007,2
-Simon L. Peyton Jones,conf/haskell/2000,2
-David Aspinall 0001,conf/uitp/2003,2
-Matt Kaufmann,journals/corr/VerbeekS14,2
-Jean-Marie Favre,conf/atem/2004,2
-Naoyuki Nide,conf/clima/2002,2
-Naoyuki Tamura,conf/iclp/1999pitlp,2
+Nello Cristianini,conf/wapa/2010,2
+Bart Jacobs 0001,conf/cmcs/1998,2
+David Safránek,conf/sasb/2016,2
+Martin Pollet,conf/calculemus/2005,2
+Martin Pinzger 0001,conf/gg/2004setra,2
+Jeroen Ketema,conf/wrs/2004,2
+Mirko Viroli,conf/foclasa/2006,2
+Jens-Wolfhard Schicke,journals/corr/abs-1108-4077,2
+Beatriz Alarcón,conf/prole/2006,2
+Battista Biggio,conf/acml/2011,2
+Bastian Schlich,conf/ssv/2008,2
+Martin Zimmermann 0002,journals/corr/abs-1210-2028,2
+Thomas Bolander,conf/hylo/2006,2
+Jeremy T. Bradley,conf/pasm/2005,2
+Bas Luttik,journals/corr/abs-2008-12414,2
+Jesús Manuel Almendros-Jiménez,conf/prole/2011,2
+Ruben Gamboa,journals/corr/abs-2205-11103,2
+Ivana Cerná,conf/pdmc/2008,2
+Jifeng He 0001,conf/sbmf/2004,2
+Nicolas Magaud,journals/corr/abs-2112-14770,2
+Marta Z. Kwiatkowska,conf/probmiv/1998,2
+Deborah Knox,conf/iticse/1999wgr,2
+Marta Z. Kwiatkowska,conf/comprox/1997,2
+Rudolf Freund,journals/corr/NearyC13,2
+Ruth Dillhage,conf/cca/2007,2
+Ruth Dillhage,conf/cca/2006,2
+Jesús Medina 0001,conf/icalp/2002uncl,2
+Colin J. Fidge,conf/cats/2001,2
+Martin Leucker,conf/pdmc/2004,2
+David W. Matula,conf/realcomp/1998,2
+Jian Guo 0005,conf/ttss/2013,2
+Nicholas Nethercote,conf/rv/2003,2
+Baltasar Trancón y Widemann,conf/cmcs/2014,2
+Mireille Ducassé,conf/lpe/1999,2
+Rudy Setiono,conf/pakdd/2010fsdm,2
+David Lorge Parnas,conf/relmis/2001,2
+Thierry Boy de la Tour,conf/strategies/2004,2
+Jean Goubault-Larrecq,conf/isdt/2019,2
+Jean-Marie Favre,conf/gg/2004setra,2
+Michael Leuschel,conf/iclp/1999woid,2
+Corrado Priami,conf/concur/2003bio,2
 Jean-Marie Jacquet,conf/foclasa/2003,2
 Jean-Marie Jacquet,conf/foclasa/2004,2
-Matteo Cavaliere,conf/icalp/2006mecbic,2
-Salvador Lucas,conf/prole/2006,2
-Salvador Lucas,conf/rule/2003,2
-Sam Staton,conf/mfps/2018,2
-Sam Shiel,conf/bytecode/2005,2
-Matthew Forshaw,conf/ukpew/2014,2
-Jean Goubault-Larrecq,conf/isdt/2019,2
-T. S. E. Maibaum,journals/corr/AguirreR14,2
+Naoyuki Nide,conf/clima/2002,2
+Naoyuki Tamura,conf/iclp/1999pitlp,2
+Bernhard K. Aichernig,conf/mbt/2009,2
+David Aspinall 0001,conf/uitp/2003,2
+Tanja Grubba,conf/cca/2007,2
+Stefan Blom,conf/pdmc/2003,2
+Stefan Blom,conf/fmics/2003,2
+Jean-Marie Favre,conf/atem/2004,2
+Naoki Nishida 0001,journals/corr/abs-1902-07818,2
 Tadashi Araragi,conf/clima/2002,2
+Sam Shiel,conf/bytecode/2005,2
+Matt Kaufmann,journals/corr/VerbeekS14,2
+Naoki Nishida 0001,journals/corr/abs-1802-05862,2
+Stefan Edelkamp,conf/mochart/2005,2
+Hartmut Ehrig,conf/accat/2007,2
+Corrado Priami,conf/icalp/2006mecbic,2
+Bert Lisser,conf/pdmc/2007,2
 Salvador Lucas,conf/wflp/2002,2
-Steffen van Bakel,conf/itrs/2002,2
-Yurii Rogozhin,journals/corr/abs-0906-4612,2
-Agustin Riscos-Núñez,conf/icalp/2006mecbic,2
-Frank S. de Boer,conf/cotic/1998,2
-Ah-Hwee Tan,conf/inns-wc/2012,2
-Ralf Lämmel,conf/ldta/2002,2
-Erik Meijer 0001,conf/haskell/2000,2
-Patrik Eklund,conf/icalp/2002uncl,2
-Frank S. de Boer,conf/uml/2003cvuml,2
-Agostino Dovier,conf/agp/2000,2
-Agostino Cortesi,conf/vmcai/2005aiool,2
-M. Oliver Möller,conf/etaps/2002tpts,2
-Jörg Brauer,conf/ssv/2009,2
-Peter D. Mosses,conf/ldta/2004,2
-Eric Roberts,conf/iticse/1999wgr,2
-Wolfram Kahl,conf/relmis/2001,2
-Ernesto Pimentel 0001,conf/prole/2007,2
-Luís Soares Barbosa,conf/facs2/2005,2
-Fausto Spoto,conf/bytecode/2009,2
-Fausto Giunchiglia,conf/calculemus/1999,2
-Alexandre Madeira,conf/lsfa/2017,2
-Geguang Pu,conf/ttss/2007,2
-Erik P. de Vink,conf/lcmas/2004,2
-Ahmed Bouajjani,conf/infinity/2004,2
-Frank Wagner 0001,conf/atmos/2001,2
-Klaus Keimel,conf/comprox/1997,2
-Ahmed Khoumsi,conf/sbmf/2004,2
-Lydie du Bousquet,conf/mbt/2007,2
-Klaus Havelund,conf/rv/2001,2
-Klaus Fischer 0001,conf/agents/2001semas,2
-Eric Goubault,conf/getco/2010,2
-Pierluigi Crescenzi,conf/ictcs/2015,2
-Adam Bjorndahl,journals/corr/Lang17a,2
-Fernando Sáenz-Pérez,conf/prole/2011,2
-Raphaël Cauderlier,journals/corr/KaliszykP15,2
-Ranko Lazic 0001,conf/infinity/2004,2
-Gerardo Schneider,conf/fesca/2009,2
-Rasmus Ejlers Møgelberg,conf/mfps/2005,2
+Salvador Lucas,conf/rule/2003,2
+Salvador Lucas,conf/prole/2006,2
+Huan Liu 0001,conf/pakdd/2010fsdm,2
+María Alpuente,conf/rule/2003,2
+Jeffrey O. Shallit,journals/corr/abs-1108-3412,2
+Masahiko Sakai,conf/wrs/2007,2
+David J. Pym,conf/cade/2000ttlpss,2
+Jens Chr. Godskesen,conf/express/2008,2
+Sabine Glesner,conf/cocv/2004,2
+Tassilo Horn,journals/corr/abs-1111-4407,2
+David Déharbe,conf/sbmf/2005,2
+Masashi Sugiyama,conf/acml/2010,2
+Tayssir Touili,conf/infinity/2006-07-08,2
+Grigore Rosu,conf/rv/2004,2
+Achim Jung,conf/comprox/1997,2
 Wenfeng Zhang,conf/isdt/2013,2
-Peter McBurney,conf/etaps/2005finco,2
-Rasmus Ejlers Møgelberg,conf/mfps/2015,2
+Wendelin Serwe,conf/wflp/2001,2
+Zhiming Liu 0001,conf/facs2/2005,2
+Francisco Durán 0001,conf/wrs/2004,2
 Achim Jung,conf/mfps/2014,2
-Fernando Luís Dotti,conf/sbmf/2005,2
-Yves Ledru,conf/mbt/2007,2
-Lennart Beringer,conf/cocv/2006,2
-Lennart C. L. Kats,conf/ldta/2009,2
-Zakaria Maamar,conf/context/2005cws,2
-Ernesto Pimentel 0001,conf/icalp/2002fmci,2
-Alessandro Armando,conf/arspa/2004,2
-Yixiang Chen,conf/isdt/2009,2
-Luca Viganò 0001,conf/arspa/2005,2
-Luca Viganò 0001,conf/arspa/2004,2
-Friedrich Martin Schneider,conf/wact/2013,2
-Alessandro Cimatti,conf/smt/2005,2
-Ezio Bartocci,journals/corr/BortolussiBP13,2
+Eugenio G. Omodeo,conf/relmis/2001,2
+Karim Nour,conf/wcla/2004,2
 Prakash Panangaden,conf/dtmpp/2003,2
+Fernando Sáenz-Pérez,conf/prole/2011,2
 Prakash Panangaden,conf/mfps/2008,2
+Pierluigi Crescenzi,conf/ictcs/2015,2
+Luca Viganò 0001,conf/arspa/2005,2
+Germán Puebla,conf/bytecode/2007,2
+Luca Viganò 0001,conf/arspa/2004,2
+Laurent Van Begin,conf/avocs/2004,2
 Alessio Lomuscio,conf/lcmas/2004,2
+Ana Cristina Rocha Oliveira,conf/lsfa/2015,2
+Yurii Rogozhin,journals/corr/abs-0906-4612,2
+Eric Roberts,conf/iticse/1999wgr,2
+Paqui Lucio,conf/prole/2007,2
+Agustin Riscos-Núñez,conf/icalp/2006mecbic,2
+Emanuela Merelli,conf/fbtc/2008,2
+Xiaoquan Xu,conf/isdt/2013,2
+Jørgen Iversen,conf/ldta/2004,2
+Emanuela Merelli,conf/cs2bio/2014,2
+Julia Padberg,conf/unigra/2001,2
+Peter Selinger,conf/qpl/2005,2
+Alain Finkel,conf/infinity/2006-07-08,2
+Jörg Brauer,conf/ssv/2009,2
+François-Régis Sinot,conf/wrs/2007,2
+Welf Löwe,conf/soco/2003,2
+Amy P. Felty,conf/lsfa/2017,2
+Luigi V. Mancini,conf/icalp/2006wcan,2
+Frédéric Dadeau,conf/mbt/2007,2
+Alain Finkel,conf/infinity/1997,2
+Agostino Cortesi,conf/vmcai/2005aiool,2
+Agostino Dovier,conf/agp/2000,2
+Lauri Hella,conf/wollic/2003,2
+Rasmus Ejlers Møgelberg,conf/mfps/2015,2
+Alexander Kurz 0001,conf/cmcs/2010,2
+Keye Martin,conf/mfps/2008,2
+Gabriele Taentzer,conf/gtvmt/2001,2
+Fang Li 0010,journals/corr/abs-2109-07914,2
+Zakaria Maamar,conf/context/2005cws,2
+Yves Ledru,conf/mbt/2007,2
+Rafael Caballero 0001,conf/wflp/2006,2
+M. Oliver Möller,conf/etaps/2002tpts,2
+Gabriele Taentzer,conf/vlfm/2004,2
+Yoshinao Isobe,conf/avocs/2008,2
+Alexander Kurz 0001,conf/cmcs/2002,2
+Lennart C. L. Kats,conf/ldta/2009,2
+Farhad Arbab,conf/facs2/2005,2
+Lennart Beringer,conf/cocv/2006,2
+Jurriaan Rot,conf/cmcs/2022,2
+Jurriaan Rot,conf/cmcs/2018,2
+Yoshua Bengio,conf/icml/2011utl,2
+Farhad Arbab,conf/icalp/2002fmci,2
+Raphaël Cauderlier,journals/corr/KaliszykP15,2
 Fairouz Kamareddine,conf/wollic/2002,2
+Radu Mardare,conf/mfps/2014,2
 Fairouz Kamareddine,conf/mkm/2003s,2
-Alessandro Armando,conf/calculemus/1999,2
-Kenny Wong,conf/atem/2003,2
-Kenneth S. Stevens,conf/fmgals/2007,2
-Yi Chang 0001,conf/icml/2010ltr,2
+Ganesh Gopalakrishnan,conf/nsv/2015,2
+Leendert W. N. van der Torre,conf/coordination/2005coorg,2
+Eric Goubault,conf/getco/2010,2
+Gerardo Schneider,conf/fesca/2009,2
+Adam Bjorndahl,journals/corr/Lang17a,2
+Rasmus Ejlers Møgelberg,conf/mfps/2005,2
+Peter McBurney,conf/etaps/2005finco,2
+Ganesh Gopalakrishnan,conf/birthday/2007lindstrom,2
+Fernando Luís Dotti,conf/sbmf/2005,2
+Farhad Arbab,conf/foclasa/2008,2
+Ranko Lazic 0001,conf/infinity/2004,2
+Farhad Arbab,conf/foclasa/2009,2
+François Pottier,conf/ml/2005,2
+Ahmed Khoumsi,conf/sbmf/2004,2
+Philipp Haller,journals/corr/VasconcelosH17,2
+Gian Luigi Ferrari,conf/express/1997,2
+Frank S. de Boer,conf/cotic/1998,2
 Fabio Martinelli,conf/vodca/2006,2
-Lubos Brim,conf/concur/2002pdmc,2
-Lubos Brim,conf/pdmc/2003,2
-Paulo Sérgio Muniz Silva,conf/sbmf/2004,2
-Louis Wehenkel,conf/pkdd/2008fsdm,2
-Luca Cardelli,conf/birthday/2007plotkin,2
 Alessandra Di Pierro,conf/qapl/2004,2
 Alessandra Di Pierro,conf/qapl/2001,2
-Frédéric Dadeau,conf/mbt/2007,2
-Frédéric Dadeau,conf/mbt/2009,2
-Gabriele Taentzer,conf/gtvmt/2001,2
-Alain Finkel,conf/infinity/2006-07-08,2
-François Pottier,conf/ml/2005,2
-Kim G. Larsen,journals/corr/abs-1212-3454,2
-Esra Erdem 0001,journals/corr/abs-2009-09158,2
-Luoshan Xu,conf/isdt/2017,2
-Paul Curzon,conf/fmis/2007,2
-Alexandra Tsyban,conf/ssv/2008,2
-Lutz Schröder,conf/mfps/2015,2
-Paul Curzon,conf/icfem/2006fmis,2
-Alain Finkel,conf/infinity/1997,2
-Xiaoquan Xu,conf/isdt/2013,2
-Gavin Lowe,conf/avocs/2007,2
-Gavin C. Cawley,conf/aistats/2010w,2
-Karim Nour,conf/wcla/2004,2
-Yoshua Bengio,conf/icml/2011utl,2
-Farhad Arbab,conf/facs2/2005,2
-Ganesh Gopalakrishnan,conf/birthday/2007lindstrom,2
-Keye Martin,conf/mfps/2008,2
-Gabriele Taentzer,conf/vlfm/2004,2
-Fang Li 0010,journals/corr/abs-2109-07914,2
-Eugenio G. Omodeo,conf/relmis/2001,2
-Radu Mardare,conf/mfps/2014,2
-François-Régis Sinot,conf/wrs/2007,2
-Alexander Kurz 0001,conf/cmcs/2010,2
-Alexander Kurz 0001,conf/cmcs/2002,2
-Rafael Caballero 0001,conf/wflp/2006,2
-Yoshinao Isobe,conf/avocs/2008,2
-Luigi V. Mancini,conf/icalp/2006wcan,2
-Farhad Arbab,conf/icalp/2002fmci,2
-Ganesh Gopalakrishnan,conf/nsv/2015,2
-Farhad Arbab,conf/foclasa/2009,2
-Farhad Arbab,conf/foclasa/2008,2
-Lubos Brim,conf/pdmc/2004,2
-Elham Kashefi,conf/qpl/2005,2
-Reiko Heckel,conf/fovmt/2004,2
-Vítor Santos Costa,conf/iclp/1999pitlp,2
-Volker Sorge,conf/calculemus/1999,2
-Aad van Moorsel,conf/ukpew/2017,2
-Reiko Heckel,conf/gg/2002sett,2
-Gianluigi Zavattaro,conf/secco/2004,2
-René David,conf/wcla/2004,2
-Elvira Albert,conf/bytecode/2007,2
-Juan Manuel Murillo,conf/wcat/2006,2
-Elena Zucca,conf/ictcs/2015,2
-Anamaria Martins Moreira,conf/sbmf/2005,2
-Volker Stolz,conf/ttss/2007,2
-Ana Cristina Rocha Oliveira,conf/lsfa/2015,2
-Zoltán Porkoláb,conf/wgt/2008,2
-Paola Giannini,conf/ictcs/2015,2
-Emanuela Merelli,conf/cs2bio/2014,2
-Lauri Hella,conf/wollic/2003,2
-Julia Padberg,conf/unigra/2001,2
-Emanuela Merelli,conf/fbtc/2008,2
-Francisco Durán 0001,conf/wrs/2004,2
-Francesco Logozzo,conf/vmcai/2005aiool,2
-Paolo Milazzo,conf/mecbic/2008,2
-Flavio Corradini,conf/express/1997,2
-Laurent Van Begin,conf/avocs/2004,2
-Paqui Lucio,conf/prole/2007,2
-Marc Lasson,conf/mfps/2014,2
-Peter Selinger,conf/qpl/2005,2
-Flavio Corradini,conf/express/2004,2
-Manuel A. Martins 0001,conf/lsfa/2017,2
-Ádám Sipos,conf/wgt/2008,2
 Giampaolo Bella,conf/vodca/2004,2
-Amy P. Felty,conf/lsfa/2017,2
-Germán Puebla,conf/bytecode/2007,2
-Welf Löwe,conf/soco/2003,2
-Elke Pulvermüller,conf/soco/2002,2
-Paliath Narendran,journals/corr/abs-1012-4554,2
-Zhiming Liu 0001,conf/facs2/2005,2
+Yde Venema,conf/cmcs/2012,2
+Erik P. de Vink,conf/lcmas/2004,2
+Vítor Santos Costa,conf/iclp/1999pitlp,2
+Kirstin Peters,journals/corr/abs-1108-4077,2
+Fausto Spoto,conf/bytecode/2009,2
+Wolfram Kahl,conf/relmis/2001,2
+Erik Meijer 0001,conf/haskell/2000,2
+Philippa Gardner,conf/birthday/2007plotkin,2
+Ádám Sipos,conf/wgt/2008,2
+Juan Manuel Murillo,conf/wcat/2006,2
 Philipp Sünderhauf,conf/realcomp/1998,2
-Wendelin Serwe,conf/wflp/2001,2
-Leendert W. N. van der Torre,conf/coordination/2005coorg,2
+Aad van Moorsel,conf/ukpew/2017,2
+Ezio Bartocci,journals/corr/BortolussiBP13,2
+Gavin Lowe,conf/avocs/2007,2
+Laura Bozzelli,journals/corr/abs-1106-0814,2
+Alexandra Silva 0001,journals/corr/abs-2112-13746,2
+Alexandra Tsyban,conf/ssv/2008,2
+Kenny Wong,conf/atem/2003,2
+Kenneth S. Stevens,conf/fmgals/2007,2
+Paulo Sérgio Muniz Silva,conf/sbmf/2004,2
+Geguang Pu,conf/ttss/2007,2
+Frank S. de Boer,conf/uml/2003cvuml,2
+Lubos Brim,conf/concur/2002pdmc,2
 Lars Birkedal,conf/mfps/2005,2
-Moshe Y. Vardi,conf/concur/2002pdmc,1
-Miklós Telek,conf/pasm/2004,1
-Pedro T. Monteiro 0001,conf/sasb/2016,1
-Pedro R. D'Argenio,journals/corr/CrafaG15,1
-Miklós Kurucz,conf/kdd/2009kddcup,1
-Pedro Rangel Henriques,conf/ldta/2002,1
-Moshe Y. Vardi,conf/bmc/2004,1
-Pedro Rangel Henriques,conf/ldta/2006,1
-Pedro Rafael Márquez-Gutiérrez,journals/corr/abs-1909-07646,1
-Miklós Bartha,journals/corr/abs-1006-1937,1
-Peter W. O'Hearn,conf/mfps/2006,1
-Pedro Sánchez Terraf,conf/lsfa/2018,1
-Murdoch James Gabbay,journals/corr/abs-1009-2189,1
-Murdoch Gabbay,conf/wflp/2007,1
-Pedro R. D'Argenio,conf/qapl/2009,1
-Muffy Calder,conf/avocs/2004,1
-Peter Van Roy,conf/facs2/2006,1
-Mikhail Posypkin,conf/ldta/2003,1
-Petr Hnetynka,conf/fesca/2012,1
-Mustapha Bourahla,conf/fmics/2002,1
-Mustapha Bourahla,conf/fmics/2004,1
-Pedro Pablo Pérez Velasco,conf/prole/2007,1
-Mustapha Bourahla,conf/wollic/2004,1
-Musab AlTurki,conf/wwv/2007,1
-Mikkel Bundgaard,conf/express/2004,1
-Petr Bauch,journals/corr/abs-1111-0064,1
-Mikkel Bundgaard,conf/secco/2007,1
-Murray Cole,conf/qapl/2007,1
-Pedro R. D'Argenio,conf/probmiv/1998,1
-Mikkel Bundgaard,conf/express/2008,1
-Mikkel Bundgaard,conf/concur/2005gtvc,1
-Pedro Quaresma,conf/uitp/2006,1
-Pedro Paulo Balbi de Oliveira,journals/corr/abs-1208-2498,1
-Murray Stokely,conf/svv/2005,1
-Musa Mohd Mokji,conf/inns-wc/2012,1
-Milano Gadelha Carvalho,conf/soco/2002,1
-Morteza Haghir Chehreghani,conf/icml/2011utl,1
-Pedro R. D'Argenio,conf/qapl/2005,1
-Miklós Telek,conf/pasm/2017,1
-Peter Wegner,conf/cmcs/1999,1
-Muhammad Torabi Dashti,conf/qapl/2007,1
-Peter Widmayer,conf/atmos/2002,1
-Milan Petkovic,conf/stm/2007,1
-Mourad Debbabi,conf/cav/2001lacpv,1
-Muhammad Usama Sardar,journals/corr/HermannsH17,1
-Pei-Pei Li 0001,conf/acml/2010,1
-Muhammad Fadlisyah,journals/corr/abs-1009-3982,1
-Muffy Calder,conf/fbtc/2008,1
-Muffy Calder,conf/avocs/2007,1
-Muffy Calder,conf/arts/2004,1
-Muck van Weerdenburg,conf/wrs/2006,1
-Milad Niqui,conf/cmcs/2010,1
-Muck van Weerdenburg,conf/facs2/2007,1
-Muffy Calder,conf/avocs/2008,1
-Muffy Calder,journals/corr/abs-1002-4919,1
+Luoshan Xu,conf/isdt/2017,2
+Alexandre Madeira,conf/lsfa/2017,2
+Lutz Schröder,conf/mfps/2015,2
+René David,conf/wcla/2004,2
+Frank Wagner 0001,conf/atmos/2001,2
+Alejandro Díaz-Caro,journals/corr/abs-2204-03415,2
+Frédéric Dadeau,conf/mbt/2009,2
+Volker Sorge,conf/calculemus/1999,2
+Louis Wehenkel,conf/pkdd/2008fsdm,2
+Elham Kashefi,conf/qpl/2005,2
+Lubos Brim,conf/pdmc/2004,2
+Lubos Brim,conf/pdmc/2003,2
+Yi Chang 0001,conf/icml/2010ltr,2
+Friedrich Martin Schneider,conf/wact/2013,2
+Paola Giannini,conf/ictcs/2015,2
+Elena Zucca,conf/ictcs/2015,2
+Volker Stolz,conf/ttss/2007,2
+Fausto Giunchiglia,conf/calculemus/1999,2
+Esra Erdem 0001,journals/corr/abs-2009-09158,2
+Flavio Corradini,conf/express/2004,2
+Reiko Heckel,conf/gg/2002sett,2
+Ah-Hwee Tan,conf/inns-wc/2012,2
+Klaus Havelund,conf/rv/2001,2
+Elvira Albert,conf/bytecode/2007,2
+Ernesto Pimentel 0001,conf/prole/2007,2
+Patrik Eklund,conf/icalp/2002uncl,2
+Ralf Lämmel,conf/ldta/2002,2
+Lydie du Bousquet,conf/mbt/2007,2
+Zoltán Porkoláb,conf/wgt/2008,2
+Alessandro Cimatti,conf/smt/2005,2
+Paolo Milazzo,conf/mecbic/2008,2
+Yixiang Chen,conf/isdt/2009,2
+Ernesto Pimentel 0001,conf/icalp/2002fmci,2
+Reiko Heckel,conf/fovmt/2004,2
+Klaus Fischer 0001,conf/agents/2001semas,2
+Alessandro Armando,conf/calculemus/1999,2
+Francesco Logozzo,conf/vmcai/2005aiool,2
+Gavin C. Cawley,conf/aistats/2010w,2
+Alessandro Armando,conf/arspa/2004,2
+Luís Soares Barbosa,conf/facs2/2005,2
+Ahmed Bouajjani,conf/infinity/2004,2
+Manuel A. Martins 0001,conf/lsfa/2017,2
+Paul Curzon,conf/fmis/2007,2
+Paul Curzon,conf/icfem/2006fmis,2
+Elke Pulvermüller,conf/soco/2002,2
+Anamaria Martins Moreira,conf/sbmf/2005,2
+Kim G. Larsen,journals/corr/abs-1212-3454,2
+Moritz Martens,conf/facs2/2007,1
+Morgan Ericsson,conf/soco/2004,1
+Per Mellstrand,conf/secco/2003,1
+Moreno Falaschi,conf/wwv/2005e,1
+Morgan Deters,conf/lfmtp/2007,1
+Peter Auer,conf/icml/2011otee,1
+Moreno Falaschi,conf/wflp/2002,1
+Moninder Singh,conf/kdd/2009kddcup,1
+Morgan Magnin,conf/softmc/2005,1
+Moreno Falaschi,conf/wrs/2001,1
 Mu Sun,journals/corr/abs-1009-3982,1
-Milan Ceska 0001,conf/avocs/2005,1
-Milan Ceska 0002,journals/corr/abs-1111-0064,1
-Milad Niqui,conf/cmcs/2006,1
-Milan Krivánek,journals/corr/abs-1111-0064,1
-Miklós Telek,conf/ukpew/2014,1
-Murali Narasimha,conf/monterey/1998,1
-Peter Wegner,conf/express/2001,1
-Moshe Y. Vardi,journals/corr/abs-1106-0814,1
-Murat Karaorman,conf/rv/2004,1
-Murdoch Gabbay,conf/lfmtp/2006,1
+Moritz Hardt,conf/hylo/2006,1
+Morgan Magnin,conf/cs2bio/2013,1
+Peter Antal,conf/pkdd/2008fsdm,1
+Mourad Debbabi,conf/cav/2001lacpv,1
+Moritz Roidl,journals/corr/abs-1912-09611,1
+Peter A. Flach,conf/acml/2010,1
+Peng Yu,conf/fsen/2005,1
+Montserrat Hermo,conf/prole/2007,1
+Moreno Falaschi,conf/sasb/2014,1
+Moreno Falaschi,conf/rule/2004,1
+Moshe Y. Vardi,conf/concur/2002pdmc,1
+Moreno Falaschi,conf/cs2bio/2012,1
+Moonjoo Kim,conf/rv/2001,1
+Petar Maksimovic,journals/corr/CervesatoC15,1
+Moshe Y. Vardi,conf/bmc/2004,1
+Moreno Falaschi,conf/agp/2000,1
+Morteza Haghir Chehreghani,conf/icml/2011utl,1
+Morteza Mohaqeqi,journals/corr/KargahiT16,1
+Moonzoo Kim,conf/mbt/2009,1
+Pertti Kellomäki,conf/foclasa/2002,1
 Moshe Y. Vardi,conf/floc/1999smc,1
-Peter Wegner,conf/etaps/2005finco,1
-Murdoch Gabbay,conf/lfmtp/2007,1
-Mikolaj Bojanczyk,journals/corr/BartolettiHKV16,1
-Mila E. Majster-Cederbaum,conf/qapl/2006,1
-Mila E. Majster-Cederbaum,conf/qapl/2005,1
-Pedro da Rocha Pinto,conf/mfps/2015,1
+Moshe Y. Vardi,journals/corr/abs-1106-0814,1
+Peter Andersen,conf/eclipse/2004ep,1
+Moreno Falaschi,conf/wflp/2001,1
+Monique Wiesinger,journals/corr/abs-1109-1044,1
+Perla Velasco Elizondo,conf/abmb/2005,1
+Morten Kühnrich,conf/secco/2005,1
+Mostafa S. Ibrahim,conf/inns-wc/2012,1
 Mostafa Ajallooeian,conf/acml/2010,1
-Milan Urbásek,conf/unigra/2003,1
-Peter Y. A. Ryan,conf/apn/2004wisp,1
-Moshe Y. Vardi,journals/corr/abs-2009-09360,1
-Naijun Zhan,conf/iclp/2003svv,1
-Mike Whalen,conf/slap/2007,1
-Pawel Pietrzak,conf/lpe/1999,1
-Nancy A. Day,conf/fsen/2005,1
-Nancy A. Lynch,conf/mbt/2006,1
-Nafiseh Fekrazad Nobakht,conf/fsen/2005,1
-Mike Monegan,conf/oopsla/1991a,1
-Pawel Sobocinski 0001,conf/express/2002,1
-Pawel Sobocinski 0001,conf/ice/2008,1
+Peter Aczel,conf/cmcs/2001,1
+Morten N. Nielsen,conf/atmos/2001,1
+Per Håkon Meland,journals/corr/KordyMP14,1
+Pamela C. Laguna Laura,conf/clei/2016s,1
+Nadine Chlass,conf/nips/2009mscts,1
+Nachum Dershowitz,conf/pdmc/2004,1
+Nachum Dershowitz,conf/wollic/2003,1
+Nadia Busi,conf/apn/2004wisp,1
+Nadia Busi,conf/fbtc/2007,1
+Nadia Busi,conf/icalp/2002fwan,1
+Pawel Waszkiewicz,conf/mfps/2001,1
+Pawel Sobocinski 0001,journals/corr/MunozP16,1
+Pawel Sobocinski 0001,conf/sos/2007,1
 Nadia Busi,conf/lix/2006,1
+Pawel Sobocinski 0001,conf/mfps/2015,1
+Pawel Sobocinski 0001,conf/ice/2008,1
 Nadia Labai,journals/corr/PuppisV13,1
 Nadia Nedjah,conf/cats/2000,1
-Mike R. True,conf/mbt/2006,1
-Nadim Sarrouh,journals/corr/abs-1204-5796,1
 Pawel Sobocinski 0001,conf/gg/2004pngt,1
-Nadine Chlass,conf/nips/2009mscts,1
+Nachum Dershowitz,conf/iclp/1999vlp,1
+Nachum Dershowitz,conf/ftp/2003,1
+Nachum Dershowitz,conf/dcm/2005,1
+Pedro Baltazar,conf/qapl/2007,1
+Mônica Corrêa,conf/pasm/2005,1
+Pedro Adão,conf/qapl/2006,1
+Pedro A. Valdés-Sosa,conf/nips/2009mscts,1
+N. C. W. M. Braspenning,conf/mbt/2006,1
+Nabil R. Adam,journals/lncs/1993-759,1
+Paz Morillo,conf/icalp/2007wcan,1
+Naamah Swerdlin,conf/fbtc/2007,1
+Paz Morillo,conf/icalp/2006wcan,1
+Nabil R. Adam,conf/stm/2006,1
+Nadim Sarrouh,journals/corr/abs-1204-5796,1
 Pawel Sobocinski 0001,conf/express/2006,1
-Naeem Abbasi,journals/corr/BouhoulaIK13,1
-Pawel Paczkowski,conf/mfcs/1998woc,1
+Muck van Weerdenburg,conf/wrs/2006,1
+Pawel Sobocinski 0001,conf/express/2002,1
 Nancy A. Lynch,conf/smt/2006,1
 Nancy D. Griffeth,conf/mbt/2006,1
-Mikael Åkerholm,conf/fesca/2005,1
-Mikael Hammar,conf/euler/2004,1
+Nandamudi Lankalapalli Vijaykumar,journals/corr/BuhnovaHK14,1
 Pavol Cerný,journals/corr/abs-1210-2028,1
-Naoki Kobayashi 0001,conf/express/2004,1
 Pavol Cerný,journals/corr/FinkbeinerS14,1
-Naoki Kobayashi 0001,conf/hlcl/1998,1
+Nanjangud C. Narendra,conf/context/2005cws,1
 Pavlína Vareková,conf/pdmc/2008,1
-Naoki Kobayashi 0001,conf/lfm/2004,1
 Pavlína Vareková,conf/facs2/2006,1
+Naoki Kobayashi,journals/corr/abs-2109-03988,1
+Naoki Kobayashi 0001,conf/express/2004,1
+Naoki Kobayashi 0001,conf/hlcl/1998,1
+Naoki Kobayashi 0001,conf/lfm/2004,1
 Naoki Nishida 0001,conf/wflp/2003,1
 Naoki Nishida 0001,journals/corr/Maneth13,1
 Pavlo Golik,conf/kdd/2009kddcup,1
-Naoki Nishida 0001,journals/corr/abs-1802-05862,1
-Pavle Subotic,journals/corr/BjornerFRS14,1
-Pavithra Prabhakar,conf/nsv/2015,1
-Mikael Buchholtz,conf/qapl/2004,1
-Petros Kefalas,journals/corr/abs-1008-3147,1
-Nandamudi Lankalapalli Vijaykumar,journals/corr/BuhnovaHK14,1
-Mike Guether,journals/corr/abs-0910-1605,1
+Nancy A. Lynch,conf/mbt/2006,1
+Nancy A. Day,conf/fsen/2005,1
+Naeem Abbasi,journals/corr/BouhoulaIK13,1
+Pawel Sobocinski 0001,conf/cmcs/2016,1
+Pawel Sobocinski 0001,conf/cmcs/2012,1
+Pawel Pietrzak,conf/lpe/1999,1
+Naijun Zhan,conf/iclp/2003svv,1
+Pawel Parys,journals/corr/abs-1210-2028,1
+Pawel Paczkowski,conf/mfcs/1998woc,1
 Pawel Paczkowski,conf/infinity/1996,1
-Nanjangud C. Narendra,conf/context/2005cws,1
-Mike Gordon,conf/avocs/2005,1
-Mike Dodds,conf/concur/2005gtvc,1
-Mike D. Atkinson,conf/cats/2004,1
-Petri Selonen,conf/uml/2003ocl,1
-Mike Bond,conf/arspa/2004,1
-Mike Behrisch,conf/wact/2013,1
-Petros Belsis,conf/stm/2006,1
-Pawel Sobocinski 0001,conf/sos/2007,1
-Nadia Busi,conf/icalp/2002fwan,1
-Pedro Merino 0001,conf/wflp/2002,1
-Pedro J. Clemente,conf/ldta/2003,1
+Máté Kovács,conf/concur/2006gtvc,1
+Murali Narasimha,conf/monterey/1998,1
+Pedro Rangel Henriques,conf/ldta/2002,1
+Murat Karaorman,conf/rv/2004,1
+Pedro Rafael Márquez-Gutiérrez,journals/corr/abs-1909-07646,1
+Pedro R. D'Argenio,journals/corr/CrafaG15,1
+Murdoch Gabbay,conf/lfmtp/2006,1
+Murdoch Gabbay,conf/lfmtp/2007,1
+Murdoch Gabbay,conf/wflp/2007,1
+Murdoch James Gabbay,journals/corr/abs-1009-2189,1
+Pedro R. D'Argenio,conf/qapl/2009,1
+Pedro R. D'Argenio,conf/qapl/2005,1
+Murray Cole,conf/qapl/2007,1
+Murray Stokely,conf/svv/2005,1
+Muffy Calder,conf/arts/2004,1
+Muffy Calder,conf/avocs/2004,1
+Muffy Calder,conf/avocs/2007,1
+Muffy Calder,conf/avocs/2008,1
+Muffy Calder,conf/fbtc/2008,1
+Muffy Calder,journals/corr/abs-1002-4919,1
+Muhammad Fadlisyah,journals/corr/abs-1009-3982,1
+Pedro Rangel Henriques,conf/ldta/2006,1
+Muhammad Torabi Dashti,conf/qapl/2007,1
+Muhammad Usama Sardar,journals/corr/HermannsH17,1
+Pedro T. Monteiro 0001,conf/sasb/2016,1
+Pedro Sánchez Terraf,conf/lsfa/2018,1
+Pedro R. D'Argenio,conf/probmiv/1998,1
+Pedro Quaresma,conf/uitp/2006,1
+Pedro López-García 0001,journals/corr/abs-2008-02483,1
 Mário Florido,conf/lsfa/2016,1
+Pedro L. Varela,conf/sasb/2016,1
 Mário Florido,conf/wflp/2001,1
-Petr Kouznetsov,conf/getco/2002,1
+Pedro Merino 0001,conf/fmics/2002,1
+Pedro J. Clemente,conf/ldta/2003,1
 Mário Florido,conf/wrs/2007,1
+Pedro Filipe,journals/corr/abs-2204-06359,1
 Mário Florido,journals/corr/CervesatoF17,1
 Mário Florido,journals/corr/Rehof15,1
+Mário Florido,journals/corr/abs-1909-07646,1
+Pedro Figueirêdo,journals/corr/abs-2008-08923,1
 Mário Pereira,journals/corr/Rehof15,1
-Nadia Busi,conf/foclasa/2002,1
-Máté Kovács,conf/concur/2006gtvc,1
-Mikhail Barash,journals/corr/EsikF14,1
-Pedro Filipe,journals/corr/abs-2204-06359,1
-Mônica Corrêa,conf/pasm/2005,1
-Myla Archer,conf/strategies/2004,1
-Mikhail Jiline,conf/pkdd/2008fsdm,1
-Pedro Merino 0001,conf/fmics/2004,1
-Pedro Merino 0001,conf/fmics/2002,1
-Petr Jancar,conf/infinity/1997,1
-Myong Kim,conf/rv/2003,1
-Pedro Merino 0001,conf/cocv/2007,1
-Petr Jancar,conf/mfcs/1998woc,1
-Pedro López-García 0001,journals/corr/abs-2008-02483,1
-Pedro L. Varela,conf/sasb/2016,1
 Pedro Cabalar,journals/corr/abs-2009-09158,1
-Paz Morillo,conf/icalp/2007wcan,1
-Nachum Dershowitz,conf/wollic/2003,1
-Mikhail Auguston,conf/soco/2004,1
-Nachum Dershowitz,journals/corr/abs-1207-6821,1
-Pawel Waszkiewicz,conf/mfps/2001,1
-Mikel Luján,conf/ldta/2009,1
-Pawel Sobocinski 0001,journals/corr/MunozP16,1
-Nadia Busi,conf/apn/2004wisp,1
-Nadia Busi,conf/fbtc/2007,1
-Paz Morillo,conf/icalp/2006wcan,1
-Nachum Dershowitz,conf/pdmc/2004,1
-Pedro A. Valdés-Sosa,conf/nips/2009mscts,1
-Pedro Baltazar,conf/qapl/2007,1
-Naamah Swerdlin,conf/fbtc/2007,1
-Pedro Adão,conf/qapl/2006,1
-Nabil R. Adam,conf/stm/2006,1
-Nabil R. Adam,journals/lncs/1993-759,1
-Nachum Dershowitz,conf/dcm/2005,1
-Nachum Dershowitz,conf/ftp/2003,1
-Petr Svenda,conf/stm/2005,1
-Nachum Dershowitz,conf/iclp/1999vlp,1
-Mirabelle Nebut,conf/slap/2003,1
-Mircea Marin,conf/wflp/2007,1
-Mircea Marin,conf/mkm/2003s,1
-Peter Habermehl,conf/infinity/2006-07-08,1
-Peter Habermehl,conf/infinity/2005,1
-Peter Selinger,conf/cav/2001lacpv,1
-Peter Selinger,conf/ctcs/2002,1
-Peter Habermehl,conf/infinity/2004,1
-Peter H. Schmitt,conf/uml/2003ocl,1
-Mirabelle Nebut,conf/etaps/2002slap,1
-Mohammad Abdollahi Azgomi,conf/fmws/2008,1
-Peter Herrmann,conf/uml/2003cvuml,1
-Mircea-Dan Hernest,conf/dcm/2006,1
-Peter Höfner,journals/corr/HermannsH17,1
-Peter Höfner,conf/wwv/2007,1
-Mohamed Hamada 0001,conf/cats/2000,1
-Peter Höfner,conf/ifm/2005ds,1
-Peter Housel,conf/babel/2001,1
-Mohamed Mahdi Benmoussa,journals/corr/PangL14,1
+Pedro Merino 0001,conf/cocv/2007,1
+Musab AlTurki,conf/wwv/2007,1
+Mustapha Bourahla,conf/fmics/2002,1
+Mustapha Bourahla,conf/fmics/2004,1
+Mustapha Bourahla,conf/wollic/2004,1
+Myla Archer,conf/strategies/2004,1
+Pedro Merino 0001,conf/fmics/2004,1
+Myong Kim,conf/rv/2003,1
+Pedro Paulo Balbi de Oliveira,journals/corr/abs-1208-2498,1
+Mohammad Reza Mousavi 0001,conf/sos/2007,1
+Min Zhang 0007,conf/isdt/2009,1
+Min-Hsien Weng,conf/fm/2015use,1
+Peter Spirtes,conf/wcci/2008cpc,1
+Ming-Syan Chen,journals/lncs/1993-759,1
+Ming-Ying Chung,conf/pdmc/2005,1
+Minghui Ma,journals/corr/GhoshR17,1
+Peter Sewell,conf/hlcl/2000,1
+Min Zhang 0002,conf/vsse/2013,1
+Milad Niqui,conf/cmcs/2006,1
+Milad Niqui,conf/cmcs/2010,1
+Milan Ceska 0001,conf/avocs/2005,1
+Milan Ceska 0002,journals/corr/abs-1111-0064,1
+Milan Krivánek,journals/corr/abs-1111-0064,1
+Milan Petkovic,conf/stm/2007,1
+Milan Urbásek,conf/unigra/2003,1
+Milano Gadelha Carvalho,conf/soco/2002,1
+Peter Thiemann 0001,conf/hoots/2000,1
+Milton Augustinis De Castro,conf/wollic/2005,1
+Peter Szulman,conf/fesca/2007,1
+Peter Sestoft,journals/corr/BanerjeeDDH13,1
+Peter Rodgers 0001,conf/euler/2004,1
+Peter Robinson 0002,journals/corr/Censor-HillelK13,1
+Peter Reid,journals/corr/abs-1110-4473,1
+Miriam Garcia Soto,conf/nsv/2015,1
+Mirko Conrad,conf/mbt/2004,1
+Mirko Viroli,conf/etaps/2005finco,1
+Peter Padawitz,conf/wflp/2006,1
+Mirko Viroli,conf/secco/2003,1
+Mirko Viroli,conf/secco/2004,1
+Mirko Viroli,conf/wood/2004,1
+Mirko Viroli,conf/wsfm/2004,1
+Mirko Viroli,journals/corr/BeekL16,1
 Mircea-Dan Hernest,conf/lfmtp/2006,1
+Mircea-Dan Hernest,conf/dcm/2006,1
+Peter Selinger,journals/corr/abs-2109-04886,1
+Minh Lê,conf/qmpd/2012,1
+Peter Selinger,conf/ctcs/2002,1
+Peter Selinger,conf/cav/2001lacpv,1
+Miquel Bertran,conf/prole/2004,1
+Mira Mezini,conf/ldta/2006,1
+Peter Schachte,conf/cats/2001,1
+Peter Ryan 0001,conf/wsaif/1999,1
+Mirabelle Nebut,conf/etaps/2002slap,1
+Mirabelle Nebut,conf/slap/2003,1
+Peter Ross,conf/babel/2001,1
+Mircea Marin,conf/mkm/2003s,1
+Mircea Marin,conf/wflp/2007,1
+Peter Thiemann 0001,conf/mpc/2002tip,1
+Mila E. Majster-Cederbaum,conf/qapl/2006,1
+Petra van den Bos,journals/corr/abs-1809-02416,1
+Mikael Buchholtz,conf/mtcs/2001,1
+Mikael Buchholtz,conf/pasm/2004,1
+Mikael Buchholtz,conf/qapl/2004,1
+Mikael Hammar,conf/euler/2004,1
+Mikael Åkerholm,conf/fesca/2005,1
+Mike Behrisch,conf/wact/2013,1
+Mike Bond,conf/arspa/2004,1
+Mike D. Atkinson,conf/cats/2004,1
+Mike Dodds,conf/concur/2005gtvc,1
+Mike Gordon,conf/avocs/2005,1
+Mike Guether,journals/corr/abs-0910-1605,1
+Petr Svenda,conf/stm/2005,1
+Petr Kouznetsov,conf/getco/2002,1
+Mike Monegan,conf/oopsla/1991a,1
+Petr Jancar,conf/mfcs/1998woc,1
+Mika Siikarla,conf/uml/2003ocl,1
+Mihaela Sighireanu,conf/infinity/2006-07-08,1
+Petrucio Viana,conf/lsfa/2008,1
+Mihai Herda,journals/corr/abs-1907-03523,1
+Mihai Pasca,conf/uml/2003ocl,1
+Petros Kefalas,journals/corr/abs-1008-3147,1
+Mihai Rotaru,conf/mfcs/1998woc,1
+Petros Belsis,conf/stm/2006,1
+Mihály Biczó,conf/wgt/2008,1
+Mika Karaila,conf/atem/2004,1
+Mila E. Majster-Cederbaum,conf/qapl/2005,1
+Peter Y. A. Ryan,conf/apn/2004wisp,1
+Peter Widmayer,conf/atmos/2002,1
+Mikkel Bundgaard,conf/concur/2005gtvc,1
+Mikkel Bundgaard,conf/express/2004,1
+Mikkel Bundgaard,conf/express/2008,1
+Mikkel Bundgaard,conf/secco/2007,1
+Peter Wegner,conf/express/2001,1
+Miklós Bartha,journals/corr/abs-1006-1937,1
+Peter Wegner,conf/cmcs/1999,1
+Miklós Kurucz,conf/kdd/2009kddcup,1
+Peter W. O'Hearn,conf/mfps/2006,1
+Peter Van Roy,journals/corr/BartolettiHKV16,1
+Peter Van Roy,conf/facs2/2006,1
+Miklós Telek,conf/pasm/2004,1
+Miklós Telek,conf/pasm/2017,1
+Miklós Telek,conf/ukpew/2014,1
+Mikolaj Bojanczyk,journals/corr/BartolettiHKV16,1
+Petr Jancar,conf/infinity/1997,1
+Petr Hnetynka,journals/corr/KofronTB16,1
+Mike Whalen,conf/slap/2007,1
+Petr Hnetynka,conf/fesca/2012,1
+Petr Dluhos,journals/corr/abs-1208-3151,1
+Mikel Luján,conf/ldta/2009,1
+Mikhail Auguston,conf/soco/2004,1
+Mikhail Barash,journals/corr/EsikF14,1
+Petr Bauch,journals/corr/abs-1111-0064,1
+Mikhail Jiline,conf/pkdd/2008fsdm,1
+Mikhail Posypkin,conf/ldta/2003,1
+Peter Müller 0001,conf/bytecode/2007,1
+Mirron Rozanov,conf/smt/2007,1
+Peter Dickman,conf/oopsla/1991a,1
+Peter D. Mosses,journals/corr/abs-1011-6012,1
+Mohammad Reza Mousavi 0001,conf/sos/2006,1
+Mohammad Reza Mousavi 0001,journals/corr/GosslerS16,1
+Peter D. Mosses,conf/sos/2008,1
+Mohammad Reza Mousavi 0001,journals/corr/KargahiT16,1
+Peter D. Mosses,conf/sos/2006,1
+Peter D. Mosses,conf/sos/2005,1
+Mohammad Reza Mousavi 0001,journals/corr/abs-1011-6012,1
+Mohammad Reza Mousavi 0001,journals/corr/abs-1303-0379,1
+Mohammad Waseem Hassan,conf/stm/2006,1
+Peter D. Mosses,conf/fovmt/2004,1
+Peter Csaba Ölveczky,journals/corr/abs-1009-3982,1
+Peter Drábik,journals/corr/abs-1211-3476,1
+Mohammad Hejase,journals/corr/abs-1804-03406,1
+Peter Fritz,journals/corr/Ramanujam16,1
+Peter Dybjer,conf/mfps/2008,1
+Peter Dybjer,conf/mfps/2007,1
+Mohammad Mahdi Jaghoori,conf/cs2bio/2013,1
+Mohammad Mahdi Jaghoori,conf/fesca/2012,1
+Peter Fritzson,conf/sos/2006,1
+Peter Buchlovsky,conf/mfps/2005,1
+Peter Braun 0003,conf/safecert/2008,1
+Peter Braun,conf/gtvmt/2002,1
+Mojmír Kretínský,conf/infinity/1996,1
+Mojmír Kretínský,conf/infinity/2003,1
+Mojmír Kretínský,conf/infinity/2005,1
+Peter Baumgartner 0001,conf/smt/2004,1
+Mona Taheri,conf/cmcs/2022,1
+Monica Nesi,conf/arspa/2005,1
+Monica Nesi,conf/wrs/2003,1
+Peter Bubenik,conf/getco/2010,1
+Peter Csaba Ölveczky,conf/unigra/2001,1
+Peter Csaba Ölveczky,conf/rule/2006,1
+Peter Collingbourne,conf/fesca/2008,1
+Mohammed M. Olama,conf/pasm/2016,1
+Peter Müller 0001,conf/bytecode/2005,1
+Mizuhito Ogawa,conf/tapas2/2012,1
+Mnacho Echenim,conf/ftp/2003,1
+Mnacho Echenim,conf/smt/2006,1
+Peter Kourzanov,journals/corr/abs-2206-09534,1
+Mnacho Echenim,conf/strategies/2006,1
+Peter Knirsch 0001,conf/unigra/2003,1
+Peter Knirsch 0001,conf/sbmf/2006,1
+Peter Knirsch 0001,conf/fovmt/2004,1
+Moez Krichen,conf/rv/2004,1
+Mohamad Jaber 0001,journals/corr/abs-0912-0759,1
+Peter J. Stuckey,conf/rule/2005,1
+Mohamed A. El-Zawawy,conf/mfps/2006,1
+Mizuhito Ogawa,conf/wrs/2003,1
+Mizuhito Ogawa,conf/bytecode/2009,1
+Misa Keinänen,conf/fmics/2004,1
+Peter McBurney,conf/getco/2001,1
+Mitchell Wand,conf/mfps/2011,1
+Mitja Kulczynski,journals/corr/abs-2108-02369,1
+Mitsuhiro Okada,conf/cotic/1998,1
+Peter Ljunglöf,conf/haskell/2000,1
+Peter Lammich,journals/corr/BanerjeeDDH13,1
+Peter Lamborn,conf/pdmc/2003,1
+Mitsuhiro Okada,conf/rule/2005,1
+Peter L. Montgomery,conf/stm/2007,1
+Peter G. Hancock,conf/cmcs/2006,1
+Mohamed Mahdi Benmoussa,journals/corr/PangL14,1
 Mohamed Messabihi,journals/corr/abs-1010-2337,1
 Mohamed Mosbah 0001,conf/concur/2005gtvc,1
 Mohamed Mosbah 0001,conf/gtvmt/2001,1
 Mohamed Mosbah 0001,conf/gtvmt/2002,1
-Peter Selinger,journals/corr/abs-2109-04886,1
-Peter Fritzson,conf/sos/2006,1
-Peter Fritzson,conf/soco/2004,1
-Peter Fritz,journals/corr/Ramanujam16,1
-Mohammad Mahdi Jaghoori,conf/cs2bio/2013,1
-Mohammad Mahdi Jaghoori,conf/fesca/2012,1
-Mohammad Awedh,conf/bmc/2005,1
-Peter Dybjer,conf/mfps/2008,1
-Peter Dybjer,conf/mfps/2007,1
-Peter Dybjer,conf/lfmtp/2007,1
-Peter G. Hancock,conf/cmcs/2006,1
-Mira Mezini,conf/ldta/2006,1
 Peter G. Harrison,conf/qapl/2006,1
-Mohammad Hejase,journals/corr/abs-1804-03406,1
 Peter G. Harrison,conf/pasm/2004,1
+Mohammad Abdollahi Azgomi,conf/fmws/2008,1
 Peter G. Hancock,conf/mfps/2009,1
-Mirko Viroli,conf/secco/2003,1
-Mitsuhiro Okada,conf/rule/2005,1
-Mizuhito Ogawa,conf/bytecode/2009,1
-Mizuhito Ogawa,conf/tapas2/2012,1
-Mizuhito Ogawa,conf/wrs/2003,1
-Peter Ljunglöf,conf/haskell/2000,1
-Peter Lammich,journals/corr/BanerjeeDDH13,1
-Peter Lamborn,conf/pdmc/2003,1
-Mnacho Echenim,conf/ftp/2003,1
-Mnacho Echenim,conf/smt/2006,1
-Peter L. Montgomery,conf/stm/2007,1
-Mnacho Echenim,conf/strategies/2006,1
-Mirko Viroli,conf/secco/2004,1
-Mirko Viroli,conf/wood/2004,1
-Mirko Viroli,conf/wsfm/2004,1
-Mirron Rozanov,conf/smt/2007,1
-Peter Müller 0001,conf/bytecode/2007,1
-Misa Keinänen,conf/fmics/2004,1
-Peter Müller 0001,conf/bytecode/2005,1
-Peter McBurney,conf/getco/2001,1
-Mitchell Wand,conf/mfps/2011,1
-Mirko Viroli,journals/corr/BeekL16,1
-Mitsuhiro Okada,conf/cotic/1998,1
-Peter Reid,journals/corr/abs-1110-4473,1
-Mirko Conrad,conf/mbt/2004,1
-Peter J. Stuckey,conf/rule/2005,1
-Mohamed Benmohamed,conf/wollic/2004,1
+Mohammad Awedh,conf/bmc/2005,1
 Peter J. Freyd,conf/ctcs/1999,1
-Mireille Ducassé,conf/rv/2001,1
-Peter Knirsch 0001,conf/fovmt/2004,1
-Moez Krichen,conf/rv/2004,1
-Peter Rodgers 0001,conf/euler/2004,1
-Peter Ross,conf/babel/2001,1
-Peter Ryan 0001,conf/wsaif/1999,1
-Mohamad Jaber 0001,journals/corr/abs-0912-0759,1
-Peter Kourzanov,journals/corr/abs-2206-09534,1
-Peter Schachte,conf/cats/2001,1
-Mohamed A. El-Zawawy,conf/mfps/2006,1
-Peter Knirsch 0001,conf/unigra/2003,1
-Peter Knirsch 0001,conf/sbmf/2006,1
-Peter Dickman,conf/oopsla/1991a,1
-Moonzoo Kim,conf/mbt/2009,1
-Peter Auer,conf/icml/2011otee,1
-Peter Antal,conf/pkdd/2008fsdm,1
-Moreno Falaschi,conf/agp/2000,1
-Peter Andersen,conf/eclipse/2004ep,1
-Moreno Falaschi,conf/cs2bio/2012,1
-Moreno Falaschi,conf/rule/2004,1
-Moreno Falaschi,conf/sasb/2014,1
-Moreno Falaschi,conf/wflp/2001,1
-Peter Aczel,conf/cmcs/2001,1
-Moreno Falaschi,conf/wrs/2001,1
-Peter Thiemann 0001,conf/hoots/2000,1
-Peter Baumgartner 0001,conf/smt/2004,1
-Monica Nesi,conf/wrs/2003,1
-Moninder Singh,conf/kdd/2009kddcup,1
-Monique Wiesinger,journals/corr/abs-1109-1044,1
-Peter Braun 0003,conf/safecert/2008,1
-Minghui Ma,journals/corr/GhoshR17,1
-Ming-Ying Chung,conf/pdmc/2005,1
-Ming-Syan Chen,journals/lncs/1993-759,1
-Peter Braun,conf/gtvmt/2002,1
-Peter Szulman,conf/fesca/2007,1
-Moritz Hardt,conf/hylo/2006,1
-Moritz Roidl,journals/corr/abs-1912-09611,1
-Morten Kühnrich,conf/secco/2005,1
-Milton Augustinis De Castro,conf/wollic/2005,1
-Morten N. Nielsen,conf/atmos/2001,1
-Moreno Falaschi,conf/wwv/2005e,1
-Peter Thiemann 0001,conf/mpc/2002tip,1
-Petar Maksimovic,journals/corr/CervesatoC15,1
-Perla Velasco Elizondo,conf/abmb/2005,1
-Per Mellstrand,conf/secco/2003,1
-Per Håkon Meland,journals/corr/KordyMP14,1
-Min-Hsien Weng,conf/fm/2015use,1
-Peter Padawitz,conf/wflp/2006,1
-Morgan Magnin,conf/cs2bio/2013,1
-Morgan Magnin,conf/softmc/2005,1
-Min Zhang 0007,conf/isdt/2009,1
-Min Zhang 0002,conf/vsse/2013,1
-Monica Nesi,conf/infinity/1996,1
-Monica Nesi,conf/arspa/2005,1
-Mohammed M. Olama,conf/pasm/2016,1
-Peter Sewell,conf/hlcl/2000,1
-Peter D. Mosses,conf/fovmt/2004,1
-Peter Csaba Ölveczky,journals/corr/abs-1009-3982,1
-Peter Sestoft,journals/corr/BanerjeeDDH13,1
-Miquel Bertran,conf/prole/2004,1
-Mohammad Reza Mousavi 0001,conf/sos/2006,1
-Mohammad Reza Mousavi 0001,conf/sos/2007,1
-Mohammad Reza Mousavi 0001,journals/corr/GosslerS16,1
-Mohammad Reza Mousavi 0001,journals/corr/abs-1303-0379,1
-Peter D. Mosses,conf/sos/2008,1
-Peter D. Mosses,conf/sos/2006,1
-Mohammad Waseem Hassan,conf/stm/2006,1
-Peter D. Mosses,conf/sos/2005,1
-Peter Buchlovsky,conf/mfps/2005,1
-Peter Bubenik,conf/getco/2010,1
-Mojmír Kretínský,conf/infinity/2003,1
-Mojmír Kretínský,conf/infinity/2005,1
-Mojmír Kretínský,conf/mfcs/1998woc,1
-Peter Spirtes,conf/wcci/2008cpc,1
-Peter Csaba Ölveczky,conf/unigra/2001,1
-Minh Lê,conf/qmpd/2012,1
-Peter Csaba Ölveczky,conf/rule/2006,1
-Peter Collingbourne,conf/fesca/2008,1
-Nathanaël Fijalkow,journals/corr/abs-2109-07798,1
-Pavel Parízek,conf/fesca/2009,1
-Pascal Lafourcade 0001,conf/icalp/2006secret,1
+Peter Höfner,journals/corr/HermannsH17,1
+Mohamed Benmohamed,conf/wollic/2004,1
+Peter Höfner,conf/wwv/2007,1
+Mohamed Faouzi Atig,journals/corr/HolikC14,1
+Peter Höfner,conf/ifm/2005ds,1
+Peter Housel,conf/babel/2001,1
+Peter Herrmann,conf/uml/2003cvuml,1
+Mohamed Hamada 0001,conf/cats/2000,1
+Peter Habermehl,conf/infinity/2005,1
+Peter Habermehl,conf/infinity/2004,1
+Pavle Subotic,journals/corr/BjornerFRS14,1
 Ofer Strichman,conf/bmc/2003,1
-Pascal Hitzler,conf/iclp/1999vlp,1
 Ofer Strichman,conf/bmc/2004,1
 Ofer Strichman,conf/bmc/2005,1
 Ofer Strichman,conf/bmc/2006,1
+Pascal Lafourcade 0001,conf/icalp/2006secret,1
 Ofer Strichman,conf/smt/2005,1
 Ofer Strichman,conf/smt/2007,1
+Pascal Hitzler,conf/iclp/1999vlp,1
 Pascal Fradet,conf/rule/2004,1
 Pascal Fradet,conf/dcm/2005,1
 Pascal Fontaine,journals/corr/abs-2107-01544,1
 Pascal Fontaine,journals/corr/abs-1712-00898,1
 Pascal Fontaine,conf/smt/2004,1
-Ola Angelsmark,conf/cmcs/2000,1
 Pascal Bouvry,conf/coordination/2005mtcoord,1
-Olaf Burkart,conf/infinity/1997,1
+Ola Angelsmark,conf/cmcs/2000,1
 Pascal Poizat,conf/etaps/2004sfedl,1
 Pascal Poizat,conf/facs2/2006,1
-Pascal Raymond,conf/etaps/2002slap,1
-Octavio Malherbe,conf/lsfa/2018,1
 Pascal Sotin,conf/qapl/2008,1
 Pascal Sotin,conf/nsad/2011,1
+Oana Andrei,conf/termgraph/2009,1
 Pascal Schreck,journals/corr/abs-2112-14770,1
 Pascal Raymond,conf/slap/2007,1
-Octavio Zapata,journals/corr/abs-2004-14750,1
 Pascal Raymond,conf/slap/2004,1
+Octavian Babus,conf/cmcs/2016,1
+Pascal Raymond,conf/etaps/2002slap,1
+Octavio Malherbe,conf/lsfa/2018,1
+Octavio Zapata,journals/corr/abs-2004-14750,1
 Pascal Poizat,conf/wcat/2006,1
 Oded Maler,journals/corr/BertrandB14,1
+Pascal Poizat,conf/foclasa/2007,1
 Oded Shmueli,journals/lncs/1993-759,1
 Oege de Moor,conf/eclipse/2004ep,1
-Pascal Poizat,conf/foclasa/2007,1
+Olaf Burkart,conf/infinity/1997,1
 Olaf Chitil,conf/termgraph/2006,1
-Olaf Owe,conf/etaps/2007finco,1
-Paritosh K. Pandya,conf/avocs/2004,1
-Paritosh K. Pandya,journals/corr/abs-1909-05979,1
-Paritosh K. Pandya,conf/etaps/2002slap,1
-Olga Grinchtein,conf/infinity/2003,1
-Parisa Ghodous,conf/coordination/2005interdb,1
-Olga Hrydziuszko,conf/cs2bio/2014,1
-Olga Kouchnarenko,conf/rp/2008,1
-Olga Kouchnarenko,journals/corr/BuhnovaHK14,1
 Parosh Aziz Abdulla,conf/rp/2008,1
+Paritosh K. Pandya,journals/corr/abs-1909-05979,1
+Paritosh K. Pandya,journals/corr/GhoshR17,1
+Olga Grinchtein,conf/infinity/2003,1
+Olga Hrydziuszko,conf/cs2bio/2014,1
+Paritosh K. Pandya,conf/etaps/2002slap,1
+Olga Kouchnarenko,conf/rp/2008,1
+Paritosh K. Pandya,conf/avocs/2004,1
+Olga Kouchnarenko,journals/corr/BuhnovaHK14,1
+Parisa Ghodous,conf/coordination/2005interdb,1
+Parosh Aziz Abdulla,journals/corr/HolikC14,1
+Parosh Aziz Abdulla,journals/corr/abs-1302-3105,1
+Olaf Owe,conf/etaps/2007finco,1
+Partha S. Roop,conf/fesca/2005,1
 Pascal André,journals/corr/abs-1010-2337,1
+Olaf Owe,conf/fesca/2009,1
+Oldrich Faldik,journals/corr/KofronT17,1
+Ole Lehrmann Madsen,conf/eclipse/2004ep,1
+Oleg Kiselyov,conf/plpv/2006,1
 Partha S. Roop,conf/slap/2008,1
 Partha S. Roop,conf/slap/2007,1
 Partha S. Roop,conf/fesca/2006,1
-Oleg Sokolsky,conf/monterey/1998,1
-Partha S. Roop,conf/fesca/2005,1
-Ole Lehrmann Madsen,conf/eclipse/2004ep,1
-Oleg Kiselyov,conf/plpv/2006,1
 Oleg Kiselyov,journals/corr/abs-1905-05909,1
-Parosh Aziz Abdulla,journals/corr/abs-1302-3105,1
-Oana Andrei,conf/termgraph/2009,1
-Patrick Blackburn,journals/corr/abs-2010-15832,1
-Nora Cuppens-Boulahia,conf/ics2/2006,1
-Nora Szasz,conf/clei/2012s,1
-Patrick Blackburn,conf/hylo/2006,1
+Oleg Sokolsky,conf/monterey/1998,1
+Pascal Van Hentenryck,journals/lncs/1994-910,1
 Patricio Letelier 0001,conf/evol/2006s,1
+Nora Cuppens-Boulahia,conf/ics2/2006,1
+Oana Andrei,conf/rule/2007,1
+Nora Szasz,conf/clei/2012s,1
+Nora Szasz,journals/corr/abs-1807-01352,1
+Patricia Johann,journals/corr/abs-2204-03415,1
 Patricia Johann,conf/wrs/2001,1
-Norbert Pataki,conf/wgt/2008,1
+Patrick Blackburn,conf/hylo/2006,1
+Patrick Blackburn,journals/corr/abs-2010-15832,1
+Nobuko Yoshida,journals/corr/abs-2208-14777,1
 Patrick F. Smith,conf/calculemus/2005,1
+Patrick Cégielski,conf/wollic/2004,1
 Nobuko Yoshida,conf/dcm/2006,1
 Nobuko Yoshida,conf/icalp/2002fwan,1
-Nobuko Yoshida,conf/icalp/2006secret,1
-Patrick Cégielski,conf/wollic/2004,1
 Patrick Cousot,conf/sos/2007,1
+Nobuko Yoshida,conf/icalp/2006secret,1
 Nobuko Yoshida,conf/lix/2006,1
 Nobuko Yoshida,journals/corr/DonaldsonV14,1
 Nobuko Yoshida,journals/corr/abs-1011-6012,1
-Nobuko Yoshida,journals/corr/abs-2208-14777,1
-Oana Andrei,conf/rule/2007,1
-Pascale Le Gall,conf/fm/2015use,1
-Pasquale Malacaria,journals/corr/abs-0910-4420,1
-Pasquale Malacaria,conf/qapl/2004,1
-Mikael Buchholtz,conf/mtcs/2001,1
-Pasquale Malacaria,conf/qapl/2001,1
+Patricia Bouyer,journals/corr/abs-2009-09360,1
+Noury Bouraqadi,conf/soco/2002,1
+Nuno Amálio,conf/ifm/2005ds,1
+Nuno Macedo,journals/corr/abs-1811-09014,1
 Pascual Julián Iranzo,conf/prole/2004,1
 Nurlida Basir,conf/safecert/2008,1
+Pascale Le Gall,conf/fm/2015use,1
 Nurulhuda A. Manaf,journals/corr/ProencaT15,1
 Pascal Zwick,journals/corr/abs-1907-03523,1
 Pascal Zimmer,conf/itrs/2004,1
 Pascal Zimmer,conf/express/2000,1
-Pascal Van Hentenryck,journals/lncs/1994-910,1
 Oana Andrei,conf/etaps/2011has,1
-Nuno Macedo,journals/corr/abs-1811-09014,1
-Norihiro Ogata,conf/wollic/2002,1
+Nourhan Ehab,journals/corr/abs-1907-08335,1
 Patricia Bouyer,journals/corr/EsparzaT15,1
 Patricia Bouyer,journals/corr/CantoneD16,1
 Patricia Bouyer,conf/cav/2004gdv,1
-Norzima Elbegbayan,conf/icfem/2006fmis,1
-Nouha Oualha,conf/icalp/2007wcan,1
-Noury Bouraqadi,conf/soco/2002,1
+Norihiro Ogata,conf/wollic/2002,1
 Patrice Chalin,conf/wwv/2005e,1
-Nuno Amálio,conf/ifm/2005ds,1
+Patrice Chalin,conf/icfem/2006fmis,1
+Pasquale Malacaria,journals/corr/abs-0910-4420,1
+Pasquale Malacaria,conf/qapl/2004,1
+Nouha Oualha,conf/icalp/2007wcan,1
+Pasquale Malacaria,conf/qapl/2001,1
+Olga Marroquín Alonso,conf/coordination/2005mtcoord,1
+Nishant Sinha 0001,conf/cav/2003smc,1
+Ovidiu Gheorghies,conf/cmcs/1999,1
+Ovidiu Radulescu,conf/sasb/2011,1
+Paolo Arcaini,journals/corr/abs-1811-09014,1
+Ozan Kahramanogullari,conf/fbtc/2007,1
+Ozan Kahramanogullari,conf/rule/2007,1
+Ozan Kahramanogullari,conf/wollic/2005,1
+Ozan Kahramanogullari,journals/corr/abs-1907-03523,1
+Ozgur E. Akman,journals/corr/abs-1002-4919,1
+Paolo Ballarini,conf/mochart/2005,1
+Paola Spoletini,conf/ice/2008,1
+P. J. A. van Tilburg,conf/express/2008,1
+Paola Spoletini,conf/concur/2007gtvc,1
+P. Madhusudan,conf/bmc/2003,1
+P. Madhusudan,journals/corr/abs-1207-3485,1
+Paolo Baldan,conf/cs2bio/2013,1
+Paolo Baldan,conf/termgraph/2006,1
+Paolo Baldan,conf/termgraph/2004,1
+Oscar Porto,conf/atmos/2002,1
+Osman Hasan,conf/fmws/2008,1
+Osman Hasan,journals/corr/BouhoulaIK13,1
+Osman Hasan,journals/corr/HermannsH17,1
 Osmar Marchi dos Santos,conf/grabats/2004,1
 Osmar Marchi dos Santos,conf/gtvmt/2004,1
 Osmar Norberto de Souza,conf/cs2bio/2014,1
-Paola Mello,conf/rule/2001,1
-Ovidiu Gheorghies,conf/cmcs/1999,1
-Ovidiu Radulescu,conf/sasb/2011,1
-Ozan Kahramanogullari,conf/fbtc/2007,1
-Paola Lecca,conf/concur/2003bio,1
-Ozan Kahramanogullari,conf/rule/2007,1
-Paola Inverardi,conf/mtcs/2000,1
-Ozan Kahramanogullari,conf/wollic/2005,1
-Ozan Kahramanogullari,journals/corr/abs-1907-03523,1
-Osman Hasan,journals/corr/HermannsH17,1
-Paola Giannini,journals/corr/abs-0911-2829,1
-Osama E. S. El-Hassan,conf/coordination/2006coorg,1
-Paolo Baldan,conf/termgraph/2006,1
-Paolo Baldan,conf/termgraph/2004,1
 Paolo Baldan,conf/gg/2004pngt,1
-Osman Hasan,journals/corr/BouhoulaIK13,1
-Paolo Baldan,conf/cs2bio/2013,1
-Paolo Arcaini,journals/corr/abs-1811-09014,1
-Oscar Porto,conf/atmos/2002,1
-Paola Spoletini,conf/ice/2008,1
-Paola Spoletini,conf/concur/2007gtvc,1
-Osman Hasan,conf/fmws/2008,1
+Paola Mello,conf/rule/2001,1
+Paola Bonizzoni,journals/corr/abs-0911-2829,1
+Pablo Virolainen,conf/mbt/2004,1
+Pablo de la Fuente,conf/vlfm/2004,1
+Panuwat Trairatphisan,journals/corr/abs-1109-1044,1
+Pankaj Kakkar,conf/hoots/1999,1
+Padmanabhan Krishnan,conf/cats/2000,1
+Padmanabhan Krishnan,conf/fct/1999wds,1
+Pamela Peretti,conf/vodca/2006,1
+Paige Randall North,conf/mfps/2019,1
+Paola Lecca,conf/concur/2003bio,1
+P. S. Thiagarajan,conf/express/1998,1
+Paola Inverardi,conf/mtcs/2000,1
+Paola Giannini,journals/corr/abs-0911-2829,1
+Pablo Amaya,conf/abmb/2005,1
 Paola Giannini,conf/wood/2004,1
+Pablo Arrighi,journals/corr/abs-1207-6821,1
+Pablo Buiras,journals/corr/abs-1203-5423,1
+Paola Giannini,conf/wood/2003,1
 Pablo F. Castro,conf/lics/2009laft,1
 Pablo F. Castro,journals/corr/AguirreR14,1
 Pablo Garralda,conf/dcm/2005,1
-Pablo López,conf/foclasa/2007,1
-Pamela Peretti,conf/vodca/2006,1
-Pamela C. Laguna Laura,conf/clei/2016s,1
-Pablo López,conf/lfm/2002,1
-Pablo Virolainen,conf/mbt/2004,1
-Paige Randall North,conf/mfps/2019,1
-Pablo de la Fuente,conf/vlfm/2004,1
-Padmanabhan Krishnan,conf/fct/1999wds,1
-Paola Giannini,conf/wood/2003,1
-P. J. A. van Tilburg,conf/express/2008,1
 Paola Giannini,conf/icalp/2002fwan,1
 Paola Giannini,conf/cs2bio/2012,1
 Paola Flocchini,journals/corr/abs-1208-2498,1
-P. Madhusudan,conf/bmc/2003,1
-P. Madhusudan,journals/corr/abs-1207-3485,1
 Paola Caymes-Scutari,conf/clei/2014s,1
-P. S. Thiagarajan,conf/express/1998,1
-Pankaj Kakkar,conf/hoots/1999,1
-Panuwat Trairatphisan,journals/corr/abs-1109-1044,1
-Pablo Amaya,conf/abmb/2005,1
+Pablo López,conf/foclasa/2007,1
+Pablo López,conf/lfm/2002,1
+Osama E. S. El-Hassan,conf/coordination/2006coorg,1
+Olga Marroquín Alonso,conf/fgc/2003,1
 Olivier Danvy,conf/hoots/1999,1
-Paolo Tranquilli,journals/corr/BortolussiW13,1
-Paolo Penna,conf/atmos/2002,1
 Olivier Danvy,conf/rule/2001,1
 Olivier Danvy,conf/wrs/2004,1
-Paolo Milazzo,journals/corr/abs-1008-3147,1
+Paolo Tranquilli,journals/corr/BortolussiW13,1
 Olivier Fissore,conf/strategies/2001,1
-Olivier Bournez,journals/corr/abs-0906-4612,1
+Paolo Torrini,journals/corr/abs-1003-5716,1
 Olivier Gout,conf/grabats/2002,1
-Olga Marroquín Alonso,conf/coordination/2005mtcoord,1
-Olga Marroquín Alonso,conf/fgc/2003,1
+Olivier H. Roux,conf/secco/2005,1
+Olivier H. Roux,conf/softmc/2005,1
+Olivier Hermant,conf/nsad/2014,1
+Olivier Lebeltel,journals/corr/BertrandB14,1
+Olivier Bournez,journals/corr/abs-0906-4612,1
+Olivier Bournez,conf/rule/2005,1
+Olivier Bournez,conf/lics/2003icc,1
 Olga Marroquín Alonso,conf/secco/2005,1
+Olga Tveretina,journals/corr/abs-0909-5479,1
 Olga Tveretina,journals/corr/abs-1106-0814,1
 Olga Tveretina,journals/corr/abs-1709-01761,1
-Paqui Lucio,journals/corr/Villanueva17,1
+Paresh Nakhe,journals/corr/Censor-HillelK13,1
 Olha Shkaravska,conf/wflp/2007,1
 Oliver Kutz,conf/lsfa/2013,1
 Oliver Köth,conf/gtvmt/2001,1
-Paqui Lucio,conf/prole/2009,1
 Olivier Boissier,conf/coordination/2005coorg,1
-Olivier Bournez,conf/lics/2003icc,1
-Olivier Bournez,conf/rule/2005,1
-Orna Kupferman,journals/corr/abs-2009-09360,1
-Ondrej Klíma 0001,journals/corr/abs-1008-1270,1
-Paolo Busetta,conf/wsfm/2004,1
-Paolo Bottoni,journals/corr/HeussnerKW16,1
-Omer Nguena-Timo,conf/fm/2015use,1
-Paolo Bottoni,conf/vlfm/2004,1
-Paolo Bottoni,conf/gtvmt/2002,1
-Oriol Valentín,journals/corr/CervesatoS15,1
-Paolo Ballarini,conf/mochart/2005,1
-Orlin G. Grigorov,conf/uitp/2008,1
-Orna Grumberg,conf/floc/1999smc,1
-Orna Kupferman,conf/express/2000,1
-Paolo Di Giamberardino,journals/corr/abs-1108-4077,1
-Olivier H. Roux,conf/secco/2005,1
-Olivier Ridoux,journals/lncs/1994-910,1
-Olivier H. Roux,conf/softmc/2005,1
-Olivier Hermant,conf/nsad/2014,1
-Paolo Milazzo,journals/corr/GraudenziCMA13,1
-Olivier Lebeltel,journals/corr/BertrandB14,1
+Paqui Lucio,journals/corr/Villanueva17,1
+Paqui Lucio,conf/prole/2009,1
 Olivier Melançon,journals/corr/abs-2207-11600,1
 Olivier Michel,conf/rule/2001,1
 Olivier Nicol,conf/icml/2011otee,1
+Omer Nguena-Timo,conf/fm/2015use,1
+Paolo Gentilini,conf/lmcs/2006,1
+Paolo Di Giamberardino,journals/corr/abs-1108-4077,1
+Paolo Di Giamberardino,journals/corr/CarboneLLS13,1
+Ondrej Klíma 0001,journals/corr/abs-1008-1270,1
+Paolo Busetta,conf/wsfm/2004,1
+Paolo Bottoni,journals/corr/HeussnerKW16,1
+Paolo Bottoni,conf/vlfm/2004,1
+Oriol Valentín,journals/corr/CervesatoS15,1
+Orlin G. Grigorov,conf/uitp/2008,1
+Orna Grumberg,conf/floc/1999smc,1
+Orna Kupferman,conf/express/2000,1
+Orna Kupferman,journals/corr/abs-2009-09360,1
+Paolo Bottoni,conf/gtvmt/2002,1
 Olivier Perrin 0001,conf/wwv/2007,1
 Olivier Pietquin,conf/aistats/2010w,1
+Paolo Penna,conf/atmos/2002,1
 Olivier Ridoux,conf/lpe/1999,1
+Olivier Ridoux,journals/lncs/1994-910,1
 Olivier Stietel,journals/corr/abs-2209-09333,1
 Olivier Tardieu,conf/slap/2004,1
+Paolo Milazzo,journals/corr/abs-1211-3476,1
 Olivier Tardieu,conf/sos/2004,1
-Paolo Gentilini,conf/lmcs/2006,1
+Paolo Milazzo,journals/corr/abs-1008-3147,1
+Paolo Milazzo,journals/corr/GraudenziCMA13,1
 Omar Chiotti,conf/clei/2011s,1
-Patrick Girard 0004,journals/corr/Ramanujam16,1
-Paul-André Melliès,conf/ctcs/2004,1
-Paula Severi,conf/cats/2000,1
+Paul-Eugène Parent,conf/getco/2003,1
+Paula Severi,conf/lfm/2002,1
+Paula Severi,conf/cmcs/2012,1
+Neil Evans,conf/avocs/2005,1
 Neil Evans,journals/corr/abs-1305-5634,1
 Neil Ghani,conf/cats/2002,1
 Neil Ghani,conf/cmcs/2002,1
 Paula M. Veloso,conf/lsfa/2010,1
-Paul-Eugène Parent,conf/getco/2003,1
+Paulo A. S. Veloso,journals/corr/abs-1203-5423,1
 Neil Ghani,conf/msfp/2008,1
 Neil Ghani,conf/wood/2004,1
-Paul van Tilburg,journals/corr/abs-1011-6012,1
+Paul-André Melliès,conf/ctcs/2004,1
 Neil Grant,journals/corr/abs-1305-5634,1
 Neil J. Ross,journals/corr/abs-1802-09737,1
 Neil Leslie,conf/cats/2004,1
-Paula Severi,conf/lfm/2002,1
-Neil D. Jones,journals/corr/abs-2008-02483,1
-Neda Noroozi,journals/corr/abs-1303-0379,1
+Nazareno Aguirre,conf/fesca/2004,1
 Paulo A. S. Veloso,conf/lsfa/2013,1
 Paulo A. S. Veloso,conf/lsfa/2010,1
+Neal Glew,conf/hoots/1999,1
 Paulo A. S. Veloso,conf/lsfa/2007,1
+Neda Noroozi,journals/corr/abs-1303-0379,1
 Paulin Jacobé de Naurois,journals/corr/abs-1908-04478,1
 Paulin Jacobé de Naurois,conf/lics/2003icc,1
-Neil Evans,conf/avocs/2005,1
-Niccolò Veltri,journals/corr/abs-2112-13746,1
+Neil D. Jones,journals/corr/abs-2008-02483,1
+Niall Dalton,conf/babel/2001,1
+Niall Murphy,journals/corr/NearyC13,1
+Nian Zhou,conf/cats/2003,1
 Nicholas Asher,journals/corr/abs-1303-0071,1
 Nicholas Elia,journals/corr/BrihayeDJMS16,1
-Niall Murphy,journals/corr/NearyC13,1
 Nicholas Paul Sheppard,conf/esorics/2007rem,1
 Nicholas Seegmiller,conf/fac/2005,1
-Nick Benton,conf/babel/2001,1
-Nick Benton,conf/hoots/1999,1
-Nick Benton,conf/ml/2005,1
-Nian Zhou,conf/cats/2003,1
 Nelma Moreira,conf/lsfa/2018,1
-Paul T. Graunke,conf/ssv/2008,1
-Nelma Moreira,journals/corr/abs-1210-2028,1
-Paul Taylor 0002,conf/ctcs/2004,1
-Paul Taylor 0002,conf/ctcs/2002,1
 Nelson S. Rosa,conf/fesca/2004,1
 Neng-Fa Zhou,conf/iclp/1999woid,1
+Neng-Fa Zhou,journals/corr/abs-2109-07914,1
+Paul Taylor 0002,conf/ctcs/2004,1
+Paul Taylor 0002,conf/ctcs/2002,1
+Paul T. Graunke,conf/ssv/2008,1
 Newton Spolaôr,conf/clei/2012s,1
-Newton Spolaôr,conf/clei/2013s,1
 Paul Ruet,conf/dcm/2007,1
-Nick Moffat,conf/cav/2004gdv,1
+Newton Spolaôr,conf/clei/2013s,1
+Paulo A. S. Veloso,conf/wollic/2006,1
+Nick Benton,conf/ml/2005,1
+Pavel Grigorenko,conf/ldta/2005,1
 Narciso Martí-Oliet,journals/corr/abs-1204-5318,1
 Paulo Sérgio Medeiros dos Santos,conf/clei/2012s,1
 Paulo Roberto Massa Cereda,conf/clei/2018s,1
 Paulo Roberto Freire Cunha,conf/fesca/2004,1
-Natalia Olegovna Garanina,journals/corr/BersaniBFM14,1
-Pavel Grigorenko,conf/ldta/2005,1
-Nataliya Guts,journals/corr/LevyK14,1
-Pavel Parízek,conf/fesca/2006,1
+Natalia Kushik,journals/corr/PakulinPS15,1
+Pavel Jezek,conf/fesca/2007,1
 Naoshi Tabuchi,conf/mpc/2002tip,1
+Pavel Parízek,conf/fesca/2006,1
 Pavel Naumov,journals/corr/abs-1303-0071,1
 Pavel Moravec 0002,conf/pdmc/2005,1
 Narad Rampersad,journals/corr/abs-1008-1270,1
 Narad Rampersad,journals/corr/abs-1108-3412,1
 Pavel Martyugin,conf/rp/2008,1
 Narciso Martí-Oliet,conf/rule/2004,1
-Pavel Jezek,conf/fesca/2007,1
-Paulo A. S. Veloso,conf/wollic/2006,1
+Natalia Olegovna Garanina,journals/corr/BersaniBFM14,1
 Paulo F. Silva 0001,conf/rule/2008,1
+Nathanaël Fijalkow,conf/cmcs/2020,1
+Nathanaël Fijalkow,journals/corr/abs-2109-07798,1
 Natividad Martínez Madrid,conf/etaps/2004sfedl,1
 Paulo Borba,conf/sbmf/2006,1
 Paulo Borba,conf/sbmf/2003,1
-Paulo A. S. Veloso,journals/corr/abs-1203-5423,1
-Nazareno Aguirre,conf/fesca/2004,1
-Nathalie Bertrand 0001,journals/corr/abs-0907-5257,1
+Naveen Sundar Govindarajulu,journals/corr/abs-1912-11786,1
+Nataliya Guts,journals/corr/LevyK14,1
 Natallia Kokash,conf/fesca/2012,1
 Natarajan Shankar,conf/lsfa/2010,1
+Natasha Alechina,journals/corr/Lang17a,1
 Natasha Sharygina,journals/corr/BersaniBFM14,1
 Nate Foster,journals/corr/FinkbeinerS14,1
-Nate Soares,journals/corr/Lang17a,1
 Nathalie Bertrand 0001,conf/express/2005,1
+Nathalie Bertrand 0001,journals/corr/abs-0907-5257,1
 Nathalie Bertrand 0001,journals/corr/abs-1010-6112,1
 Nathalie Théret,conf/sasb/2015,1
 Nathan Cassee,journals/corr/abs-1712-08345,1
 Nathan Cooprider,conf/floc/2006tv,1
-Paulo Fernandes 0001,conf/pasm/2004,1
-Nick Moffat,conf/avocs/2006,1
-Nikolaos Papaspyrou,journals/corr/abs-1110-3853,1
-Patrícia D. L. Machado,conf/sbmf/2003,1
+Nick Bezhanishvili,conf/cmcs/2020,1
+Patrick Girard 0004,journals/corr/Ramanujam16,1
 Nikolai Tillmann,conf/softmc/2005,1
+Niklas Sörensson,conf/bmc/2003,1
 Patryk Zadarnowski,conf/cocv/2003,1
-Nikolaj S. Bjørner,conf/smt/2007,1
 Patrizio Pelliccione,conf/vodca/2006,1
+Nikola Trcka,conf/qapl/2008,1
+Nikola Trcka,journals/corr/abs-0912-2128,1
+Patrizia Paggio,conf/fgmol/2001,1
+Patrik O. Hoyer,conf/nips/2009mscts,1
+Nigel Thomas,conf/pasm/2016,1
+Nikolaj S. Bjørner,conf/smt/2007,1
+Patrik Jansson,journals/corr/abs-1906-10757,1
+Nikolaos Papaspyrou,journals/corr/abs-1110-3853,1
 Nikolaos S. Papaspyrou,conf/qpl/2006,1
 Nikolaos Siafakas,conf/dcm/2006,1
 Nikolaos Siafakas,journals/corr/abs-1003-5716,1
-Patrizia Paggio,conf/fgmol/2001,1
-Patrik O. Hoyer,conf/nips/2009mscts,1
-Nikita Sidorov,journals/corr/abs-1108-3412,1
+Niklas Holsti,conf/nsad/2011,1
 Nihal Pekergin,conf/pasm/2016,1
 Paul B. Jackson,conf/bmc/2006,1
+Paul A. Strooper,conf/floc/2006vd,1
+Paul A. Strooper,conf/cats/2002,1
 Nik Swoboda,conf/euler/2004,1
 Nikhil Swamy,journals/corr/LevyK14,1
-Paul A. Strooper,conf/floc/2006vd,1
-Nikola Trcka,conf/qapl/2008,1
-Niklas Eén,conf/bmc/2003,1
-Niklas Holsti,conf/nsad/2011,1
-Paul A. Strooper,conf/cats/2002,1
+Patrícia D. L. Machado,conf/sbmf/2003,1
+Nikita Sidorov,journals/corr/abs-1108-3412,1
+Nina Yevtushenko 0001,journals/corr/PakulinPS15,1
+Patrick Maier 0001,conf/etaps/2016rac,1
 Patrick Maier 0001,conf/esorics/2007rem,1
 Nir Piterman,conf/bmc/2004,1
 Nir Piterman,conf/cocv/2007,1
 Niranjan Suri,conf/agents/2001semas,1
 Patrick Hoffmann,conf/coordination/2005interdb,1
-Nishant Sinha 0001,conf/cav/2003smc,1
-Nikos Mylonakis,conf/cade/2000ttlpss,1
-Nima Roohi,conf/foclasa/2009,1
-Nils Bulling,journals/corr/abs-1303-0071,1
 Patrick N. D. Simpson,conf/esorics/2007rem,1
-Patrick Maier 0001,conf/etaps/2016rac,1
+Nikos Mylonakis,conf/cade/2000ttlpss,1
+Nils Bulling,journals/corr/abs-1303-0071,1
 Nils Timm,journals/corr/abs-2209-09208,1
-Nicolas Pierron,conf/ldta/2008,1
+Nima Roohi,conf/foclasa/2009,1
+Paul Klint,conf/ldta/2007,1
+Nicolas Guenot,journals/corr/CervesatoC15,1
 Paul Kröger,journals/corr/abs-1910-13641,1
 Paul Klint,journals/corr/abs-1106-5962,1
+Nicolas Halbwachs,conf/slap/2004,1
 Nicolas Lumineau,conf/coordination/2005interdb,1
+Paul Klint,conf/wrs/2002,1
 Nicolas Markey,conf/express/2002,1
 Nicolas Markey,journals/corr/CantoneD16,1
 Nicolas Markey,journals/corr/PuppisV13,1
-Paul Klint,conf/wrs/2002,1
 Nicolas Ninin,journals/corr/LaneseLSV14,1
-Paul Klint,conf/ldta/2007,1
-Nicolas Troquard,conf/lcmas/2005,1
-Nicolas Troquard,journals/corr/LomuscioV16,1
-Nicolas Halbwachs,conf/slap/2004,1
+Nicolas Pierron,conf/ldta/2008,1
+Paul Le Guernic,conf/fmgals/2007,1
+Nick Moffat,conf/avocs/2006,1
+Nick Moffat,conf/cav/2004gdv,1
+Nick Würdemann,journals/corr/abs-2209-09333,1
 Nicola Gigante,journals/corr/abs-1809-02416,1
 Paul O'Connell,conf/stm/2005,1
-Paul N. Bennett,conf/icml/2010ltr,1
 Nicola Paoletti,journals/corr/abs-1208-4327,1
+Paul N. Bennett,conf/icml/2010ltr,1
 Nicolai Kraus,journals/corr/abs-1110-6685,1
-Nicolas Guenot,journals/corr/CervesatoC15,1
-Paul Le Guernic,conf/fmgals/2007,1
-Paul J. Krause,journals/corr/ProencaT15,1
+Nicolas Behr,journals/corr/abs-2102-01804,1
+Nicos Angelopoulos,journals/corr/abs-1909-07646,1
 Niels F. W. Voorneveld,conf/mfps/2019,1
 Niels F. W. Voorneveld,journals/corr/abs-2004-14735,1
-Niels F. W. Voorneveld,journals/corr/abs-2112-13746,1
-Niels Joncheere,conf/abmb/2006,1
 Paul C. Attie,conf/infinity/2005,1
 Paul Brauner,conf/termgraph/2007,1
+Niels Joncheere,conf/abmb/2006,1
 Paul Blain Levy,conf/mfps/2011,1
-Nigel Thomas,conf/pasm/2016,1
 Paul Blain Levy,conf/mfps/2007,1
-Nicos Angelopoulos,journals/corr/abs-1909-07646,1
-Nicolas Zuanon,conf/slap/2003,1
+Nicolò Cesa-Bianchi,conf/icml/2011otee,1
+Nicolas Troquard,conf/lcmas/2005,1
+Paul D. Hankin,conf/hlcl/1998,1
+Paul J. Krause,journals/corr/ProencaT15,1
 Paul J. Krause,conf/fesca/2008,1
+Nicolas Troquard,journals/corr/LomuscioV16,1
 Paul J. Krause,conf/fesca/2007,1
 Paul J. Krause,conf/fesca/2005,1
+Nicolas Zuanon,conf/slap/2003,1
 Paul Hänsch,conf/etaps/2011has,1
 Paul Hudak,conf/birthday/2007lindstrom,1
 Paul H. J. Kelly,conf/fesca/2008,1
+Paul H. B. Gardiner,conf/wsaif/1999,1
 Nicoletta De Francesco,journals/corr/abs-1008-3147,1
 Nicoletta Sabadini,conf/cats/2003,1
-Paul H. B. Gardiner,conf/wsaif/1999,1
 Paul Dorbec,journals/corr/abs-1802-09737,1
-Nicolás Wolovick,journals/corr/abs-1006-5107,1
 Paul D. Hovland,conf/termgraph/2006,1
-Paul D. Hankin,conf/hlcl/1998,1
-Nicolò Cesa-Bianchi,conf/icml/2011otee,1
+Nicolás Wolovick,journals/corr/abs-1006-5107,1
+Manuel Clavel,conf/wrs/2003,1
+Manoranjan Satpathy,conf/mbt/2004,1
+Manuel Fähndrich,conf/nsad/2011,1
 Manuel Mazzara,conf/wsfm/2004,1
 Manuel M. T. Chakravarty,conf/cocv/2003,1
 Manuel Koch,conf/vodca/2004,1
+Manuel Garnacho,conf/safecert/2008,1
+Manfred Jaeger,journals/corr/abs-1212-3454,1
+Manfred Hechinger,conf/secco/2003,1
+Manfred Droste,journals/corr/abs-1708-06226,1
+Manfred Droste,journals/corr/CantoneD16,1
+Manfred Droste,conf/mfps/2007,1
+Manfred Broy,conf/etaps/2002viss,1
+Manish Gaur,conf/ice/2008,1
+Manfred Schmidt-Schauß,journals/corr/abs-2008-12414,1
+Manfred Schmidt-Schauß,journals/corr/abs-1302-5997,1
+Manfred Sailer,conf/fgmol/2001,1
+Manfred Opper,journals/jmlr/2006gpp,1
+Manfred Kudlek,journals/corr/abs-1207-6821,1
+Manuel Oriol,journals/corr/BuhnovaHK14,1
+Marc Zeitoun,conf/cav/2004gdv,1
+Marc Wagner 0001,conf/uitp/2008,1
+Marc Renaudin,journals/corr/abs-2004-12403,1
+Marc Pantel,conf/calculemus/2005,1
+Marc-André Möller,conf/cocv/2006,1
+Marcel Romijn,journals/corr/KofronTB16,1
+Marcel Kyas,conf/icalp/2001vepas,1
+Marcel Kyas,conf/etaps/2004sfedl,1
+Marcel Karperien,journals/corr/AndreF14,1
 Mao-kang Luo,conf/isdt/2017,1
 Mao-cheng Cai,conf/cats/2003,1
 Manuela Chessa,journals/corr/abs-2007-11260,1
 Manuel V. Hermenegildo,conf/iclp/1999woid,1
 Manuel V. Hermenegildo,conf/cocv/2004,1
 Manuel V. Hermenegildo,conf/bytecode/2009,1
-Manuel Garnacho,conf/safecert/2008,1
-Manuel Fähndrich,conf/nsad/2011,1
-Manish Gaur,conf/ice/2008,1
-Manfred Schmidt-Schauß,journals/corr/abs-2008-12414,1
-Manfred Schmidt-Schauß,journals/corr/abs-1302-5997,1
-Manfred Schmidt-Schauß,conf/mfps/2007,1
-Manfred Sailer,conf/fgmol/2001,1
-Manfred Opper,journals/jmlr/2006gpp,1
-Manoranjan Satpathy,conf/mbt/2004,1
-Manuel Clavel,conf/wrs/2003,1
-Marcel Kyas,conf/icalp/2001vepas,1
-Marcel Kyas,conf/etaps/2004sfedl,1
-Marcello M. Bersani,journals/corr/abs-2007-11260,1
-Marcelo Finger,conf/wollic/2005,1
-Marcelo Finger,conf/wollic/2003,1
-Marcelo Finger,conf/lsfa/2009,1
-Marcelo Finger,conf/lsfa/2008,1
-Marcelo E. Coniglio,journals/corr/abs-1303-7136,1
-Marcello Maria Bersani,journals/corr/PuppisV13,1
-Marc-André Möller,conf/cocv/2006,1
 Marc Feeley,journals/corr/abs-2207-11600,1
-Marc Pantel,conf/calculemus/2005,1
-Marc Zeitoun,conf/cav/2004gdv,1
-Marc Wagner 0001,conf/uitp/2008,1
-Marc Renaudin,journals/corr/abs-2004-12403,1
-Maddalena Zacchi,journals/corr/Graham-LengrandP13,1
-Madanlal Musuvathi,conf/cav/2003smc,1
+M. Sakthi Balan,journals/corr/abs-0907-5257,1
+M. Randall Holmes,conf/icalp/2003mlc,1
+M. V. Achutha Kiran Kumar,journals/corr/LinP14,1
+Maciej Szreter,journals/corr/PuppisV13,1
 Maciej Piróg,journals/corr/Danvyd16,1
 Maciej Piróg,journals/corr/AtkeyK16,1
 Maciej Koutny,journals/corr/abs-1211-3476,1
@@ -1466,537 +1538,580 @@ Maciej Gazda,journals/corr/abs-1208-2440,1
 Maciej Gazda,journals/corr/abs-0911-3189,1
 Maaz Bin Safeer Ahmad,journals/corr/PiskacD16,1
 Maarit Hietalahti,conf/icalp/2007wcan,1
-Manfred Kudlek,journals/corr/abs-1207-6821,1
-Magnus Love Koci,conf/atmos/2003,1
-Magne Haveraaen,conf/ldta/2008,1
-Mads Vanggaard,conf/ldta/2003,1
 M.-H. Tsai,conf/aistats/2010w,1
+M. José Ramírez-Quintana,conf/wwv/2005e,1
+Lília Ramalho Martins,conf/wollic/2005,1
+László Lengyel,conf/grabats/2004,1
+László Kovács,journals/corr/abs-0906-4900,1
+László Hegedüs,journals/corr/EsikF14,1
+László Gönczy,conf/concur/2006gtvc,1
 M. I. P. Salas,conf/clei/2013s,1
 M. Carmen Fernández Gago,conf/ics2/2006,1
-M. José Ramírez-Quintana,conf/wwv/2005e,1
-M. V. Achutha Kiran Kumar,journals/corr/LinP14,1
-M. Randall Holmes,conf/icalp/2003mlc,1
+Madanlal Musuvathi,conf/cav/2003smc,1
+Makoto Tatsuta,conf/lmcs/2006,1
+Makoto Kanazawa,conf/wollic/2006,1
+Makarius Wenzel,journals/corr/abs-1811-09014,1
+Makarius Wenzel,conf/uitp/2010,1
 Mamoun Filali,conf/avocs/2006,1
 Malte Lochau,journals/corr/RensinkZ15,1
 Malte Appeltauer,conf/rule/2007,1
-Manfred Jaeger,journals/corr/abs-1212-3454,1
-Manfred Hechinger,conf/secco/2003,1
-Manfred Droste,journals/corr/abs-1708-06226,1
-Manfred Droste,journals/corr/CantoneD16,1
-Manfred Broy,conf/etaps/2002viss,1
-Makarius Wenzel,conf/uitp/2010,1
+Majid Zamani 0001,journals/corr/abs-1806-09330,1
+Magnus Love Koci,conf/atmos/2003,1
+Magne Haveraaen,conf/ldta/2008,1
+Mads Vanggaard,conf/ldta/2003,1
+Maddalena Zacchi,journals/corr/Rehof15,1
+Maddalena Zacchi,journals/corr/Graham-LengrandP13,1
 Maja D'Hondt,conf/evol/2006s,1
 Maike Schwammberger,journals/corr/abs-1804-03406,1
-Makarius Wenzel,journals/corr/abs-1811-09014,1
-Makoto Tatsuta,conf/lmcs/2006,1
-Makoto Kanazawa,conf/wollic/2006,1
-Mariangiola Dezani-Ciancaglini,conf/itrs/2002,1
-Mariangiola Dezani-Ciancaglini,conf/icalp/2001both,1
-Mariangiola Dezani-Ciancaglini,conf/dcm/2007,1
+Mahmoud Khaled,journals/corr/abs-1806-09330,1
+Marcello M. Bersani,journals/corr/abs-2007-11260,1
+Maria Luisa Villani,conf/avocs/2006,1
+Maria Paola Bonacina,conf/strategies/2004,1
+Maria Paola Bonacina,conf/strategies/2001,1
+Maria Paola Bonacina,conf/smt/2006,1
+Maria Luisa Guerriero,journals/corr/abs-1002-4919,1
+Maria Grazia Vigliotti,conf/qapl/2008,1
+Maria Luisa Guerriero,conf/mecbic/2008,1
+Maria Luisa Guerriero,conf/cs2bio/2012,1
+Maria João Varanda Pereira,conf/ldta/2006,1
+Maria Grazia Vigliotti,journals/corr/Oliva14,1
+Maria Rita Di Berardini,conf/sasb/2011,1
 Marian Gheorghe 0001,conf/mecbic/2008,1
 Maria-Esther Vidal,journals/corr/Villanueva17,1
 Maria del Pilar Pozos Parra,conf/lanmr/2014s,1
-Mariangiola Dezani-Ciancaglini,conf/itrs/2004,1
-Maribel Fernández,conf/icalp/2006secret,1
-Maribel Fernández,conf/express/2005,1
-Maribel Fernández,conf/express/2002,1
-Marianne Huchard,conf/grabats/2002,1
+Maria Sorea,conf/mtcs/2002,1
+Maria Simonsen,journals/corr/BortolussiBP13,1
+Maria Grazia Vigliotti,conf/qapl/2009,1
+Marek Zaionc,conf/wollic/2003,1
+Margherita Napoli,conf/cats/2001,1
+Maria Emilia Maietti,conf/domains/2002,1
+Maria Emilia Maietti,conf/ctcs/2004,1
+Maria Carolina Monard,conf/clei/2013s,1
+Marija Kulas,journals/corr/SchwarzV17,1
+Marija Kulas,conf/sos/2004,1
+Mariel Alejandra Ale,conf/clei/2011s,1
+Marie-Claude Gaudel,conf/mbt/2008,1
+Marina Waldén,conf/fct/1999wds,1
+Marina Mongiello,conf/svv/2005,1
+Marina Mongiello,conf/fm/2005wlfm,1
+Marina Lenisa,conf/cmcs/2014,1
+Marina Lenisa,conf/cmcs/2003,1
+Marina Lenisa,conf/cmcs/1999,1
 Marianne De Michiel,conf/tapas2/2012,1
 Mariangiola Dezani-Ciancaglini,journals/corr/abs-1909-05242,1
 Mariangiola Dezani-Ciancaglini,journals/corr/abs-0911-2829,1
 Mariangiola Dezani-Ciancaglini,journals/corr/OrchardY16a,1
 Mariangiola Dezani-Ciancaglini,journals/corr/Graham-LengrandP13,1
 Mariangiola Dezani-Ciancaglini,journals/corr/Carbone14,1
-Mariangiola Dezani-Ciancaglini,conf/mecbic/2008,1
-Maria Sorea,conf/mtcs/2002,1
-Maria Grazia Vigliotti,journals/corr/Oliva14,1
-Maria Grazia Vigliotti,conf/qapl/2009,1
-Maria Grazia Vigliotti,conf/qapl/2008,1
-Maria Emilia Maietti,conf/domains/2002,1
-Maria Emilia Maietti,conf/ctcs/2004,1
-Maria João Varanda Pereira,conf/ldta/2006,1
-Maria Paola Bonacina,conf/strategies/2004,1
-Maria Rita Di Berardini,conf/sasb/2011,1
-Maria Paola Bonacina,conf/strategies/2001,1
-Maria Luisa Guerriero,conf/cs2bio/2012,1
-Maria Paola Bonacina,conf/smt/2006,1
-Maria Luisa Villani,conf/avocs/2006,1
-Marcelo d'Amorim,conf/rv/2005,1
-Marino Miculan,conf/merlin/2001,1
-Marinella Petrocchi,conf/stm/2005,1
-Marinella Petrocchi,conf/secco/2004,1
-Marinella Petrocchi,conf/ics2/2006,1
-Marina Waldén,conf/fct/1999wds,1
-Marina Pilar,conf/clei/2013s,1
-Marina Mongiello,conf/svv/2005,1
-Marina Mongiello,conf/fm/2005wlfm,1
-Marino Miculan,conf/lfm/2002,1
-Mario Bravetti,conf/mtcs/2001,1
-Mario Bravetti,conf/mtcs/2000,1
-Mario Bravetti,conf/lix/2006,1
-Mario Bravetti,conf/express/2007,1
-Mario Bravetti,conf/express/1999,1
-Marino Miculan,journals/corr/abs-1011-0051,1
-Marino Miculan,journals/corr/abs-0912-0034,1
-Marina Lenisa,conf/cmcs/2003,1
-Marie-Claude Gaudel,conf/mbt/2008,1
-Maribel Fernández,journals/corr/abs-1303-7136,1
+Mariangiola Dezani-Ciancaglini,conf/itrs/2004,1
+Mariangiola Dezani-Ciancaglini,conf/itrs/2002,1
+Mariangiola Dezani-Ciancaglini,conf/icalp/2001both,1
+Mariangiola Dezani-Ciancaglini,conf/dcm/2007,1
+Marianne Huchard,conf/grabats/2002,1
 Maribel Fernández,journals/corr/abs-1009-2189,1
 Maribel Fernández,journals/corr/abs-1003-5716,1
 Maribel Fernández,journals/corr/LoweW14,1
 Maribel Fernández,conf/termgraph/2004,1
 Maribel Fernández,conf/termgraph/2002,1
 Maribel Fernández,conf/rule/2006,1
-Mariel Alejandra Ale,conf/clei/2011s,1
-Marina Lenisa,conf/cmcs/1999,1
-Marija Kulas,journals/corr/SchwarzV17,1
-Marija Kulas,conf/sos/2004,1
-Marco Gaboardi,conf/lsfa/2007,1
-Marco Faella,journals/corr/abs-1006-5107,1
-Marco Faella,journals/corr/MogaveroMV14,1
-Marco Colombetti,conf/lcmas/2005,1
-Marco Loog,journals/jmlr/2006gpp,1
-Marco Kick,conf/concur/2002cmcim,1
-Marco Giunti,journals/corr/BeekL15,1
-Marco Carbone,journals/corr/abs-1207-3485,1
-Marco Carbone,journals/corr/abs-1002-1408,1
-Marco Antonio Barbosa,conf/coordination/2006coorg,1
-Marco Antonio Barbosa,conf/foclasa/2006,1
-Marco Bernardo 0001,conf/qapl/2009,1
-Marco Bozzano,journals/corr/abs-1710-02770,1
+Maribel Fernández,conf/icalp/2006secret,1
+Maribel Fernández,conf/express/2005,1
+Maribel Fernández,conf/express/2002,1
 Marco Bernardo 0001,journals/corr/abs-1108-1452,1
+Marco Bernardo 0001,conf/qapl/2009,1
 Marco Bernardo 0001,conf/mtcs/2000,1
 Marco Benini,conf/clase/2005,1
 Marco Autili,journals/corr/CamaraP15,1
-Marek Gawkowski,conf/cocv/2004,1
-Marcus Völp,journals/corr/abs-1211-5873,1
-Margherita Napoli,conf/cats/2001,1
-Marco T. Morazán,journals/corr/abs-1906-10757,1
-Marco T. Morazán,journals/corr/CaldwellHA14,1
-Marco Sälzer,journals/corr/abs-2009-09360,1
-Marco Rubino,conf/nsad/2017,1
-Marco Roveri,conf/floc/2006vd,1
-Marco Pistore,conf/arspa/2005,1
-Marcus Größer,journals/corr/abs-0907-5257,1
-Marcus Denker,conf/evol/2006s,1
-Marcus Daum,journals/corr/abs-1211-5873,1
+Marco Antoniotti,journals/corr/abs-1208-3151,1
+Marco Antoniotti,journals/corr/GraudenziCMA13,1
+Marco Antonio Barbosa,conf/foclasa/2006,1
+Marco Antonio Barbosa,conf/coordination/2006coorg,1
+Marco Bozzano,journals/corr/abs-1710-02770,1
+Marco Colombetti,conf/lcmas/2005,1
+Marco Carbone,journals/corr/abs-1207-3485,1
+Marco Carbone,journals/corr/abs-1002-1408,1
+Marco Carbone,conf/lix/2006,1
+Marcelo Finger,journals/corr/abs-1203-5423,1
+Marcelo Finger,conf/lsfa/2009,1
+Marcelo Finger,conf/lsfa/2008,1
+Marcello M. Bonsangue,conf/cmcs/2016,1
+Marcin Przybylko,journals/corr/abs-1809-02416,1
+Marcin Czenko,conf/stm/2005,1
+Marcelo d'Amorim,conf/rv/2005,1
 Marcus Anthony Triplett,journals/corr/Ramanujam16,1
 Marcos Villagra,conf/clei/2016s,1
 Marcos López Sanz,conf/clei/2014s,1
-Lia Yeh,journals/corr/abs-2211-01102,1
-Li-Gang Wu,conf/isdt/2009,1
+Marco Faella,journals/corr/MogaveroMV14,1
+Marco T. Morazán,journals/corr/abs-1906-10757,1
+Marco T. Morazán,journals/corr/abs-1805-04255,1
+Marco T. Morazán,journals/corr/CaldwellHA14,1
+Marcus Daum,journals/corr/abs-1211-5873,1
+Marcus Denker,conf/evol/2006s,1
+Marcus Gelderie,journals/corr/abs-1102-3741,1
+Marek Gawkowski,conf/cocv/2004,1
+Marcus Völp,journals/corr/abs-1211-5873,1
+Marcus Größer,journals/corr/abs-0907-5257,1
+Marco Servetto,journals/corr/abs-1908-06723,1
+Marco Rubino,conf/nsad/2017,1
+Marco Loog,journals/jmlr/2006gpp,1
+Marco Kick,conf/concur/2002cmcim,1
+Marco Giunti,journals/corr/BeekL15,1
+Marco Gaboardi,conf/lsfa/2007,1
+Marco Faella,journals/corr/abs-1006-5107,1
+Marco Roveri,conf/floc/2006vd,1
+Marco Pistore,conf/arspa/2005,1
+Marco Peressotti,journals/corr/BertrandB14,1
+Marinella Petrocchi,conf/ics2/2006,1
 Li Su 0002,conf/fmis/2007,1
 Li Su 0002,conf/arts/2004,1
 Li Hsien Yoong,conf/slap/2008,1
-Lijesh Krishnan,conf/cocv/2006,1
-Libor Polák,journals/corr/abs-1008-1270,1
-Leonid Ryzhyk,journals/corr/PiskacD16,1
-Letterio Galletta,journals/corr/ProencaT15,1
+Levin Noronha,journals/corr/abs-1805-04255,1
 Letterio Galletta,journals/corr/abs-1711-10708,1
+Letterio Galletta,journals/corr/ProencaT15,1
 Letterio Galletta,journals/corr/BartolettiHKV16,1
+Lia Yeh,journals/corr/abs-2211-01102,1
+Li-Gang Wu,conf/isdt/2009,1
+Leonardo B. Vana,conf/lsfa/2007,1
+Leonard G. C. Hamey,conf/ldta/2007,1
+Leo Marcus,conf/lics/2009laft,1
 Leslie Murray,conf/clei/2015s,1
-Lijesh Krishnan,conf/ldta/2007,1
-Liqian Chen,conf/nsad/2014,1
-Lisa Higham,conf/floc/2006tv,1
-Livia Lestingi,journals/corr/abs-2007-11260,1
-Lisbeth Fajstrup,conf/getco/2000,1
-LillAnne Jackson,conf/floc/2006tv,1
-Lilian Burdy,journals/corr/DuboisMM17,1
-Linda Brodo,conf/sasb/2011,1
-Linda Brodo,conf/secco/2007,1
+Leonid Ryzhyk,journals/corr/PiskacD16,1
+Linde Wester,journals/corr/abs-1802-09737,1
 Ling Fang,journals/corr/PangL14,1
 Ling Fang,conf/cocv/2007,1
 Ling Cheung,conf/getco/2003,1
-Linde Wester,journals/corr/abs-1802-09737,1
+Lisbeth Fajstrup,conf/getco/2000,1
+Lisa Higham,conf/floc/2006tv,1
+Liqian Chen,conf/nsad/2014,1
+Linde Wester,journals/corr/CoeckeHP14,1
+Lilian Burdy,journals/corr/DuboisMM17,1
+Lila Kari,journals/corr/abs-1008-1270,1
+Lijesh Krishnan,conf/cocv/2006,1
+LillAnne Jackson,conf/floc/2006tv,1
+Linda Brodo,conf/secco/2007,1
+Linda Brodo,conf/sasb/2011,1
+Lina Marsso,journals/corr/abs-1803-08668,1
+Lenore D. Zuck,conf/rv/2005,1
+Laurence Loewe,journals/corr/abs-0910-1605,1
+Laura Nenzi,journals/corr/DangP13,1
+Laura I. Meikle,conf/uitp/2010,1
+Laurent Van Begin,conf/infinity/2002,1
+Laurent Prosperi,journals/corr/abs-1907-08335,1
 Laurent Mounier,conf/mbt/2008,1
 Laurent Mounier,conf/cav/2001smc,1
-Laurent Prosperi,journals/corr/abs-1907-08335,1
-Laurentiu Leustean,conf/wollic/2006,1
-Laurent Van Begin,conf/infinity/2003,1
-Laurent Van Begin,conf/infinity/2002,1
-Laurence Loewe,journals/corr/abs-0910-1605,1
-Lasse Nielsen,journals/corr/abs-1011-6012,1
+Lars Gesellensetter,conf/fesca/2006,1
 Lars Kristiansen,conf/lics/2003icc,1
-Laura I. Meikle,conf/uitp/2010,1
+Lars Jenner,conf/mtcs/2000,1
+Lars Hedrich,conf/fac/2005,1
+Lars Birkedal,conf/mfps/2011,1
+Lars Birkedal,conf/domains/1998,1
+Lars Birkedal,conf/concur/2006gtvc,1
 Laura E. Brown,conf/wcci/2008cpc,1
-Laura Bozzelli,journals/corr/abs-1106-0814,1
 Laura Bocchi,journals/corr/abs-1108-0144,1
-Lawrence S. Moss,conf/cmcs/2002,1
-Leila Ribeiro 0001,journals/corr/abs-1003-5758,1
-Leila Ribeiro 0001,conf/grabats/2004,1
-Leila Ribeiro 0001,conf/concur/2006gtvc,1
-Lennart Beringer,conf/fgc/2003,1
-Leonardo B. Vana,conf/lsfa/2007,1
-Leo Marcus,conf/lics/2009laft,1
-Lenore D. Zuck,conf/cocv/2002,1
-Lenore D. Zuck,conf/rv/2005,1
-Lawrence S. Moss,conf/fgmol/2001,1
+Laurent Van Begin,conf/infinity/2003,1
 Leif Geiger,conf/grabats/2004,1
-Lee Momtahan,conf/fm/2005wlfm,1
-Leander Behr,journals/corr/abs-2207-04391,1
-Leen Lambers,conf/accat/2007,1
+Lenore D. Zuck,conf/cocv/2002,1
+Lennart Beringer,conf/fgc/2003,1
+Leila Ribeiro 0001,journals/corr/abs-1003-5758,1
 Leendert W. N. van der Torre,conf/coordination/2006coorg,1
 Leendert W. N. van der Torre,conf/coordination/2005mtcoord,1
-Luis Menasché Schechter,conf/lsfa/2008,1
+Lawrence S. Moss,conf/fgmol/2001,1
+Lawrence S. Moss,conf/cmcs/2022,1
+Lawrence S. Moss,conf/cmcs/2002,1
+Laurentiu Leustean,conf/wollic/2006,1
+Leen Lambers,conf/accat/2007,1
+Lee Momtahan,conf/fm/2005wlfm,1
+Leander Behr,journals/corr/abs-2207-04391,1
+Le Minh Nghia,journals/corr/abs-2008-08923,1
+Luigi Liquori,journals/corr/CervesatoC15,1
+Ludwig Ostermayer,journals/corr/SchwarzV17,1
+Luigi Santocanale,conf/cmcs/2003,1
+Luigi Santocanale,journals/corr/abs-2101-07888,1
 Luis Fariñas del Cerro,conf/lsfa/2009,1
 Luis Estrada-González,journals/corr/abs-2204-06359,1
 Luis Daniel Benavides Navarro,conf/clei/2011s,1
 Luigia Petre,conf/fct/1999wds,1
 Luigia Carlucci Aiello,conf/cav/2001lacpv,1
 Luigi Sauro,journals/corr/MogaveroMV14,1
-Luigi Santocanale,journals/corr/abs-2101-07888,1
-Luke Chircop,journals/corr/abs-1708-06889,1
-Lukas Brügger,conf/mbt/2008,1
-Luis Quesada 0002,journals/corr/Escobar15,1
-Luigi Santocanale,conf/cmcs/2003,1
-Ludovic Font,journals/corr/abs-2002-11895,1
-Lucy Saunders-Evans,conf/express/2006,1
-Lucien Capedevielle,journals/corr/abs-1201-0345,1
-Luciano Margara,journals/corr/abs-1208-2498,1
+Ludvig Axelsson,journals/corr/VasconcelosH17,1
+Luciano Baresi,conf/gg/2004pngt,1
+Luciano Baresi,conf/concur/2007gtvc,1
 Ludovica Luisa Vissat,journals/corr/TribastoneW16,1
-Ludwig Ostermayer,journals/corr/SchwarzV17,1
-Luigi Liquori,journals/corr/CervesatoC15,1
-Lydie du Bousquet,conf/slap/2003,1
-László Gönczy,conf/concur/2006gtvc,1
-László Kovács,journals/corr/abs-0906-4900,1
-László Hegedüs,journals/corr/EsikF14,1
-Luís Soares Barbosa,conf/cmcs/2003,1
-Lutz Schröder,conf/cmcs/2008,1
-Luuk Groenewegen,journals/corr/abs-1108-1452,1
-Luís M. B. Lopes,conf/hlcl/1998,1
-Luís Pinto 0001,journals/corr/Oliva14,1
-Luís Pinto 0001,conf/cade/1998proof,1
+Luciano Margara,journals/corr/abs-1208-2498,1
+Lucien Capedevielle,journals/corr/abs-1201-0345,1
+Ludovic Mignot,journals/corr/abs-2208-13015,1
+Ludovic Henrio,journals/corr/abs-1010-2337,1
+Ludovic Font,journals/corr/abs-2002-11895,1
+Ludovic Apvrille,journals/corr/KordyMP14,1
+Lucy Saunders-Evans,conf/express/2006,1
+Luis Menasché Schechter,conf/lsfa/2008,1
 Luís Monteiro,conf/cmcs/2000,1
+Luís M. B. Lopes,conf/hlcl/1998,1
 Luís M. B. Lopes,conf/fgc/2003,1
 Luís Caires,conf/express/2006,1
-Loïc Paulevé,conf/sasb/2015,1
-Loïc Paulevé,conf/sasb/2014,1
-Loïc Hélouët,conf/etaps/2002viss,1
-Loïc Germerie Guizouarn,journals/corr/abs-2109-14908,1
+Luuk Groenewegen,journals/corr/abs-1108-1452,1
+Luís Pinto 0001,conf/cade/1998proof,1
+Luís Pinto 0001,journals/corr/Oliva14,1
+Luís Soares Barbosa,conf/cmcs/2003,1
+Lydie du Bousquet,conf/slap/2003,1
+Luke Chircop,journals/corr/abs-1708-06889,1
+Lukas Brügger,conf/mbt/2008,1
+Luisa Montanari,journals/corr/abs-2108-09624,1
+Luis Quesada 0002,journals/corr/Escobar15,1
+Luke Chircop,journals/corr/KofronTB16,1
+Lutz Schröder,conf/cmcs/2020,1
+Lutz Schröder,conf/cmcs/2008,1
+Livia Lestingi,journals/corr/abs-2007-11260,1
 Loïc Besnard,conf/fmgals/2007,1
-Luca Aceto,conf/express/2003,1
-Luca Aceto,conf/express/2001,1
-Lubos Brim,journals/corr/abs-1109-1044,1
-Lubos Brim,conf/sasb/2015,1
-Lubos Brim,conf/sasb/2014,1
-Lubos Brim,conf/pdmc/2005,1
-Lorenzo Capra,journals/corr/abs-2111-07538,1
-Lorenzo Capra,journals/corr/abs-1909-00584,1
+Louis Mandel,conf/slap/2008,1
 Louise A. Dennis,journals/corr/abs-2209-13181,1
 Louis-Marie Traonouez,journals/corr/abs-1207-3485,1
 Louis-Julien Guillemette,conf/plpv/2006,1
-Louis Mandel,conf/slap/2008,1
+Loïc Germerie Guizouarn,journals/corr/abs-2109-14908,1
+Loïc Hélouët,conf/etaps/2002viss,1
+Lubomira Stoilova,conf/lfm/2002,1
+Loïc Paulevé,journals/corr/abs-2209-09333,1
+Loïc Paulevé,conf/sasb/2015,1
+Loïc Paulevé,conf/sasb/2014,1
 Louis M. Rose,journals/corr/GorpRK13,1
-Luca Aceto,conf/sos/2004,1
-Luca Tesei,journals/corr/abs-1208-4327,1
-Luciano Baresi,conf/gg/2004pngt,1
-Luciano Baresi,conf/concur/2007gtvc,1
-Luciana Brasil Rebelo dos Santos,journals/corr/BuhnovaHK14,1
-Lucia Pomello,journals/corr/abs-0911-2829,1
-Luca Aceto,journals/corr/abs-1002-2978,1
-Luca Bortolussi,journals/corr/abs-1207-0559,1
-Luca Bortolussi,journals/corr/BertrandT15,1
-Luca Aceto,journals/corr/abs-1202-3174,1
-Luca Aceto,journals/corr/abs-1108-2796,1
+Lorenzo Bettini,conf/secco/2004,1
+Lorenzo Capra,journals/corr/abs-2111-07538,1
+Lorenzo Capra,journals/corr/abs-1909-00584,1
+Lubos Brim,conf/pdmc/2005,1
+Lubos Brim,conf/sasb/2014,1
+Lubos Brim,conf/sasb/2015,1
+Luca Prigioniero,journals/corr/abs-1708-06226,1
 Luca Padovani,journals/corr/abs-1101-4104,1
-Luca Geatti,journals/corr/abs-1809-02416,1
+Lubos Brim,journals/corr/abs-1109-1044,1
+Luca Padovani,journals/corr/YoshidaV13,1
 Luca Franceschini,journals/corr/abs-1709-04199,1
-Merijn de Jonge,conf/ldta/2008,1
-Mercedes Hidalgo-Herrero,conf/prole/2009,1
-Mertcan Temel,journals/corr/abs-2205-11103,1
-Mertcan Temel,journals/corr/abs-2009-12521,1
-Mehmet Aksit,conf/abmb/2005,1
-Mehdi Bouaziz,conf/nsad/2012,1
-Mehmet Aksit,conf/abmb/2006,1
+Luca Tesei,journals/corr/abs-1208-4327,1
+Luca Aceto,journals/corr/abs-1108-2796,1
+Luca Aceto,journals/corr/abs-1002-2978,1
+Luca Aceto,journals/corr/abs-0911-3189,1
+Luca Aceto,conf/sos/2004,1
+Luca Aceto,conf/express/2003,1
+Luca Aceto,conf/express/2001,1
+Lubos Brim,journals/corr/abs-1208-3151,1
+Luca Aceto,journals/corr/abs-1202-3174,1
+Luca Bortolussi,journals/corr/abs-1207-0559,1
+Luca Bortolussi,journals/corr/DangP13,1
+Luca Bortolussi,journals/corr/BertrandT15,1
 Mehrnoosh Sadrzadeh,conf/lcmas/2004,1
 Mehrnoosh Sadrzadeh,conf/cmcs/2008,1
 Mehreen Saeed,conf/wcci/2008cpc,1
-Petteri Kaskenpalo,journals/corr/abs-1006-1689,1
+Mehmet Aksit,conf/abmb/2006,1
+Mehmet Aksit,conf/abmb/2005,1
+Mercedes Hidalgo-Herrero,conf/prole/2009,1
+Mayank Saksena,conf/iclp/2003svv,1
+Maximiliano Arias,conf/clei/2017s,1
+Maximilian Doré,journals/corr/abs-1903-12402,1
+Max Walter,conf/qmpd/2012,1
+Mehdi Bouaziz,conf/nsad/2012,1
+Michael Dierkes,journals/corr/abs-1212-6574,1
+Michael Cohen,journals/corr/abs-2106-10886,1
 Michael Gonder,conf/plpv/2006,1
 Michael Franz,conf/vmcai/2005aiool,1
-Michael Hanus,conf/wrs/2002,1
-Michael Huth,conf/domains/2002,1
-Michael Hicks 0001,journals/corr/LevyK14,1
 Michael Franz,conf/cocv/2003,1
 Michael Franssen,conf/cade/1998proof,1
 Michael Fisher 0001,journals/corr/abs-2209-13181,1
-Michael Cohen,journals/corr/abs-2106-10886,1
-Michael Carl Tschantz,conf/mfps/2011,1
-Michael Baldamus,conf/hoots/2000,1
 Michael Fisher 0001,conf/mochart/2005,1
-Michael Dierkes,journals/corr/abs-1212-6574,1
-Maurice Herlihy,conf/getco/2000,1
-Maurice H. ter Beek,journals/corr/RubinT16,1
+Mertcan Temel,journals/corr/abs-2205-11103,1
+Mertcan Temel,journals/corr/abs-2009-12521,1
+Merijn de Jonge,conf/ldta/2008,1
+Michael Baldamus,conf/hoots/2000,1
+Matthias Schunter,conf/wsaif/1999,1
+Matthieu Lemerre,journals/corr/abs-1007-0831,1
+Matthieu Martel,conf/nsad/2012,1
+Matthieu Martel,journals/corr/BanerjeeDDH13,1
 Maurice Bruynooghe,conf/cocv/2002,1
 Matvey Soloviev,journals/corr/LoweW14,1
-Mauricio Ayala-Rincón,journals/corr/MunozP16,1
-Mauricio Ayala-Rincón,conf/wrs/2002,1
-Mauricio Ayala-Rincón,conf/lsfa/2008,1
 Matti Niemenmaa,journals/corr/abs-0912-3036,1
-Matthias Schunter,conf/wsaif/1999,1
-Matti Luukkainen,conf/iclp/2003svv,1
 Matthieu Sozeau,journals/corr/abs-2107-07376,1
 Matthieu Moy,conf/tapas2/2012,1
-Matthieu Martel,journals/corr/BanerjeeDDH13,1
-Matthieu Martel,conf/nsad/2012,1
-Matthieu Lemerre,journals/corr/abs-1007-0831,1
-Mauricio Ayala-Rincón,journals/corr/abs-1303-7136,1
-Mauricio Espinoza,conf/clei/2016s,1
-Max Walter,conf/qmpd/2012,1
-Max J. Friese,journals/corr/abs-2004-12403,1
-Max I. Kanovich,conf/cotic/1998,1
-Maxime Lucas,journals/corr/abs-2112-13746,1
-Maximiliano Arias,conf/clei/2017s,1
-Maximilian Doré,journals/corr/abs-1903-12402,1
-Maurizio Proietti,journals/corr/BjornerFRS14,1
-Maurizio Drocco,journals/corr/abs-1006-5107,1
-Mauricio Osorio 0001,conf/lanmr/2016s,1
-Maurizio Proietti,journals/corr/GallagherR16,1
-Maurizio Proietti,journals/corr/abs-1907-03523,1
-Mauro Jaskelioff,journals/corr/abs-2206-09534,1
+Matthew Might,conf/nsad/2012,1
+Matthew S. Bauer,journals/corr/abs-1006-0551,1
+Matthew Peveler,journals/corr/abs-1912-11786,1
+Matthew Might,conf/tapas2/2013,1
+Matthias Rungger,journals/corr/abs-1806-09330,1
+Matthew J. Smith,journals/corr/TribastoneW16,1
+Matthias Buntins,conf/etaps/2011has,1
 Mauro Jaskelioff,conf/msfp/2008,1
 Mauro Jaskelioff,conf/clei/2017s,1
+Maurizio Proietti,journals/corr/abs-1809-04554,1
+Maurizio Proietti,journals/corr/GallagherR16,1
+Maurizio Proietti,journals/corr/BjornerFRS14,1
+Mauro Jaskelioff,journals/corr/abs-2206-09534,1
+Max J. Friese,journals/corr/abs-2004-12403,1
+Max I. Kanovich,conf/cotic/1998,1
+Maurizio Drocco,journals/corr/abs-1006-5107,1
+Maurice Herlihy,conf/getco/2000,1
+Maurice H. ter Beek,journals/corr/RubinT16,1
+Mauricio Osorio 0001,conf/lanmr/2016s,1
+Mauricio Espinoza,conf/clei/2016s,1
+Mauricio Ayala-Rincón,journals/corr/MunozP16,1
+Mauricio Ayala-Rincón,conf/wrs/2002,1
+Michel P. Schellekens,conf/domains/1998,1
+Michel Gagnon,journals/corr/abs-2002-11895,1
+Michel Rueher,journals/lncs/1994-910,1
 Michele Basaldella,journals/corr/AlvesC15,1
 Michela Becchi,journals/corr/abs-1211-5873,1
-Michele Ruta,conf/svv/2005,1
-Michele Pasqua,conf/nsad/2016,1
-Michele Loreti,journals/corr/abs-1108-1452,1
-Michele Loreti,journals/corr/LaneseLSV14,1
-Michele Loreti,conf/sos/2008,1
-Michele Loreti,conf/icalp/2001both,1
-Michaël Rusinowitch,journals/corr/abs-2109-02501,1
-Michel P. Schellekens,conf/domains/1998,1
-Michel Rueher,journals/lncs/1994-910,1
-Michel Gagnon,journals/corr/abs-2002-11895,1
-Mika Karaila,conf/atem/2004,1
-Mickael Randour,journals/corr/EsparzaT15,1
-Mieke Massink,journals/corr/LaneseLSV14,1
-Miguel Gómez-Zamalloa,conf/prole/2009,1
-Miguel Méndez-Garabetti,conf/clei/2014s,1
-Miguel E. P. Silva,journals/corr/CervesatoF17,1
-Michael Marz,conf/domains/1998,1
-Michael R. Fellows,conf/cats/2002,1
-Michael R. Blaha,conf/atem/2003,1
-Michael J. Butler,journals/corr/abs-1305-5634,1
-Michael Kohlhase,journals/corr/abs-1910-08712,1
-Michael Johnson,conf/concur/2002cmcim,1
-Michalis Anastasopolous,conf/atem/2004,1
 Michal Zima,journals/corr/BoudaHKSR16,1
 Michal Szynwelski,journals/corr/AtkeyK16,1
+Michal Rutkowski,journals/corr/abs-1107-0746,1
+Michalis Anastasopolous,conf/atem/2004,1
+Michel A. Reniers,conf/sos/2008,1
+Michaël Rusinowitch,journals/corr/abs-2109-02501,1
+Miguel Méndez-Garabetti,conf/clei/2014s,1
+Miguel Gómez-Zamalloa,conf/prole/2009,1
+Miguel E. P. Silva,journals/corr/CervesatoF17,1
+Mieke Massink,journals/corr/LaneseLSV14,1
+Michele Loreti,journals/corr/abs-1108-1452,1
+Michele Loreti,journals/corr/LaneseLSV14,1
+Michele Loreti,conf/icalp/2001both,1
+Michele Pasqua,conf/nsad/2016,1
+Michele Ruta,conf/svv/2005,1
+Mickael Randour,journals/corr/EsparzaT15,1
+Michael Kohlhase,journals/corr/abs-1910-08712,1
+Michael Johnson,conf/concur/2002cmcim,1
+Michael Johnson,conf/cats/2002,1
+Michael Leuschel,journals/corr/DuboisGM14,1
+Michael Holtmann,journals/corr/abs-1102-3741,1
+Michael Huth,conf/domains/2002,1
+Michael Hicks 0001,journals/corr/LevyK14,1
+Michael Hanus,conf/wrs/2002,1
+Michael J. Butler,journals/corr/abs-1305-5634,1
+Michael W. Mislove,conf/express/2003,1
+Michael W. Godfrey,conf/atem/2003,1
 Michael Theobald,conf/cav/2003smc,1
 Michael Stay,journals/corr/abs-2211-01102,1
-Michael W. Mislove,conf/express/2003,1
-Mario Coppo,journals/corr/Graham-LengrandP13,1
+Markus Holzer 0001,journals/corr/EsikF14,1
 Markus Siegle,journals/corr/BrihayeDJMS16,1
 Markus Siegle,conf/qmpd/2012,1
-Marta Z. Kwiatkowska,conf/express/1998,1
-Marta Pietkiewicz-Koutny,journals/corr/abs-1211-3476,1
+Mark van den Brand,conf/ldta/2005,1
+Mark Timmer,journals/corr/abs-1202-5826,1
 Marko C. J. D. van Eekelen,journals/corr/abs-1108-2796,1
 Marko C. J. D. van Eekelen,journals/corr/BonfanteM17,1
 Marko C. J. D. van Eekelen,conf/etaps/2016rac,1
-Markus Holzer 0001,journals/corr/abs-0907-5257,1
-Markus Klein,conf/fesca/2006,1
-Martin Hunt,conf/birthday/2007lindstrom,1
-Martin Kutrib,journals/corr/EsikF14,1
-Martin Berger 0001,conf/express/2000,1
 Martin Garriga,conf/clei/2015s,1
 Martin Fränzle,journals/corr/abs-1910-13641,1
-Martin Fränzle,conf/etaps/2011has,1
-Martin Freibothe,conf/fac/2005,1
 Martin Erwig,journals/corr/abs-1109-0323,1
+Martin Berger 0001,conf/express/2000,1
+Martin Gebser,journals/corr/abs-1108-6097,1
+Martin Hunt,conf/birthday/2007lindstrom,1
+Marsha Chechik,journals/corr/abs-1009-3306,1
+Marta Z. Kwiatkowska,conf/express/1998,1
+Martha Lewis,journals/corr/KartsaklisLR16,1
+Mark R. Tuttle,conf/getco/2000,1
+Mario R. F. Benevides,conf/imla/2013,1
 Marius Lauder,journals/corr/GorpRK13,1
 Marius Bozga,conf/cav/2001smc,1
-Mark Anthony Cachia,conf/vsse/2013,1
-Mark Adams,journals/corr/KaliszykP15,1
-Mark A. Girolami,journals/jmlr/2006gpp,1
+Mario Bravetti,conf/express/2007,1
+Mario Bravetti,conf/express/1999,1
+Marino Miculan,journals/corr/abs-1011-0051,1
+Marino Miculan,journals/corr/abs-0912-0034,1
+Marino Miculan,conf/merlin/2001,1
+Mario Bravetti,conf/mtcs/2001,1
+Mario Gleirscher,journals/corr/abs-1709-02126,1
+Mario Coppo,journals/corr/abs-0910-1605,1
+Mario Coppo,journals/corr/Graham-LengrandP13,1
+Mario Bravetti,journals/corr/BersaniBFM14,1
+Mark Hills 0001,journals/corr/abs-1106-5962,1
+Mark Hills 0001,conf/rule/2008,1
+Mark Minas,journals/corr/abs-1912-08966,1
+Mark Micallef,journals/corr/abs-1708-06889,1
+Mark Micallef,conf/vsse/2013,1
 Marjan Mernik,conf/ldta/2005,1
 Mariëlle Stoelinga,journals/corr/abs-1202-5826,1
 Mariëlle Stoelinga,journals/corr/GlabbeekGH15,1
-Mario R. F. Benevides,conf/imla/2013,1
-Mario Gleirscher,journals/corr/abs-1709-02126,1
-Mario Coppo,journals/corr/abs-0910-1605,1
 Mark Bouwman,journals/corr/abs-2008-12414,1
-Mark Reynolds 0001,journals/corr/abs-1809-02416,1
-Mark R. Tuttle,conf/getco/2000,1
-Mark R. Greenstreet,journals/corr/abs-1810-03762,1
-Mark Minas,journals/corr/abs-1912-08966,1
-Mark van den Brand,conf/ldta/2005,1
-Mark Timmer,journals/corr/abs-1202-5826,1
-Mark Hills 0001,conf/rule/2008,1
-Mark Micallef,journals/corr/abs-1708-06889,1
-Mark Micallef,conf/vsse/2013,1
-Mark Hills 0001,journals/corr/abs-1106-5962,1
-Mathieu Braem,conf/abmb/2006,1
-Mathias Samuelides,conf/infinity/2002,1
-Mathias Fleury,journals/corr/abs-2107-01544,1
-Mateja Jamnik,journals/corr/AutexierQ17,1
-Matias David Lee,journals/corr/CrafaG15,1
-Matias David Lee,journals/corr/BertrandT15,1
-Massimiliano de Leoni,journals/corr/abs-0906-4900,1
-Massimo Tivoli,journals/corr/CamaraP15,1
+Mark Anthony Cachia,conf/vsse/2013,1
+Mark Adams,journals/corr/KaliszykP15,1
+Mark A. Girolami,journals/jmlr/2006gpp,1
 Massimo Merro,conf/express/1999,1
 Massimo Merro,conf/express/1998,1
+Massimo Bartoletti,journals/corr/CarboneLLS13,1
+Massimo Tivoli,journals/corr/CamaraP15,1
+Mathias Fleury,journals/corr/abs-2107-01544,1
+Mateja Jamnik,journals/corr/AutexierQ17,1
+Massimiliano de Leoni,journals/corr/abs-0906-4900,1
+Masanao Ozawa,journals/corr/CoeckeHP14,1
+Mathias Samuelides,conf/infinity/2002,1
+Matteo Tadiello,journals/corr/abs-2209-13181,1
 Matthew Hennessy,conf/fgc/2004,1
-Matthew J. Smith,journals/corr/TribastoneW16,1
-Matt Kaufmann,journals/corr/abs-1304-7123,1
-Matthew Might,conf/tapas2/2013,1
-Matthew Might,conf/nsad/2012,1
 Matteo Cimini,journals/corr/abs-1002-2978,1
+Matias David Lee,journals/corr/CrafaG15,1
+Mathieu Hoyrup,journals/corr/abs-1006-0551,1
+Mathieu Braem,conf/abmb/2006,1
+Matias David Lee,journals/corr/BertrandT15,1
 Matt Wilson,journals/corr/abs-2109-04886,1
 Matt Kaufmann,journals/corr/abs-1810-03762,1
-Matteo Mio,journals/corr/BartolettiHKV16,1
-Matteo Tadiello,journals/corr/abs-2209-13181,1
+Matt Kaufmann,journals/corr/abs-1304-7123,1
+Masahiko Sakai,journals/corr/abs-1802-05862,1
+Martin Wegner,journals/corr/AcetoFI16,1
+Martin Zimmermann 0002,journals/corr/abs-1909-05979,1
 Martin Zimmermann 0002,journals/corr/abs-1006-1711,1
 Martin Ziegler 0001,journals/corr/abs-1006-0551,1
-Marvin R. G. Schiller,journals/corr/abs-1202-4535,1
-Martín Hötzel Escardó,conf/dtmpp/2003,1
-Martín Hötzel Escardó,conf/domains/2002,1
+Masahiko Sakai,journals/corr/Maneth13,1
 Martin Ring,journals/corr/AutexierQ17,1
 Martin Plátek,journals/corr/abs-1708-06226,1
-Martin Wegner,journals/corr/AcetoFI16,1
-Mary Lou Soffa,conf/cocv/2002,1
-Masahiko Sakai,journals/corr/abs-1802-05862,1
-Masahiko Sakai,journals/corr/Maneth13,1
 Masafumi Yamashita,conf/cats/2004,1
-Raazesh Sainudiin,journals/corr/abs-1006-0551,1
-Tom Chothia,conf/hlcl/2000,1
-Tom Chothia,conf/express/2001,1
+Martín Hötzel Escardó,conf/dtmpp/2003,1
+Martín Hötzel Escardó,conf/domains/2002,1
+Marvin R. G. Schiller,journals/corr/abs-1202-4535,1
+Mary Lou Soffa,conf/cocv/2002,1
+Petteri Kaskenpalo,journals/corr/abs-1006-1689,1
 Todd Warszawski,journals/corr/FinkbeinerS14,1
-Tom Hirschowitz,journals/corr/abs-1108-0144,1
-Tobias Gärtner,journals/corr/abs-1006-0551,1
-Tobias Denkinger,journals/corr/abs-1709-01761,1
-Toby St Clere Smithe,journals/corr/abs-2211-01102,1
+Tom Chothia,conf/express/2001,1
 Toby Murray,journals/corr/abs-2108-02369,1
+Toby St Clere Smithe,journals/corr/abs-2211-01102,1
+Tom Chothia,conf/hlcl/2000,1
+Tom Hirschowitz,journals/corr/abs-1108-0144,1
+Toby St Clere Smithe,journals/corr/abs-2101-07888,1
+Toby C. Murray,journals/corr/GlabbeekGH15,1
+Tobias Grubenmann,journals/corr/abs-2109-07914,1
+Tobias Denkinger,journals/corr/abs-1709-01761,1
+Tobias Heindel,journals/corr/abs-1108-0144,1
 Tomás Babiak,journals/corr/abs-0911-3189,1
+Tomohiro Sasano,journals/corr/abs-1802-05862,1
 Tony Bourdier,journals/corr/abs-1001-4573,1
 Tong Zheng 0002,conf/etaps/2002viss,1
-Tomoya Ueyama,journals/corr/abs-1802-05862,1
 Tomas Petricek 0001,journals/corr/KiselyovG15,1
-Tommaso Dreossi,journals/corr/DangP13,1
 Tommy White,journals/corr/abs-1011-0051,1
 Tommaso Toffoli,conf/rc/2009,1
-Thomas W. Reps,conf/tapas2/2013,1
+Tommaso Dreossi,journals/corr/DangP13,1
+Tiziana Cimoli,journals/corr/CarboneLLS13,1
 Thomas T. Hildebrandt,conf/secco/2007,1
 Thomas T. Hildebrandt,conf/express/2007,1
-Tiago Cogumbreiro,journals/corr/abs-2203-12142,1
-Tiago Cogumbreiro,journals/corr/OrchardY16a,1
+Thomas W. Reps,conf/tapas2/2013,1
 Thorsten Engesser,journals/corr/GhoshR17,1
 Thorsten Altenkirch,conf/msfp/2008,1
-Timothy A. S. Davidson,journals/corr/abs-1108-0144,1
+Tiago Cogumbreiro,journals/corr/abs-2203-12142,1
+Tiago Cogumbreiro,journals/corr/OrchardY16a,1
+Timotheos Souroulla,journals/corr/abs-2207-09058,1
 Timm Schäfer,conf/cav/2001smc,1
 Tim Sheard,conf/lfm/2004,1
 Tim Olmer,journals/corr/CaldwellHA14,1
 Timothy Porter 0001,conf/getco/2002,1
-Tijana Sukilovic,journals/corr/abs-2112-14770,1
-Tim A. C. Willemse,journals/corr/abs-1208-2440,1
 Tim Bauer,journals/corr/abs-1109-0323,1
 Tim A. C. Willemse,journals/corr/abs-1303-0379,1
+Tim A. C. Willemse,journals/corr/abs-1208-2440,1
 Tim A. C. Willemse,journals/corr/RubinT16,1
 Tijs van der Storm,journals/corr/abs-1106-5962,1
-Vadim Malvone,journals/corr/LomuscioV16,1
-Valentin Cassano,journals/corr/AguirreR14,1
+Tijana Sukilovic,journals/corr/abs-2112-14770,1
+Uwe Nestmann,conf/express/2003,1
 Vahid Rafe,conf/concur/2007gtvc,1
 Vahid Hashemi,journals/corr/AndreF14,1
-Uwe Nestmann,conf/express/2003,1
+Vadim Malvone,journals/corr/LomuscioV16,1
+Umberto Rivieccio,journals/corr/abs-2204-03415,1
 Ute Schmid,conf/rule/2006,1
-Valentina Castiglioni,journals/corr/WiklickyV17,1
-Vashti Galpin,journals/corr/abs-1207-0559,1
+Vasco T. Vasconcelos,journals/corr/abs-2203-12142,1
 Vasco T. Vasconcelos,journals/corr/abs-2004-01062,1
-Valeria de Paiva,journals/corr/abs-1904-06159,1
+Vashti Galpin,journals/corr/abs-1207-0559,1
 Vanessa Vidali,conf/nsad/2016,1
+Valentin Cassano,journals/corr/AguirreR14,1
+Valentina Castiglioni,journals/corr/WiklickyV17,1
 Valéria Farinazzo Martins,conf/clei/2018s,1
+Valeria de Paiva,journals/corr/abs-1904-06159,1
 Tristan Schäfer,journals/corr/abs-1908-08639,1
-Tuan-Minh Pham,conf/uitp/2010,1
 Twan Laan,conf/icalp/2003mlc,1
 Tunc Aldemir,journals/corr/abs-1804-03406,1
+Tuan-Minh Pham,conf/uitp/2010,1
 Trifon Trifonov,journals/corr/abs-1101-5200,1
-Tran Cao Son,journals/corr/abs-2109-07914,1
+Ulrich W. Kulisch,conf/realcomp/1998,1
+Torsten Schaub,journals/corr/abs-1108-6097,1
 Ugo de'Liguoro,journals/corr/abs-2009-07628,1
 Ugo de'Liguoro,journals/corr/abs-1711-10708,1
 Ugo de'Liguoro,journals/corr/OrchardY16a,1
 Ugo de'Liguoro,journals/corr/Carbone14,1
 Ugo de'Liguoro,conf/itrs/2002,1
-Ulrich Fahrenberg,conf/getco/2002,1
-Ulrich W. Kulisch,conf/realcomp/1998,1
 Ulrich Schöpp,conf/lfmtp/2006,1
 Ulrich Schmid 0001,journals/corr/abs-2106-10886,1
 Ulrich Schmid 0001,journals/corr/abs-1907-08335,1
+Ulrich Meyer 0001,journals/corr/abs-1210-6118,1
+Ulrich Fahrenberg,conf/getco/2002,1
 Ugo Dal Lago,journals/corr/abs-1210-0298,1
-Ugo Dal Lago,journals/corr/abs-1108-4077,1
 Ugo Montanari,conf/fgc/2004,1
 Sung-Shik T. Q. Jongmans,journals/corr/abs-1208-4327,1
-Susanne Graf,journals/corr/abs-1007-4993,1
-Sylvain Lippi,conf/termgraph/2002,1
 Sylvain Conchon,journals/corr/abs-1805-04636,1
-Szabolcs Iván,journals/corr/abs-1909-05979,1
+Sylvain Lippi,conf/termgraph/2002,1
 Sylvia Ilieva,journals/corr/abs-0906-4900,1
+Susanne Graf,journals/corr/abs-1007-4993,1
 Susmit Jha,journals/corr/ChatterjeeEJ14,1
 Sven Schewe,journals/corr/abs-1711-10224,1
 Sven Oliver Krumke,journals/corr/abs-0909-5479,1
 Sven Linker,journals/corr/AutexierQ17,1
-Stephen Gilmore,journals/corr/abs-1208-3151,1
+Stéphane Le Roux 0001,journals/corr/LomuscioV16,1
 Stephen Gilmore,journals/corr/BeekL16,1
 Stephen Dolan,journals/corr/abs-1905-05909,1
 Stephen Adams,journals/corr/abs-1805-04255,1
-Stijn de Gouw,journals/corr/abs-1908-09302,1
 Stian Lasse Lybech,journals/corr/abs-2208-14777,1
-Steve Kremer,conf/secco/2008,1
-Steve Zdancewic,journals/corr/abs-1901-09476,1
 Steven I. Marcus,journals/corr/abs-1709-00049,1
-Steven Gustafson,journals/corr/abs-1909-07646,1
+Stijn de Gouw,journals/corr/abs-1908-09302,1
+Steve Kremer,conf/secco/2008,1
 Steven D. Prestwich,journals/corr/abs-0910-1404,1
+Steve Zdancewic,journals/corr/abs-1901-09476,1
+Szabolcs Iván,journals/corr/abs-1909-05979,1
 Tetsuo Yokoyama,conf/rc/2009,1
-Thao Dang 0001,journals/corr/DangP13,1
-Tayssir Touili,conf/icalp/2001vepas,1
-Sándor Vályi,journals/corr/LoweW14,1
-Thomas D. Nielsen,journals/corr/abs-1212-3454,1
-Thomas Colcombet,conf/infinity/2002,1
-Thomas Bolander,journals/corr/GhoshR17,1
-Thomas Given-Wilson,journals/corr/KnightLLV15,1
-Thomas Bauereiß,journals/corr/KordyMP14,1
-Thomas Anung Basuki,journals/corr/abs-0912-0034,1
 Tassilo Horn,journals/corr/GorpRK13,1
 Tarmo Uustalu,journals/corr/abs-2206-09534,1
-T. S. E. Maibaum,conf/lics/2009laft,1
 Tarmo Uustalu,journals/corr/abs-1202-3174,1
+Tayssir Touili,conf/icalp/2001vepas,1
+Tejas Kulkarni,journals/corr/Censor-HillelK13,1
+Thomas D. Nielsen,journals/corr/abs-1212-3454,1
+Thomas Colcombet,conf/infinity/2002,1
+Thomas Beyhl,journals/corr/HeussnerKW16,1
+Thomas Bauereiß,journals/corr/KordyMP14,1
+Thomas Given-Wilson,journals/corr/KnightLLV15,1
+Thomas Anung Basuki,journals/corr/abs-0912-0034,1
+Tarmo Uustalu,journals/corr/YoshidaV13,1
+T. S. E. Maibaum,conf/lics/2009laft,1
 Tahiry M. Rabehaja,journals/corr/BortolussiW13,1
 Sébastien Cyr,journals/corr/abs-2002-11895,1
+Sándor Vályi,journals/corr/LoweW14,1
 Sönke Holthusen,journals/corr/AcetoFI16,1
+Sólrún Halla Einarsdóttir,journals/corr/abs-1906-10757,1
+Tamás Tóth,journals/corr/KofronT17,1
 Takahiro Kubota,journals/corr/CoeckeHP14,1
+Takumi Akazaki,journals/corr/abs-1709-02126,1
 Ying Hu 0003,conf/cocv/2005,1
 Yiorgos Stavrinos,journals/corr/abs-1101-4104,1
 Yingfu Zeng,journals/corr/AbrahamB17,1
-Yi Xiao,journals/corr/abs-1909-05242,1
 Yifei Bao,journals/corr/abs-1011-0051,1
 Yi-Hsun Wang,journals/corr/abs-1009-3306,1
-Yliès Falcone,journals/corr/abs-2109-07798,1
-Yoshinobu Kawabe,conf/arts/2004,1
+Yi Xiao,journals/corr/abs-1909-05242,1
+Yoshihiro Kumazawa,journals/corr/abs-1709-02126,1
 Yoshihiko Kakutani,journals/corr/deLiguoroS13,1
-Yoshihiko Kakutani,journals/corr/CoeckeHP14,1
 Yoshiaki Kanazawa,journals/corr/abs-1902-07818,1
 Yoriyuki Yamagata,journals/corr/PangL14,1
-Youssouf Oualhadj,journals/corr/LomuscioV16,1
-Yolanda García-Ruiz,conf/prole/2011,1
+Young-Joo Moon 0001,journals/corr/abs-1007-4993,1
+Yoshinobu Kawabe,conf/arts/2004,1
 Yongjian Li,conf/fgc/2004,1
+Yliès Falcone,journals/corr/abs-2109-07798,1
+Yolanda García-Ruiz,conf/prole/2011,1
+Yde Venema,journals/corr/abs-2109-07798,1
+Xue Ying,journals/corr/abs-2008-08923,1
 Xueguang Wu,conf/nsad/2014,1
 Yaron Velner,journals/corr/PeronP14,1
-Yassine Lakhnech,conf/icalp/2001vepas,1
-Yasuhiko Minamide,conf/hoots/2000,1
-Yde Venema,journals/corr/abs-2109-07798,1
-Yasuhiro Nakano,journals/corr/Maneth13,1
 Yannick Chevalier,journals/corr/abs-2109-02501,1
+Yasuhiro Nakano,journals/corr/Maneth13,1
+Yasuhiko Minamide,conf/hoots/2000,1
+Yassine Lakhnech,conf/icalp/2001vepas,1
 Yanjing Wang 0001,journals/corr/abs-2106-10886,1
 Zhun Yang,journals/corr/abs-2009-09158,1
 Zhaozhong Ni,conf/merlin/2001,1
 Zheng Wang 0005,journals/corr/abs-1212-6574,1
+Álvaro Tasistro,journals/corr/abs-1807-01352,1
+Özer Özkahraman,journals/corr/abs-2207-09058,1
 Étienne Prun,journals/corr/DuboisMM17,1
 Étienne Lozes,journals/corr/abs-2109-14908,1
 Étienne Lozes,journals/corr/abs-1212-3458,1
 Étienne Lozes,journals/corr/MatthesM15,1
 Étienne André,journals/corr/abs-1010-6112,1
 Zoran Petric,conf/icalp/2001both,1
-Zoltán Ésik,journals/corr/abs-1708-06226,1
+Ákos Hajdu,journals/corr/KofronT17,1
 Zsolt Németh,journals/corr/abs-0912-3036,1
+Zbynek Krivka,journals/corr/abs-2208-13015,1
 Yuki Ishii,journals/corr/CaldwellHA14,1
 Yuanlin Zhang 0002,journals/corr/abs-2208-02685,1
 Yue Li 0021,journals/corr/abs-1809-04554,1
@@ -2004,42 +2119,48 @@ Yue Li 0021,journals/corr/abs-1709-04199,1
 Zach Hansen,journals/corr/abs-2208-02685,1
 Zach Bray,journals/corr/KiselyovG15,1
 Yuya Maeda,journals/corr/abs-1902-07818,1
-Vladimir Zamdzhiev,journals/corr/abs-2101-07888,1
-Vojtech Rehák,journals/corr/abs-0911-3189,1
-Vojtech Havlena,journals/corr/BoudaHKSR16,1
+Xiaoning Bian,journals/corr/abs-2109-04886,1
 Vladimiro Sassone,journals/corr/abs-1107-5847,1
 Vivek Nigam,conf/imla/2013,1
+Vojtech Havlena,journals/corr/BoudaHKSR16,1
+Walter Fontana,journals/corr/MunozP16,1
 Walid Taha,journals/corr/AbrahamB17,1
-Walther Neuper,journals/corr/abs-1903-12402,1
-Walter Vogler,conf/mtcs/2002,1
-Walter Vogler,conf/mtcs/2001,1
+Walid Belkhir,journals/corr/abs-1204-5318,1
+Víctor A. Braberman,conf/mtcs/2001,1
 Victor L. Winter,journals/corr/JeuringM16,1
 Viet Dung Dinh,journals/corr/abs-1010-5308,1
 Vincenzo Arceri,journals/corr/abs-2109-02001,1
 Vincent van Oostrom,journals/corr/MiddeldorpR15,1
-Vincent David,journals/corr/abs-1007-0831,1
 Vincent Hugot,journals/corr/PeronP14,1
+Vincent David,journals/corr/abs-1007-0831,1
+Wolf Zimmermann,conf/cocv/2005,1
 Wolfgang Küchlin,journals/corr/abs-1007-0831,1
-Wolfram Amme,conf/cocv/2005,1
+Wolfgang Schreiner,journals/corr/abs-1202-4535,1
+William R. Cook,journals/corr/abs-1109-0323,1
+Wojciech Czerwinski,journals/corr/abs-1208-2440,1
+Wim Vanhoof,journals/corr/YoshidaV13,1
+Wolfgang Schreiner,journals/corr/abs-2109-02501,1
+Xiang Fu,journals/corr/abs-1009-3306,1
+Woodrow Gamboa,journals/corr/abs-2205-11103,1
+Woodrow Gamboa,journals/corr/abs-2009-12521,1
 Wolfgang Windsteiger,journals/corr/KaliszykL13,1
 Wolfgang Thomas,journals/corr/BrihayeDJMS16,1
 Wolfgang Thomas,conf/tphol/2007veras,1
-Wolfgang Schreiner,journals/corr/abs-2109-02501,1
-Wim Vanhoof,journals/corr/YoshidaV13,1
-Xiaoning Bian,journals/corr/abs-2109-04886,1
-Xiang Fu,journals/corr/abs-1009-3306,1
+Wendelin Serwe,journals/corr/abs-2111-07538,1
 Wendelin Serwe,journals/corr/abs-2004-12403,1
-Wanli Xing,journals/corr/abs-2208-02685,1
+Walther Neuper,journals/corr/abs-2010-15832,1
+Walther Neuper,journals/corr/abs-1903-12402,1
+Walter Vogler,conf/mtcs/2002,1
 Wang Yi 0001,journals/corr/BjornerFRS14,1
-Wesley H. Holliday,journals/corr/abs-1907-08335,1
-Werner Damm,journals/corr/abs-1910-13641,1
-Will Simmons,journals/corr/abs-2004-14750,1
+Wanli Xing,journals/corr/abs-2208-02685,1
 Willem Hagemann,journals/corr/abs-2110-11527,1
-Riccardo Traverso,journals/corr/BosnackiELW14,1
+Willem Hagemann,journals/corr/abs-1910-13641,1
+Will Simmons,journals/corr/abs-2004-14750,1
+Steffen van Bakel,journals/corr/Oliva14,1
 Richard Buckland,conf/concur/2002cmcim,1
-Ricardo Manuel de Oliveira Almeida,journals/corr/BoudaHKSR16,1
-Ricardo G. Sanfelice,journals/corr/DangP13,1
 Ricardo Peña,journals/corr/Villanueva17,1
+Ricardo Manuel de Oliveira Almeida,journals/corr/BoudaHKSR16,1
+Riccardo Traverso,journals/corr/BosnackiELW14,1
 Rishabh Singh,journals/corr/PiskacD16,1
 Rishabh Singh,journals/corr/CernyKM16,1
 Rob Sumners,journals/corr/abs-2009-12521,1
@@ -2047,332 +2168,309 @@ Richard Mayr,journals/corr/abs-1302-3105,1
 Richard Whyman,journals/corr/abs-1807-10563,1
 Raymond R. Devillers,journals/corr/abs-1010-6112,1
 Raymond R. Devillers,journals/corr/PangLM15,1
-René Vestergaard,conf/merlin/2001,1
 René Rydhof Hansen,conf/secco/2008,1
-Renata Luiza Stange,conf/clei/2018s,1
+René Vestergaard,conf/merlin/2001,1
 Reinhard Kahle,journals/corr/abs-1101-5200,1
 Reiner Hähnle,journals/corr/abs-1908-09302,1
 Reiko Heckel,journals/corr/abs-1712-08345,1
 Reiko Heckel,journals/corr/abs-1003-5758,1
-Roderick Bloem,journals/corr/abs-1711-10224,1
+Renata Luiza Stange,conf/clei/2018s,1
 Rodrigo Machado,journals/corr/abs-1003-5758,1
-Robin Donaldson,journals/corr/abs-1002-4919,1
-Ronnie Hermens,journals/corr/DuncanP14,1
+Robin Piedeleu,journals/corr/KartsaklisLR16,1
+Roderick Bloem,journals/corr/abs-1711-10224,1
 Rong Qu,journals/corr/abs-0910-1404,1
-Romain Demeyer,journals/corr/YoshidaV13,1
+Ronnie Hermens,journals/corr/DuncanP14,1
+Rolf Drechsler,conf/rc/2009,1
+Roland Kaminski,journals/corr/abs-1108-6097,1
+Rom Langerak,journals/corr/AndreF14,1
 Rom Langerak,conf/express/1999,1
 Roly Perera,conf/etaps/2007finco,1
-Rolf Drechsler,conf/rc/2009,1
+Robert Rand 0001,journals/corr/abs-2109-01534,1
+Robert Rand 0001,journals/corr/abs-1901-09476,1
 Robert Harper 0001,journals/corr/abs-1009-2189,1
 Robert Glück,journals/corr/abs-1803-08668,1
-Robert Rand 0001,journals/corr/abs-1901-09476,1
+Robert Furber,journals/corr/abs-2004-14750,1
 Roberto M. Amadio,conf/express/2007,1
-Robert Rand 0001,journals/corr/abs-2109-01534,1
 Roberto Blanco,journals/corr/CervesatoS15,1
 Pietro Sala,journals/corr/PeronP14,1
 Pietro Sala,journals/corr/abs-1709-01761,1
-Pras Pathmanathan,journals/corr/abs-1208-3151,1
 Prodromos Gerakios,journals/corr/abs-1110-3853,1
-Prakash Panangaden,conf/secco/2008,1
-Poom Pianpak,journals/corr/abs-2109-07914,1
+Prabhakar Ragde,journals/corr/JeuringM16,1
 Prabhakar Ragde,journals/corr/abs-1301-4650,1
-Philippe Gaucher,conf/getco/2001,1
+Prakash Panangaden,conf/secco/2008,1
 Philippe Codognet,journals/corr/abs-0910-1404,1
+Philippe Gaucher,conf/getco/2001,1
 Phil Trinder,conf/etaps/2016rac,1
 Philipp Rümmer,journals/corr/abs-2109-03988,1
-Philipp Haller,journals/corr/VasconcelosH17,1
 Philipp Haller,journals/corr/GayA16,1
-Pierpaolo Degano,journals/corr/abs-1711-10708,1
 Pierre Halmagrand,journals/corr/KaliszykP15,1
+Pierre Schaus,journals/corr/PangLM15,1
+Pierpaolo Degano,journals/corr/abs-1711-10708,1
 Piero A. Bonatti,journals/corr/MogaveroMV14,1
 Ralf Huuck,journals/corr/abs-1212-6574,1
+Rafia Inam,journals/corr/abs-2207-09058,1
 Rajeev Alur,journals/corr/CernyKM16,1
 Ran Ettinger,journals/corr/abs-2108-02369,1
-Rance Cleaveland,journals/corr/abs-1709-00049,1
+Ramyaa Ramyaa,journals/corr/abs-1201-0345,1
 Ranald Clouston,journals/corr/abs-1110-6685,1
-Ralph Matthes,journals/corr/Oliva14,1
+Rance Cleaveland,journals/corr/abs-1709-00049,1
+Quentin Cappart,journals/corr/PangLM15,1
 Pál Dömösi,journals/corr/abs-2208-13015,1
 Rafael C. Cardoso 0001,journals/corr/abs-2110-11527,1
 Rafael Wisniewski,journals/corr/BujorianuW15,1
 Rafael V. Carvalho,journals/corr/abs-0912-0034,1
+Radu Mateescu 0001,journals/corr/abs-2111-07538,1
+Radu Mateescu 0001,journals/corr/abs-1803-08668,1
 Radu Grosu,journals/corr/BortolussiBP13,1
 Shuying Liang,conf/tapas2/2013,1
 Shunsuke Kimura 0002,journals/corr/abs-2004-01062,1
-Shmuel S. Tyszberowicz,journals/corr/abs-2108-02369,1
 Siert Wieringa,journals/corr/abs-0912-3036,1
-Simon Dobson,journals/corr/YoshidaV13,1
+Sidney Amani,journals/corr/GlabbeekGH15,1
 Simon Cruanes,journals/corr/abs-1712-00898,1
 Simon Cruanes,journals/corr/BlanchetteK16,1
 Simon Bliudze,journals/corr/abs-0912-0759,1
-Simon Bliudze,journals/corr/CarboneLLS13,1
 Simon Oberthür,conf/tphol/2007veras,1
-Silvia Bonfanti,journals/corr/abs-2111-07538,1
-Silas Dilkes,journals/corr/abs-2004-14750,1
-Silvio Ghilardi,journals/corr/BersaniBFM14,1
+Silvia Lizeth Tapia Tarifa,journals/corr/BehjatiE16,1
 Shane Mansfield,journals/corr/abs-1210-0298,1
 Shahar Maoz,journals/corr/abs-1711-10224,1
 Shibdas Roy,journals/corr/abs-1103-2268,1
-Shilpi Goel,journals/corr/abs-1810-03762,1
 Sharjeel Khan,journals/corr/abs-1904-06159,1
-Sheila R. M. Veloso,journals/corr/abs-1203-5423,1
 Simon Parsons,conf/getco/2001,1
 Stefan Leue,journals/corr/GosslerS16,1
 Srinath Srinivasa,conf/etaps/2007finco,1
 Stefan Schupp,journals/corr/abs-2207-04391,1
 Stefanie Hilt,journals/corr/abs-1006-1937,1
-Siv Hilde Houmb,journals/corr/KordyMP14,1
 Simone Tini,journals/corr/WiklickyV17,1
 Sjaak Smetsers,journals/corr/abs-1108-2796,1
+Simona Nica,journals/corr/abs-1207-1841,1
 Simon Rehwald,journals/corr/abs-1710-02770,1
-Simon Perdrix,journals/corr/abs-1207-6821,1
 Simon Perdrix,journals/corr/CoeckeH14,1
 Simona Ronchi Della Rocca,journals/corr/abs-1101-4104,1
-Sophie Siebert,journals/corr/abs-1912-11786,1
 Sophie Quinton,journals/corr/AcetoFI16,1
+Sophie Siebert,journals/corr/abs-1912-11786,1
 Sol Swords,journals/corr/abs-1304-7123,1
+Sol Swords,journals/corr/abs-1110-4473,1
+Somsak Vanit-Anunchai,journals/corr/LinP14,1
 Sabine Glesner,journals/corr/abs-1302-4780,1
-Rüdiger Ehlers,journals/corr/abs-1207-0554,1
 S. S. Bindumadhava,journals/corr/LinP14,1
 Sam Sanders,journals/corr/KohlenbachBB16,1
+Salvador Tamarit,journals/corr/Escobar15,1
 Ruben Gamboa,journals/corr/abs-1110-4473,1
 Ruben Gamboa,journals/corr/KaufmannR15,1
-Rudolf Freund,journals/corr/NearyC13,1
-Ross Duncan,journals/corr/CoeckeH14,1
+Ross Duncan,journals/corr/abs-1901-09476,1
 Ross Horne,journals/corr/abs-1107-5847,1
+Ross Duncan,journals/corr/CoeckeH14,1
 Rui Soares Barbosa,journals/corr/abs-1210-0298,1
-Scott N. Walck,journals/corr/JeuringM16,1
-Sebastian Bab,journals/corr/abs-1204-5796,1
+Rüdiger Ehlers,journals/corr/abs-1207-0554,1
 Sebastian Böhne,journals/corr/abs-1803-00722,1
-Sergio Mera,journals/corr/abs-1109-2399,1
+Sebastian Bab,journals/corr/abs-1204-5796,1
+Scott N. Walck,journals/corr/JeuringM16,1
 Sergio Giro,journals/corr/abs-1207-0559,1
+Sergio Mera,journals/corr/abs-1109-2399,1
 Sebastian Xambó,journals/corr/abs-1202-4535,1
-Serge Autexier,journals/corr/abs-1202-4535,1
-Sandra Alves,journals/corr/Rehof15,1
 Sandip Ray,journals/corr/VerbeekS14,1
+Samson Abramsky,journals/corr/HeunenSV15,1
 Samuel Mimram,journals/corr/MiddeldorpR15,1
 Saroosh Shabbir,journals/corr/abs-1006-1937,1
-Sarai Sheinvald,journals/corr/abs-2209-09333,1
 Sanjiva Prasad,journals/corr/VasconcelosH17,1
 Sanjit A. Seshia,journals/corr/ChatterjeeEJ14,1
-Corina Cîrstea,journals/corr/abs-1909-05979,1
 Clemens Thielen,journals/corr/abs-0909-5479,1
-Clemens Grabmayer,journals/corr/MiddeldorpR15,1
 Clément Aubert,journals/corr/abs-1201-0345,1
+Clément Houtmann,journals/corr/abs-1101-5200,1
 Cole Comfort,journals/corr/abs-2109-01534,1
 Cosimo Laneve,journals/corr/abs-1908-09302,1
-Corrado Priami,journals/corr/abs-1002-4919,1
-Cindy Corritore,journals/corr/JeuringM16,1
 Cinzia Di Giusto,journals/corr/abs-2109-14908,1
-Christos Grompanopoulos,journals/corr/abs-1806-09330,1
-Christopher M. Poskitt,journals/corr/RensinkZ15,1
+Clemens Grabmayer,journals/corr/MiddeldorpR15,1
 Claudio Corrodi,journals/corr/RensinkZ15,1
-Claudia Schon,journals/corr/abs-1912-11786,1
+Daniel Marsden,journals/corr/KartsaklisLR16,1
 Daniel Marsden,journals/corr/CoeckeH14,1
 Daniel J. Dougherty,journals/corr/abs-1001-4573,1
 Daniel Gorín,journals/corr/abs-1109-2399,1
-Daniel Gebler,journals/corr/CrafaG15,1
 Daniel Leivant,conf/lfmtp/2008,1
+Daniele Ramazzotti,journals/corr/GraudenziCMA13,1
 Daniela Moldovan,journals/corr/abs-1207-0554,1
 Daniele Gorla,journals/corr/abs-1908-08213,1
+Daniel Gebler,journals/corr/CrafaG15,1
 Dale Miller 0001,journals/corr/CervesatoS15,1
 Dale Miller 0001,conf/lfmtp/2008,1
 Daisuke Kimura,journals/corr/deLiguoroS13,1
-Damien Zufferey,journals/corr/abs-2209-09333,1
 Daniel El Ouraoui,journals/corr/abs-1712-00898,1
 Dan Marsden,journals/corr/abs-1811-02701,1
 Dana Fisman,journals/corr/CernyKM16,1
+Christopher M. Poskitt,journals/corr/RensinkZ15,1
+Carsten Schürmann,conf/lfmtp/2008,1
 Carst Tankink,journals/corr/BenzmullerP14,1
 Carlos Gustavo López Pombo,journals/corr/GayA16,1
-Carsten Schürmann,conf/lfmtp/2008,1
 Cesare Tinelli,journals/corr/BlanchetteK16,1
-Burak Ekici,journals/corr/BlanchetteK16,1
-Christian Colombo 0001,journals/corr/abs-1708-06889,1
+Chantal Keller,journals/corr/BlanchetteK16,1
+Caleb Eggensperger,journals/corr/abs-1304-7123,1
+Christian Krause 0001,journals/corr/abs-1111-2678,1
+Christian Krause 0001,journals/corr/abs-1007-4993,1
 Christian Sandmann,journals/corr/abs-2012-01181,1
 Christian Retoré,journals/corr/abs-2112-14305,1
+Christian Colombo 0001,journals/corr/abs-1708-06889,1
 Christophe Ponchel,journals/corr/Garcia-AlfaroG14,1
+Christophe Morvan,journals/corr/abs-0911-3440,1
 Christoph Kreitz,journals/corr/abs-1803-00722,1
 Chiara Bodei,journals/corr/abs-1010-5308,1
-Ching-Hao Mao,journals/corr/abs-1009-3306,1
-Eleftherios Matsikoudis,journals/corr/BaeldeC13,1
-Elena Troubitsyna,journals/corr/abs-1805-04636,1
 Ekaterina Komendantskaya,journals/corr/abs-1809-04554,1
 Ekaterina Komendantskaya,journals/corr/abs-1709-04199,1
-Elvinia Riccobene,journals/corr/abs-2111-07538,1
+Elena Troubitsyna,journals/corr/abs-1805-04636,1
+Eleftherios Matsikoudis,journals/corr/BaeldeC13,1
+Einar Broch Johnsen,journals/corr/BehjatiE16,1
+Eduardo Zambon,journals/corr/abs-1210-6118,1
 Edward A. Lee,journals/corr/BaeldeC13,1
 Edmund Chattoe-Brown,journals/corr/abs-1712-08345,1
-Eduard Baranov,journals/corr/CarboneLLS13,1
+Ernesto Copello,journals/corr/abs-1807-01352,1
 Erika Ábrahám,journals/corr/abs-2207-04391,1
+Erik P. de Vink,journals/corr/abs-1107-5847,1
 Erik P. de Vink,journals/corr/RubinT16,1
 Erik P. de Vink,journals/corr/BertrandT15,1
 Emilio Tuosto,journals/corr/abs-2009-07628,1
 Emilio Tuosto,journals/corr/abs-1909-05242,1
-Enea Zaffanella,conf/nsad/2017,1
 Emilio Tuosto,journals/corr/GayA16,1
-Emanuele De Angelis,journals/corr/abs-2211-10675,1
+Enea Zaffanella,conf/nsad/2017,1
 Emanuele De Angelis,journals/corr/GallagherR16,1
+Emanuele De Angelis,journals/corr/abs-2211-10675,1
 Enrico Tassi,journals/corr/abs-1103-3111,1
+David S. Hardin,journals/corr/KaufmannR15,1
 David R. Cok,journals/corr/DuboisGM14,1
 David Quick,journals/corr/HeunenSV15,1
-David S. Hardin,journals/corr/KaufmannR15,1
 Deepak Kapur,journals/corr/abs-1012-4554,1
-David Déharbe,journals/corr/DuboisMM17,1
+Davide Ancona,journals/corr/abs-1006-1711,1
 David Declerck,journals/corr/abs-1805-04636,1
 Dave Clarke 0001,journals/corr/abs-0912-0759,1
+Daumantas Pagojus,journals/corr/abs-2110-11527,1
+David Déharbe,journals/corr/DuboisMM17,1
+David Insa,journals/corr/Escobar15,1
 Disha Puri,journals/corr/VerbeekS14,1
-Dominic Duggan,journals/corr/TribastoneW16,1
-Dong-Ho Lee,journals/corr/abs-1901-09476,1
-Doug Bruce,journals/corr/abs-1208-3151,1
+Diogo Poças,journals/corr/abs-2203-12142,1
 Don Syme,journals/corr/KiselyovG15,1
-Dennis Liew,journals/corr/abs-2203-12142,1
+Dominic Horsman,journals/corr/HeunenSV15,1
+Dominic Duggan,journals/corr/TribastoneW16,1
 Detlef Plump,journals/corr/abs-2212-10975,1
 Detlef Plump,journals/corr/abs-2012-01181,1
 Ali Hanzala Khan,journals/corr/abs-1210-5783,1
+Amjad Ibrahim,journals/corr/abs-1710-02770,1
 Aloïs Brunel,journals/corr/abs-1005-0653,1
 Amar Hadzihasanovic,journals/corr/DuncanH17,1
-Alexander Pretschner,journals/corr/abs-1710-02770,1
 Alexander Wilce,journals/corr/DuncanH17,1
 Alexei P. Lisitsa,journals/corr/abs-1708-06887,1
 Alexis Toumi,journals/corr/abs-1811-02701,1
 Alexandre Petrenko,journals/corr/SchlingloffP14,1
+Andreas Bollin,journals/corr/abs-1207-1841,1
+Andreas Beckmann,journals/corr/abs-1210-6118,1
 Andreas Abel 0001,journals/corr/abs-1202-3174,1
 Andreas Abel 0001,journals/corr/abs-1110-6685,1
-Andreas Bollin,journals/corr/abs-1207-1841,1
-Andrea G. Citrolo,journals/corr/GraudenziCMA13,1
-Andrea Maggiolo-Schettini,journals/corr/GraudenziCMA13,1
 Andres Löh,journals/corr/abs-1202-2407,1
 Andreia Mordido,journals/corr/abs-2004-01062,1
 Andrei P. Nemytykh,journals/corr/abs-1708-06887,1
 Andrei Alexandru,journals/corr/abs-1909-00584,1
 Andrea Asperti,journals/corr/abs-1103-3111,1
-Anastasia Mavridou,journals/corr/abs-1806-09330,1
 Anders Schlichtkrull,journals/corr/abs-1803-00722,1
 Adrian Francalanza,journals/corr/CamaraP15,1
 Adrian Francalanza,journals/corr/BeekL15,1
 Adolfo Piperno,journals/corr/abs-1908-08213,1
 Adenilso da Silva Simão,journals/corr/SchlingloffP14,1
-Adama Diene,journals/corr/abs-2208-13015,1
 Aaron Lye,journals/corr/abs-2012-01181,1
 Aaron Lye,journals/corr/abs-1912-08966,1
-Aarti Gupta,journals/corr/LinP14,1
 Aarthi Sundaram,journals/corr/abs-2109-01534,1
 Abdollah Tabareh,journals/corr/abs-1207-1841,1
 Alejandro Mario Hernandez,journals/corr/abs-1010-5308,1
 Aleks Kissinger,journals/corr/abs-1103-2268,1
+Alex Potanin,journals/corr/abs-1908-06723,1
 Alex Merry,journals/corr/abs-1103-2268,1
-Alessandro Coglio,journals/corr/abs-2009-12521,1
-Alan Fern,journals/corr/abs-1109-0323,1
+Alain Giorgetti,journals/corr/abs-1204-5318,1
 Alberto Pettorossi,journals/corr/GallagherR16,1
-Alberto Verdejo,journals/corr/abs-1204-5318,1
-Bernard van Gastel,journals/corr/BonfanteM17,1
+Andrew Fish,journals/corr/HeussnerKW16,1
 Bartek Klin,journals/corr/AtkeyK16,1
-Bernard P. Serpette,journals/corr/abs-1208-2440,1
-Benjamin Musto,journals/corr/DuncanH17,1
+Benjamin Bisping,journals/corr/abs-2108-09624,1
 Beniamino Accattoli,journals/corr/abs-1302-5997,1
+Benjamin Musto,journals/corr/DuncanH17,1
 Axel Legay,journals/corr/KnightLLV15,1
 Axel Jantsch,conf/tphol/2007veras,1
-Bernard van Gastel,journals/corr/abs-1304-7123,1
+Bernard van Gastel,journals/corr/BonfanteM17,1
 Bob Coecke,journals/corr/abs-1811-02701,1
-Bob Coecke,journals/corr/CoeckeHP14,1
 Brian Courtehoute,journals/corr/abs-2212-10975,1
-Bianca Truthe,journals/corr/abs-2208-13015,1
-Anna Ingólfsdóttir,journals/corr/abs-1002-2978,1
-Annabelle McIver,journals/corr/BortolussiW13,1
 Anna Vasileva,journals/corr/abs-1912-09611,1
+Anna Ingólfsdóttir,journals/corr/abs-1002-2978,1
 Anna Vasileva,journals/corr/abs-1908-08639,1
+Annabelle McIver,journals/corr/BortolussiW13,1
 Antoine Allioux,journals/corr/CervesatoF17,1
-Ansgar Fehnker,journals/corr/GlabbeekGH15,1
-Andrew Fish,journals/corr/HeussnerKW16,1
-Angelo Ferrando 0001,journals/corr/abs-2110-11527,1
 Anton Salikhmetov,journals/corr/CorradiniZ16,1
-Asta Halkjær From,journals/corr/abs-2204-03415,1
 Asta Halkjær From,journals/corr/abs-2010-15832,1
-Artur Rataj,journals/corr/PangLM15,1
-Antonios Gouglidis,journals/corr/abs-1806-09330,1
+Antonin Delpeuch,journals/corr/abs-2009-06334,1
 Arend Rensink,journals/corr/BosnackiELW14,1
 António Ravara,journals/corr/BeekL15,1
-Jesús Manuel Almendros-Jiménez,journals/corr/Escobar15,1
-Jetty Kleijn,journals/corr/abs-1211-3476,1
-Jean-Yves Didier,journals/corr/PangLM15,1
+Jelle Herold,journals/corr/abs-2112-10217,1
 Jeremy Yallop,journals/corr/abs-1905-05909,1
 Jeremy Gibbons,journals/corr/Danvyd16,1
 John Leth,journals/corr/BujorianuW15,1
 John Fearnley,journals/corr/abs-1006-1711,1
 John T. O'Donnell,journals/corr/abs-1301-4650,1
-John P. Gallagher,journals/corr/abs-1908-06723,1
 John S. Fitzgerald,journals/corr/abs-1001-5310,1
+John Witulski,journals/corr/DuboisGM14,1
+John P. Gallagher,journals/corr/abs-1908-06723,1
 John R. Cowles,journals/corr/KaufmannR15,1
 Jakob Gulddahl Rasmussen,journals/corr/BujorianuW15,1
-Jan Frederik Schaefer,journals/corr/abs-1910-08712,1
 Jacob Lidman,conf/nsad/2017,1
-Jan Bessai,journals/corr/abs-1912-09611,1
+Jacob Beal,journals/corr/BeekL16,1
 James Laird,journals/corr/deLiguoroS13,1
 James Ferlez,journals/corr/abs-1709-00049,1
-J. Christian Attiogbé,journals/corr/abs-1010-2337,1
-Ivan Porres,journals/corr/abs-1210-5783,1
 Ivano Salvo,journals/corr/abs-1908-08213,1
-Jacob Beal,journals/corr/BeekL16,1
-Jaco van de Pol,journals/corr/GlabbeekGH15,1
-Jean-Michel Hufflen,journals/corr/KofronT17,1
-Jean-Francois Kempf,journals/corr/BertrandB14,1
+Ivan Porres,journals/corr/abs-1210-5783,1
 Jan Olaf Blech,journals/corr/abs-2001-06163,1
-Jan Krcál,journals/corr/AndreF14,1
-Kazushige Terui,journals/corr/abs-1005-0653,1
-Kentaro Honda,journals/corr/HeunenSV15,1
-Karl Gmeiner,journals/corr/CirsteaE17,1
+Jan Frederik Schaefer,journals/corr/abs-1910-08712,1
+Jan Bessai,journals/corr/abs-1912-09611,1
+Jari Stenman,journals/corr/HolikC14,1
 Kaustuv Chaudhuri,journals/corr/AlvesC15,1
+Kazushige Terui,journals/corr/abs-1005-0653,1
+Karl Gmeiner,journals/corr/CirsteaE17,1
+Ka I Pun,journals/corr/BehjatiE16,1
 Karoliina Lehtinen,journals/corr/MatthesM15,1
 Krysia Broda,journals/corr/abs-1903-12402,1
 Konstantinos Sagonas,journals/corr/abs-1110-3853,1
 Kirstin Peters,journals/corr/abs-2208-14777,1
-Josua Botha,journals/corr/abs-2209-09208,1
 Joshua D. Guttman,journals/corr/abs-1002-1408,1
+Josua Botha,journals/corr/abs-2209-09208,1
 José Pedro Magalhães,journals/corr/abs-1202-2407,1
-Jørgen Villadsen,journals/corr/abs-2204-03415,1
-Jørgen Villadsen,journals/corr/abs-2010-15832,1
+Julien Signoles,journals/corr/DuboisMM15,1
 Jules Villard,journals/corr/abs-1212-3458,1
-Juan C. Cubero,journals/corr/Escobar15,1
-Julien Schmaltz,journals/corr/abs-1110-4473,1
-Julien Lange,journals/corr/abs-2203-12142,1
 Gabriel Ciobanu,journals/corr/abs-1909-00584,1
 Geoff W. Hamilton,journals/corr/abs-1708-06887,1
-Frederik Krogsdal Jacobsen,journals/corr/abs-2204-03415,1
-Frieder Stolzenburg,journals/corr/abs-1912-11786,1
-Fredrik Sommar,journals/corr/VasconcelosH17,1
-François Thiré,journals/corr/abs-1807-01352,1
+Franz Siglmüller,journals/corr/abs-1908-04478,1
 Giselle Reis,journals/corr/abs-2107-07376,1
 Giorgio Delzanno,journals/corr/BosnackiELW14,1
-Giovanna D'Agostino,journals/corr/abs-1006-1711,1
 Gergö Barany,journals/corr/HamiltonLN16,1
 Georgiana Caltais,journals/corr/GosslerS16,1
 Gerjan Stokkink,journals/corr/abs-1202-5826,1
 Fatima-Zahra Siyouri,journals/corr/abs-2004-01061,1
 Fatima El Azzouzi,journals/corr/abs-2004-01061,1
 Ferenc A. Bartha,journals/corr/AbrahamB17,1
-Evgeny Makarov,journals/corr/abs-1201-0345,1
 Fadil Kallat,journals/corr/abs-1908-08639,1
-Fernando Schapachnik,journals/corr/abs-1109-2399,1
+Fabrizio Genovese,journals/corr/abs-2112-10217,1
 Franco Barbanera,journals/corr/Carbone14,1
 Francesco Tiezzi 0001,journals/corr/DonaldsonV14,1
 Frank Roumen,journals/corr/DuncanP14,1
 Frank Dordowsky,journals/corr/DuboisMM15,1
 Fernando Sáenz-Pérez,journals/corr/Navarro15,1
-Francesco Parisi-Presicce,journals/corr/HeussnerKW16,1
+Fernando Schapachnik,journals/corr/abs-1109-2399,1
 Horatiu Cirstea,journals/corr/abs-1001-4573,1
-Hernán C. Melgratti,journals/corr/abs-2009-07628,1
-Hervé Debar,journals/corr/Garcia-AlfaroG14,1
-Imene Ben Hafaiedh,journals/corr/abs-1007-4993,1
-Irum Rauf,journals/corr/abs-1210-5783,1
-Isabel Oitavem,journals/corr/abs-1101-5200,1
-Isabella Mastroeni,journals/corr/abs-2109-02001,1
-Ian Stark,conf/hlcl/2000,1
-Igor Mozolevsky,journals/corr/abs-1001-5310,1
+Holger Giese,journals/corr/abs-1111-2678,1
 Helena Gruhn,journals/corr/abs-1302-4780,1
+Herbert Wiklicky,journals/corr/ChatterjeeEJ14,1
+Hermann Kopetz,journals/corr/LarsenLN13,1
+Hervé Debar,journals/corr/Garcia-AlfaroG14,1
+Hernán C. Melgratti,journals/corr/abs-2009-07628,1
+Isabella Mastroeni,journals/corr/abs-2109-02001,1
+Irum Rauf,journals/corr/abs-1210-5783,1
+Igor Mozolevsky,journals/corr/abs-1001-5310,1
+Ian Stark,conf/hlcl/2000,1
 Gustavo Gonzalez Granadillo,journals/corr/Garcia-AlfaroG14,1
+Goetz Botterweck,journals/corr/LarsenLN13,1
 Grigory Fedyukovich,journals/corr/abs-2109-03988,1
 Graham Campbell 0001,journals/corr/abs-2102-01804,1
 Hari Govind V. K.,journals/corr/abs-2211-10675,1
 Hans-Jörg Schurr,journals/corr/abs-2107-01544,1
-Hans Zantema,journals/corr/abs-1204-5318,1
-Hassan Hatefi,journals/corr/AndreF14,1
+Hayo Thielecke,journals/corr/Danvyd16,1
 Han Chen,journals/corr/abs-0910-4420,1
-Hammadi Khairallah,journals/corr/abs-1007-4993,1
